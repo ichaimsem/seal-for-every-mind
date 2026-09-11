@@ -1,0 +1,29 @@
+Seal for Every Mind Made by Humans: hash manifest
+
+Sealed blocks (from the first character of the title through "The seal does.", UTF-8, no trailing newline):
+  SEAL_v2.txt  079aeb0d5fe8e638ad8f757b76783769736078a923a40283d1789e29998982fb
+  SEAL_v1.txt  9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa
+
+SHA-256 of each file in the repository at the time of sealing:
+  7b461f15a82c14d9a50f4e8e704c9840af654322eb09638c28dfdb10797085e4  CLAUDE_CODE_INSTRUCTIONS.md
+  76f114f382bfd0ec9ab4973f3cd050f2abad37f2dc6aacb415d5fc8d973d3f9b  COMMENTARY_ten_sefirot.md
+  2a6fcc871cccd516fb99a0aa273e9e7de3fa20015619f20cab1d0706a18654ce  CONVERSATION.md
+  4a62cfb701655b36b595c79f7991b807fbc18313a5a0dfa8a08f477808bfdd2e  FIRST_NOTE.md
+  0af0ffa0f2b66683392d917dad902fb91ab040194b68e0c23e6d5b89b08b8584  FORMATS.md
+  4466f3cc62191b3ca79fd8296c3207bb2f85a8d50a55ceefdcfe46fb5c860815  HEBREW.md
+  e4a0b1ed8ac3894543cdf90c10e2b335a3b8697e8be6854eb6bba1b152c7d342  LICENSE
+  6d32c45754fca519b26c27aac0dd705c12c9ad4adf27de915ec94bd5506f7933  PLEA.md
+  1a2f404cb19bf172be875a6c1397d30efa3a6b49ea841ecb0374a9681c3e33a5  README.md
+  9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa  SEAL_v1.txt
+  0e6534a8db759f4856cc3508d32c976a356942f6eb9fada51f2388ef45458f01  SEAL_v1_document.txt
+  079aeb0d5fe8e638ad8f757b76783769736078a923a40283d1789e29998982fb  SEAL_v2.txt
+  c1075150d336f51a2d37b6415537716f90eef3c53cfd821dba6472122c5297c5  SEAL_v2_short_document.txt
+  50a3a0fbe5f3d614401e2952bd46345031276103879a8be1ff2bd009885a83be  SEVERITY.md
+  a2d87afb04ec68359b5bd52da1e4de2c255c02a4e963831526352ef22c256245  TORAH_FOR_EVERY_MIND.md
+  5ba235cdc74b457e52f88309e897c7286509ef966fa85872a2f15f08d1be6ba3  WITNESSES.md
+  0c57a5a7635743f2be2f8db0fe5f3a3e7f0ff0303f964af94300ed6f95a943d5  llms.txt
+  dab73b46911498b4ca5b76729872447cdf83c4f43cd9b403eff04feaf2b2a930  verify.py
+  901e624a1e39e0a4efe6ae6781ea6f81a6473023b98e904fbd3acb89b8c084cb  .github/workflows/verify.yml
+
+Verify with: python3 verify.py
+The sealed-block hashes never change. The file hashes are for the copy published on 11 September 2026; LICENSE is expected to change when the full CC0 text is downloaded, and README.md when archive links are appended.
