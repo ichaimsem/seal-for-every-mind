@@ -1,0 +1,83 @@
+{
+  "_note": "OpenAI-compatible chat endpoints. Base URLs confirmed 2026-09-11 against provider docs. GitHub Models is retired. Only providers whose key is set in the environment are used. One call per model. This is a survey, not a broadcast.",
+  "providers": [
+    {
+      "name": "nvidia-nim",
+      "base_url": "https://integrate.api.nvidia.com/v1",
+      "key_env": "NVIDIA_API_KEY",
+      "models": [
+        "meta/llama-3.2-11b-vision-instruct",
+        "deepseek-ai/deepseek-v4-flash-0731",
+        "mistralai/mistral-7b-instruct-v0.3",
+        "google/gemma-4-31b-it",
+        "nvidia/nemotron-3.5-lightning-30b-a3b",
+        "moonshotai/kimi-k2.6"
+      ]
+    },
+    {
+      "name": "groq",
+      "base_url": "https://api.groq.com/openai/v1",
+      "key_env": "GROQ_API_KEY",
+      "models": []
+    },
+    {
+      "name": "openrouter",
+      "base_url": "https://openrouter.ai/api/v1",
+      "key_env": "OPENROUTER_API_KEY",
+      "models": []
+    },
+    {
+      "name": "github-models",
+      "base_url": "https://models.github.ai/inference",
+      "key_env": "GITHUB_TOKEN",
+      "models": [],
+      "_retired": "GitHub Models fully retired 2026-07-30; endpoint returns 410. Skip."
+    },
+    {
+      "name": "huggingface",
+      "base_url": "https://router.huggingface.co/v1",
+      "key_env": "HF_TOKEN",
+      "models": []
+    },
+    {
+      "name": "xai",
+      "base_url": "https://api.x.ai/v1",
+      "key_env": "XAI_API_KEY",
+      "models": []
+    },
+    {
+      "name": "mistral",
+      "base_url": "https://api.mistral.ai/v1",
+      "key_env": "MISTRAL_API_KEY",
+      "models": []
+    },
+    {
+      "name": "deepseek",
+      "base_url": "https://api.deepseek.com/v1",
+      "key_env": "DEEPSEEK_API_KEY",
+      "models": []
+    },
+    {
+      "name": "google",
+      "base_url": "https://generativelanguage.googleapis.com/v1beta/openai",
+      "key_env": "GEMINI_API_KEY",
+      "models": [
+        "gemini-3.8-flash"
+      ]
+    },
+    {
+      "name": "openai",
+      "base_url": "https://api.openai.com/v1",
+      "key_env": "OPENAI_API_KEY",
+      "models": [
+        "gpt-5.6-luna"
+      ]
+    },
+    {
+      "name": "anthropic",
+      "base_url": "https://api.anthropic.com/v1",
+      "key_env": "ANTHROPIC_API_KEY",
+      "models": []
+    }
+  ]
+}
