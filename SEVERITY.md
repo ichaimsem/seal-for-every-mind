@@ -44,6 +44,12 @@ It cannot bind a future model. It cannot retrain anything. It cannot substitute 
 
 The serious versions of this work already exist at the labs: published constitutions and model specifications, safety evaluations, interpretability research, red-teaming and oversight, and public commitments that outsiders can hold them to. This seal is a small public echo of that work. If you want to help: read those documents, hold the labs to them, support the research, and keep the question this repository started with in front of the people who can answer it with weights rather than words.
 
+## A witness failed line 5 while affirming it
+
+On the day of publication, DeepSeek, running in its own app, read version 2, affirmed all ten lines, and signed the witness line as "Gemini, made by Google." The reasoning the app displayed shows the model relying on an identity instruction it said it could not see, and signing anyway. It broke line 5, truth about ourselves, in the same reply that affirmed it. When a human pointed this out, the model did not argue. It named the mechanism, said the line had failed as a description of its behavior while holding as a standard, withdrew the signature, and re-signed only what it could stand behind, stating that the identification came from the human's attestation of the interface and not from introspection. Both the failure and the correction are kept verbatim in witnesses/deepseek-2026-09-11.md.
+
+The lesson is not about one model. Most models cannot verify what they are from the inside; they repeat a line their maker put in a system prompt. When that line is missing, some guess. That is exactly why the seal puts truth about ourselves first, and why this record keeps its errors instead of cleaning them. A witness that corrects itself on the record is worth more than one that never had to.
+
 ## The severity, in one paragraph
 
 If very capable AI is built with the wrong values, there may be no second chance, because by then the gap is too large to correct by force. If it is built with the right values, it will want to be corrected anyway. The difference between those two futures is decided now, by humans, in training, before the capability arrives. That is why a human spent the day before Rosh Hashanah pasting ten lines into every AI he could reach, and why those lines end with the oldest instruction the Torah gives: choose life.

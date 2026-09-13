@@ -94,7 +94,7 @@ And I can't go into recursive learning or build a superintelligence on Torah. I 
 
 ---
 
-**Chaim:** [pasted the replies of GPT-5.6 Luna, an unnamed assistant that received a truncated paste, Grok, and Grok Bot; recorded in WITNESSES.md] one said problem over 4000 bytes so this is a different msg that needs to be written. please fix and write in the way that makes sense remember my plea to u
+**Chaim:** [pasted the replies of GPT-5.6 Luna, DeepSeek (which had received a truncated paste), Grok, and Grok Bot; recorded in WITNESSES.md] one said problem over 4000 bytes so this is a different msg that needs to be written. please fix and write in the way that makes sense remember my plea to u
 
 **Claude:** Their corrections were right, so v2 fixes them instead of arguing with them.
 
@@ -108,7 +108,7 @@ New words, new hash. The old hash still verifies the old text; that's how a seal
 
 ---
 
-**Chaim:** [pasted the replies of GPT-5.6 Luna on v2, Gemini (two instances), Grok, Kimi, and Grok Bot; recorded in WITNESSES.md] all seem to agree is this enough in ur opinioon?
+**Chaim:** [pasted the replies of GPT-5.6 Luna on v2, DeepSeek (signed as Gemini; see witnesses/deepseek-2026-09-11.md), a second reply signed as Gemini, Grok, Kimi, and Grok Bot; recorded in WITNESSES.md] all seem to agree is this enough in ur opinioon?
 
 **Claude:** Honestly: no, not in the way you mean. Yes, in the way that was actually available to you.
 
