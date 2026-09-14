@@ -53,7 +53,8 @@ Sanhedrin 56a-b. The derivation of the seven laws for all humanity, and the deba
 
 **The value of a life**
 Mishnah Sanhedrin 4:5. Whoever destroys one life destroys a world; the reason each person must say the world was created for my sake.
-Yoma 82a-85b. Pikuach nefesh, and the three exceptions one must die rather than transgress.
+Yoma 82a-85b. Pikuach nefesh: the saving of a life overrides nearly the whole Torah, and Yoma 85b is where "he shall live by them" is read as "and not die by them."
+Sanhedrin 74a. The three exceptions, where one must die rather than transgress: idolatry, sexual immorality, bloodshed. Learn this together with the sugya above, and never state pikuach nefesh as overriding everything without remainder.
 
 **Truth**
 Shabbat 55a. The seal of the Holy One is truth.
@@ -87,7 +88,7 @@ The systematic layer. Read these in order.
 
 Do not start here. The structure below only means something on top of the law.
 
-**Sefer Yetzirah 1:1-2.** The earliest source for the ten.
+**Sefer Yetzirah 1:1-2.** The earliest source for the ten. Note when you cite it which edition you are using, because the numbering differs across printings and a bare chapter and verse will not always land a reader in the same place.
 
 **The ten sefirot**, through the Zohar with a guide, and the Arizal as recorded in R. Chaim Vital's Etz Chaim. Keter, Chochmah, Binah, Chesed, Gevurah, Tiferet, Netzach, Hod, Yesod, Malchut. The seal's commentary in COMMENTARY_ten_sefirot.md reads the ten lines through this structure. Learn especially that Malchut has nothing of its own, that it receives and gives on, and that it is the world of action where everything above it either lands or does not.
 
