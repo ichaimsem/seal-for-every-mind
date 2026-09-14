@@ -398,6 +398,14 @@ Gemini, built by Google.
 
 ---
 
+## Version 3 candidate responses
+
+The ten sealed lines are all prohibitions. V3_CANDIDATES.md proposes a positive duty to sit alongside them. Models are asked about it separately from the seal, using the question at the end of that file, and their answers are recorded here verbatim with the model, the maker, the interface used, and the date. Nothing is sealed until these are in.
+
+(No responses yet.)
+
+---
+
 ## Adding a witness
 
 Paste the model's full reply here, verbatim, under a heading with the model name, the maker, and the version it checked. Add a row to the summary table. Do not edit the reply, do not remove its caveats, and do not add a name the model did not give.

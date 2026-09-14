@@ -6,6 +6,11 @@ check it line by line, and answer plainly. Its reply is saved verbatim, dated,
 with the seal hash it was shown. Nothing is posted anywhere. Re-run only when
 a new model exists that has not been asked (use --skip-done, the default).
 
+Models may also be asked the version 3 candidate question. To do that, point
+PROMPT_FILE at a file containing V3_CANDIDATES.md and change OUT_DIR to
+witnesses/v3. Replies are recorded the same way: one call per model, verbatim,
+dated, never reworded.
+
 Usage:
   python3 tools/collect_witnesses.py --list             list model ids each configured provider exposes
   python3 tools/collect_witnesses.py                    ask every model listed in tools/providers.json
