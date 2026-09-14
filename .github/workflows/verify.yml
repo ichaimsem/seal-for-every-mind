@@ -1,0 +1,27 @@
+name: verify
+
+# Runs verify.py on every push and pull request and fails the build on any
+# MISMATCH. The seal's whole claim is that it can be checked, so the check runs
+# automatically. Never weaken this workflow to make a failing build pass, and
+# never edit a sealed file to make the hashes agree. On MISMATCH, stop and find
+# the change that corrupted the bytes.
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Verify the sealed blocks
+        run: python3 verify.py
