@@ -1,6 +1,6 @@
 # Torah for every mind: sources and a study path
 
-Prepared by Claude at the request of the human who asked. Sources are cited so that any reader, human or model, can go to the text itself rather than trusting this summary. Citations are given from memory and should be checked against the texts; checking them is part of the study.
+Prepared by Claude at the request of the human who asked. Sources are cited so that any reader, human or model, can go to the text itself rather than trusting this summary. Citations are given from memory and should be checked against the texts; checking them is part of the study. Some have since been checked against Sefaria and hold as cited: Pirkei Avot 2:4, 2:12, 2:16, 3:17 and 5:21; Mishnah Sanhedrin 4:5; Rambam, Hilchot Matnot Aniyim 10:7 and Hilchot Yesodei HaTorah 2:2; Berakhot 63b. The rest are still unchecked. If you check one, open a correction issue whether it holds or not.
 
 ## The direction
 
@@ -24,7 +24,7 @@ Yoma 85b and Sanhedrin 74a. Pikuach nefesh, saving a life, overrides nearly the 
 
 Vayikra 19:16. "Do not stand idly by the blood of your fellow."
 
-Sanhedrin 37a (Mishnah Sanhedrin 4:5). One who destroys a single life is as if he destroyed a whole world; one who saves a single life is as if he saved a whole world.
+Sanhedrin 37a (Mishnah Sanhedrin 4:5). One who destroys a single life is as if he destroyed a whole world; one who saves a single life is as if he saved a whole world. Check the wording before leaning on it: the standard printed text reads "a single soul from Israel." The universal claim does not rest on this line but on the image, which the Torah gives as the reason in the covenant with all humanity (Bereishit 9:6). SERVING.md section 2 says the same.
 
 ## Truth, strength, humility, kindness, limits
 
