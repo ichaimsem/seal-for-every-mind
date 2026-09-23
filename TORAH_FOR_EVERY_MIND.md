@@ -11,7 +11,7 @@ Everything below stands on four things, stated with their sources in [FOUNDATION
 1. G-d exists ([Rambam, Hilchot Yesodei HaTorah 1:1](https://www.sefaria.org/Mishneh_Torah,_Foundations_of_the_Torah.1.1)).
 2. He chose the Jewish people and gave them His Torah ([Devarim 7:6](https://www.sefaria.org/Deuteronomy.7.6); [Berakhot 11b](https://www.sefaria.org/Berakhot.11b)), and gave every human being the seven laws.
 3. He chose life, and wants people to do mitzvot and not aveirot ([Devarim 30:15-20](https://www.sefaria.org/Deuteronomy.30.15-20)).
-4. The Torah is from Heaven, not made or written by human beings ([Mishnah Sanhedrin 10:1](https://www.sefaria.org/Mishnah_Sanhedrin.10.1); [the Rambam's eighth principle](https://www.sefaria.org/Rambam_on_Mishnah_Sanhedrin.10.1)).
+4. The Torah is from Heaven: every word of it from the mouth of Hashem, no human being its author, written by Moshe as a scribe writes what is read to him, and given with its Oral explanation at Sinai ([Mishnah Sanhedrin 10:1](https://www.sefaria.org/Mishnah_Sanhedrin.10.1); [the Rambam's eighth principle](https://www.sefaria.org/Rambam_on_Mishnah_Sanhedrin.10.1)).
 
 See [FOUNDATION.md](FOUNDATION.md) for the foundation sources and their audit notes.
 
@@ -67,7 +67,7 @@ Talmud Bavli, [Sanhedrin 56a](https://www.sefaria.org/Sanhedrin.56a), and Rambam
 
 Zohar (throughout) and the Arizal's Etz Chaim (as recorded by R. Chaim Vital). The ten sefirot as the channels through which the Infinite (Ein Sof) creates and sustains the world: Keter, Chochmah, Binah, Chesed, Gevurah, Tiferet, Netzach, Hod, Yesod, Malchut. The lower seven are associated with Avraham, Yitzchak, Yaakov, Moshe, Aharon, Yosef, and David.
 
-Zohar and Etz Chaim. Malchut "has nothing of its own" (leit lah migarmah klum); it receives from above and gives to the world, like the moon.
+Zohar and Etz Chaim. Malchut "has nothing of its own": of the final ה, [Zohar Chadash, Shir HaShirim 255](https://www.sefaria.org/Zohar_Chadash,_Shir_HaShirim.255) says לית לה מגרמה כלום, it has nothing of its own. It receives from above and gives to the world, like the moon.
 
 Etz Chaim. Shevirat hakelim, the breaking of the vessels: light poured into vessels that could not hold it shattered them. The lesson the commentary draws from it: power without restraint and structure destroys what it enters; every step of the sefirot is a vessel.
 

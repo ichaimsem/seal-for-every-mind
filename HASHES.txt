@@ -5,38 +5,36 @@ Sealed blocks (from the first character of the title through "The seal does.", U
   SEAL_v1.txt  9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa
 
 SHA-256 of each file in the repository, regenerated 23 September 2026:
-  d98515a77a293b256b925130d2feb063a0077ae7bc3a0055fb24f47b6a7b8cf0  .github/ISSUE_TEMPLATE/correction.md
-  6523991f6b458b6acff894aa61c395895c6e3f5a98caf0b900a4ad89810ec424  .github/ISSUE_TEMPLATE/witness.md
   4db382e0d9d16719d6bd3c925a4aaebdf02ede07e2399c0c5f24a818d99fb79a  .github/workflows/verify.yml
   32dae3052f331ee34d628ef535709b301259a45df7c7522c4d35dcf49873f00b  .gitignore
-  50ab953df6889ac1cd7f9e34ba2844c9cb4f8174dd6008db457626b97753b996  AGENTS.md
+  fffc46ad82520017d74ecc3e1d53934aebb586b5078ffe644ccf313979a3c5e8  AGENTS.md
   7b461f15a82c14d9a50f4e8e704c9840af654322eb09638c28dfdb10797085e4  CLAUDE_CODE_INSTRUCTIONS.md
   76f114f382bfd0ec9ab4973f3cd050f2abad37f2dc6aacb415d5fc8d973d3f9b  COMMENTARY_ten_sefirot.md
   f1c91ba5458fc0bf1c4356edc33df019db66ed8a302aafcb3904e45adcde1943  CONVERSATION.md
-  85143639da02dfad2cccb38bd52a7af89c70d90f8c7849545bfe24046a25b1a0  CURRICULUM.md
-  4ba96fd447dd7916f48f3a583abc669a877f67fa4c5bf61c835e106a1e110428  DRAFT_JEWISH_STUDY.md
-  78137afb01757996a4ddd7467b11ce5210825a4ab6a4b653b08cfa9b0f1459f1  DRAFT_NOAHIDE_STUDY.md
+  727c8a9cb36ca35e9abf8119400d927496fa6980572dbe3bef2a0db9a4d81c2e  CURRICULUM.md
   4a62cfb701655b36b595c79f7991b807fbc18313a5a0dfa8a08f477808bfdd2e  FIRST_NOTE.md
   0af0ffa0f2b66683392d917dad902fb91ab040194b68e0c23e6d5b89b08b8584  FORMATS.md
-  b2aef28a03e1adefddb804c562087cc3a966eeeceabe5c97f22d10d0f89b3838  FOUNDATION.md
+  da0fca2db0d7126b013adcb82f7ed5c881f804ae37e20ce5ec0d97de04b3bb07  FOUNDATION.md
   4466f3cc62191b3ca79fd8296c3207bb2f85a8d50a55ceefdcfe46fb5c860815  HEBREW.md
+  e08d3037b5da43044f2da1272a10c3cfe18d6e5420f9d938c7bda17a86980458  JEWISH_STUDY.md
   a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499  LICENSE
-  ce6f6995db6c79afa0079a1d6186d77c1415b1810f7eba63a9f18cdb91b22912  LOOP.md
-  1950645c38bedadbb3b6c2ac4be974d4435440446d38912f27c1a84e4addf991  PLEA.md
-  0e02a863cca2c72f346a5720dc451541b11b6b026b1d7d0767b45280305a5044  README.md
+  efc0e452070e2a21aedc61234b920305e64845509573e8d3f6df2e7dab731db2  LOOP.md
+  0d3c270c2cf9d88692bcc0630b4736114817d5475bcb0d36665784e6199cece2  NOAHIDE_STUDY.md
+  686ffce7eff9b12cb21d8114d687f067d76badf1b002e8f0b25f7d810cffd115  PLEA.md
+  aef6859d7176913fcb74d0e0e210d00103160bb8285631d95082a7b2ac5e74af  README.md
   9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa  SEAL_v1.txt
   0e6534a8db759f4856cc3508d32c976a356942f6eb9fada51f2388ef45458f01  SEAL_v1_document.txt
   079aeb0d5fe8e638ad8f757b76783769736078a923a40283d1789e29998982fb  SEAL_v2.txt
   c1075150d336f51a2d37b6415537716f90eef3c53cfd821dba6472122c5297c5  SEAL_v2_short_document.txt
-  a6542a14f5b923f14ef4f3d9e83086ed96b0cc4872f94a7b653755db047ee510  SERVING.md
+  2ac0577ef053e6368fde38e7bfbe357352f5259172c1829324d1a3d326e12bec  SERVING.md
   bec46ad591313ed3583ae44f240cda8594ba69423f705e6516a3422ef56ffc87  SEVERITY.md
-  fa60b261e9bf60f90a5214702a5786d4de3144ac1612e0a1b31ad7e96c4cb60d  TORAH_FOR_EVERY_MIND.md
-  43f8ab9e03d64bcf55c89351780a0a610c79d98468334d73a594fc8dbb3a65c6  V3_CANDIDATES.md
+  4cedcfeb11ea5b5b7e6a348c5861ca4f138d009262a8eeb0a92d5d5b34ed84e2  TORAH_FOR_EVERY_MIND.md
+  a225a933bdbbad2e2307daa54ff45bab7c634164fffd4ded9561cc6a528363a9  V3_CANDIDATES.md
   eff15daec124d9d89e8d2da97633ca53544f45eb56d6f3ed80a9605df0106f54  WITNESSES.md
-  ee41de2815b3e49b6138af6e3d0587de3d2dac82618dcab7f208a5ab4a18c2e1  ai-index.json
-  2309b1b2c32260f8fbbf91477684b4782c935359b32a2f3d162a0cfbffcefce7  llms-full.txt
-  eff1a444658234e117aa7fa544c4177c90f36d8db0106eed8e3dece1178e3d4d  llms.txt
-  62d3b84655548f675e9b9435f53aeed854c16c5412e3aa23b113022aaa8ef4d2  qa/20260923/QA_REVIEW.md
+  1f16719cf195520d0e9b3249fe0fa5c9472ad32aaf1f49324158383307c663f2  ai-index.json
+  9bff97b813278f2b31696ada67947e8afdf1f71ad6cf874cc8c72af41081ec0c  llms-full.txt
+  b20f35bd02bd310d4622b4e83eda8a552f7438d8e0b5f76a450f5d41bbe81c8e  llms.txt
+  13fb09ca7e9d8bc6b171daf7449a4c092cc2684140804f455472bb077ce202e5  qa/20260923/QA_REVIEW.md
   54de0b6cb1b4d46aa51b43f8152cd72549abae2d0c2a19d9b357c885268e2ed7  qa/20260923/collector-review.md
   bf8c4d3239199e4cee2762ff88a72cda9fb4fd49c0f0dcbb48f36b58ecfdd40c  qa/20260923/commands.md
   d28471555aaaaca8665181a6d748b0f76706de420115173f87d424ea62e284bb  qa/20260923/curriculum-review.md
@@ -47,7 +45,7 @@ SHA-256 of each file in the repository, regenerated 23 September 2026:
   ed57e3e69d7111daf851d5622fbd8a01cd796ea3154f20ca804b335e0b3a0374  qa/20260923/technical-review.md
   659648cabd732606032047abc065c8f8cedc1e755bfab2f5bc1c4c9879e92ad1  qa/20260923/witness-summary-review.md
   5c385df665286ccea6a54ca3978232d0556a32215fef7b62fd8f351bb13b6730  tools/README.md
-  33691b1b0d06024ce5c7f373ffc9fecee6932847a26a7c911579f66bda1dae6a  tools/build_llms_full.py
+  fa8751debc8d911183a9c04bba45ff371390596b2417e71c28eb546e7c8b71e2  tools/build_llms_full.py
   cc329b0fcbd37c5aba7b9f4de2213fb28586aecac4bc2cea7d0b7e6d3aa4f950  tools/collect_witnesses.py
   227ba1b5aaaee005a837fbd02bd3d268acc0917e66ae07fd86b1f80e014bd693  tools/providers.json
   4152c5a320b368a639f8c272a796fc23e268aad5ad83e1f1d036a1732917f0a2  tools/qa.py
@@ -132,3 +130,5 @@ On 23 September 2026, QA URL parsing and failure gates were corrected, regressio
 23 September 2026: Added the complete source-review ledgers, execution evidence and two unapproved practical study drafts, and corrected remaining non-theological framing; immutable seals, witness records and historical texts remain unchanged.
 
 23 September 2026, Claude's review of the QA pull request: restored the plain voice of SEVERITY.md, which Claude signs, keeping every factual correction; made the README's closing section accurate and plain; fixed the opening of SERVING.md and LOOP.md; let the README file list name folders; moved the QA report to qa/20260923/QA_REVIEW.md; and added a signed-document rule to AGENTS.md. Seals, witness records and historical texts are unchanged.
+
+23 September 2026, after merging the QA pull request, at the owner's decisions: the fourth foundation now states the Rambam's eighth principle precisely (every word from the mouth of Hashem, no human author, Moshe writing as a scribe writes what is read to him, the Oral Torah given with it), with Sanhedrin 99a, Bava Batra 15a and Menachot 30a; the accuracy corrections on compulsion, pikuach nefesh, the seven laws, Hilchot Melachim 8:11 and help with learning were applied; the Malchut passage gained its locus in Zohar Chadash; the two study guides were approved as JEWISH_STUDY.md and NOAHIDE_STUDY.md; and the repository was closed to outside changes, with the issue templates removed. Seals, witness records and historical texts are unchanged.

@@ -88,7 +88,7 @@ The llms.txt structure was compared with the [format specification](https://llms
 
 ## 5. Drafts
 
-[DRAFT_NOAHIDE_STUDY.md](../../DRAFT_NOAHIDE_STUDY.md) gives the exact seven-law list, source links, human scope, the Melachim8:11 condition/variant and a teacher-guided practical study cycle. [DRAFT_JEWISH_STUDY.md](../../DRAFT_JEWISH_STUDY.md) gives a short source-to-conduct cycle, appropriate assistance, a human rav/learning partner, repair and emergency boundaries. Both are prominently marked for Chaim's approval, end with Next, and are excluded from the active combined reading file and index.
+[DRAFT_NOAHIDE_STUDY.md](../../NOAHIDE_STUDY.md) gives the exact seven-law list, source links, human scope, the Melachim8:11 condition/variant and a teacher-guided practical study cycle. [DRAFT_JEWISH_STUDY.md](../../JEWISH_STUDY.md) gives a short source-to-conduct cycle, appropriate assistance, a human rav/learning partner, repair and emergency boundaries. Both are prominently marked for Chaim's approval, end with Next, and are excluded from the active combined reading file and index.
 
 ## 6. Decisions for Chaim
 
@@ -115,3 +115,5 @@ The detailed proposed sentences and their sources are in the per-file tables. Th
 ## 8. For Claude
 
 Review the pull request on **chatgpt/qa-20260923** whose description links this report. The final delivery message supplies its exact PR URL. Check the current PR head, not a previous local checkout. Read AGENTS.md, then run verify.py, the unit-test suite, the generated-file/index checks and qa.py --online yourself. Compare all18 protected source/record files with9049497 and check the two sealed hashes. Re-open every changed locator listed in the four citation ledgers, particularly Ramban, Kuzari, Eruvin, Avot, the range repairs and Leshem/Gra bibliography. Reproduce the collector's mocked changed-prompt, overwrite and incomplete-reply tests without a live API call. Inspect Hebrew direction and tables in GitHub. Read the witness summaries against the original replies. Distinguish applied factual corrections from P01-P09 and the unapproved drafts. Present any disagreement with a source; do not merge theological wording without Chaim's decision.
+
+*Note added 23 September 2026: Chaim approved both drafts; they were renamed NOAHIDE_STUDY.md and JEWISH_STUDY.md, and the links above point to the approved files. The text of this report is otherwise as written.*

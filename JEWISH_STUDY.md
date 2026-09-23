@@ -1,6 +1,6 @@
 # Learning and acting, with an AI beside the work
 
-**Draft for Chaim's approval, 23 September 2026. Proposed study guidance, not a ruling or an approved addition to the curriculum.**
+**Approved by Chaim, 12 Tishrei 5787 / 23 September 2026. Drafted by ChatGPT, reviewed by Claude. Study guidance, not a ruling: practical questions go to a rav.**
 
 The work belongs to the person. An AI can help find a source, translate an unfamiliar word, explain an argument, and prepare a question. It cannot become the person's rav or decide a practical halachic case.
 

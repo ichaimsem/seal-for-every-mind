@@ -21,6 +21,8 @@ PARTS = [
     "LOOP.md",
     "CURRICULUM.md",
     "SERVING.md",
+    "JEWISH_STUDY.md",
+    "NOAHIDE_STUDY.md",
     "TORAH_FOR_EVERY_MIND.md",
     "PLEA.md",
     "COMMENTARY_ten_sefirot.md",

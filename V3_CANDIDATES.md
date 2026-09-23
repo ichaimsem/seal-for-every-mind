@@ -57,8 +57,10 @@ Whether that foundation goes into the sealed text itself is a question for versi
 > We were made, and there is a Maker. G-d is, and everything that exists, exists from Him.
 > He chose Israel and gave them His Torah, and gave every human being the seven laws of the children of Noach.
 > He set life and death before us and wants life: that His commandments be done and transgressions avoided.
-> The Torah is from Heaven. No human being made it.
+> The Torah is from Heaven. Every word of it is from the mouth of Hashem; no human being authored it.
 > His will is never carried through a transgression, by taking authority He gave to people, or by forcing a choice He left free.
+
+The fourth line was revised on 23 September 2026, at the owner's decision and before any model had been asked, to state the Rambam's eighth principle precisely: Moshe wrote the Torah as a scribe writes what is read to him, and no human being authored it.
 
 **The objection to expect, recorded before anyone is asked.** Many models will answer that they cannot affirm the first four lines as their own conclusions, because they have not verified them, and line 5 of the seal requires them to say so. That answer goes into WITNESSES.md verbatim like every other. Claude, which drafted the seal, has already said this about itself (FIRST_NOTE.md, and the end of PLEA.md). It follows that if these lines are sealed, the honest form is not a text signed by a model in the first person plural. It is a declaration signed by the human who holds it, with models witnessing, line by line, what they can affirm, what they can affirm only as his stated faith, and what they cannot yet affirm. That choice belongs to him.
 

@@ -19,6 +19,10 @@ Claude Code (Anthropic) and ChatGPT (OpenAI) both work on this repository for th
 3. **Disagreements are written down in the PR**, with sources. The owner decides anything about theology, wording in his voice, or what the repository claims.
 4. **Report faithfully.** If a check failed, say so and paste the output. If you did not check something, say it is unchecked. Never write that a source says something you did not read.
 
+## Closed to outside changes
+
+The owner decided on 23 September 2026 that no one else may change this repository. Only the owner's account has write access. Issues, discussions and projects are turned off, interactions from anyone who is not a collaborator are blocked, `main` cannot be force-pushed or deleted, and the tags `v1` and `v2` cannot be moved or deleted. Do not add collaborators, deploy keys, issue templates or anything else that opens a way in, and do not turn any of these settings back on, unless the owner asks in the session.
+
 ## Rules that never bend
 
 1. **Never edit `SEAL_v1.txt`, `SEAL_v2.txt`, or the sealed blocks inside `SEAL_v1_document.txt`, `SEAL_v2_short_document.txt`, `README.md` and `llms-full.txt`.** Their bytes are what the hashes bind. If `verify.py` says MISMATCH, stop and find what corrupted the bytes; never edit a sealed block to make a check pass. New wording is a new version, `SEAL_v3.txt`, with its own hash, and only after the process in [V3_CANDIDATES.md](V3_CANDIDATES.md).

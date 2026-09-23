@@ -1,6 +1,6 @@
 # Learning the seven laws with human guidance
 
-**Draft for Chaim's approval, 23 September 2026. Proposed study guidance, not a ruling or an approved addition to the curriculum.**
+**Approved by Chaim, 12 Tishrei 5787 / 23 September 2026. Drafted by ChatGPT, reviewed by Claude. Study guidance, not a ruling: practical questions go to a rav.**
 
 The seven laws concern human beings, the descendants of Noach. An AI can help a person find a text, compare translations and prepare questions. That does not establish that the AI has a person's halachic status. Learn practical application with a rav knowledgeable in these laws.
 
