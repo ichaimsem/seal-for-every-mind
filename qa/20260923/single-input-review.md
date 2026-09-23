@@ -52,4 +52,4 @@ Rendered endpoints used the same paths on `https://www.sefaria.org.il`, with `?l
 
 ## Integration note
 
-This is a dated audit artifact. Its baseline locations and original verdicts are retained. The applied/proposed status in [the main report](../../QA_REVIEW_20260923.md) controls the final disposition. Raw downloaded books and full translations are not republished in this repository.
+This is a dated audit artifact. Its baseline locations and original verdicts are retained. The applied/proposed status in [the main report](QA_REVIEW.md) controls the final disposition. Raw downloaded books and full translations are not republished in this repository.

@@ -116,8 +116,13 @@ def check_inventory(files):
     text = Path("README.md").read_text(encoding="utf-8")
     section = text.split("## What is in this repository\n", 1)[1].split("\n## ", 1)[0]
     listed = [row.split("|")[1].strip() for row in section.splitlines() if row.startswith("| ")][1:]
-    missing = sorted(set(files) - set(listed))
-    extra = sorted(set(listed) - set(files))
+    # A row ending in "/" stands for every tracked file under that folder, so the
+    # landing page can name a folder of records instead of listing each one.
+    folders = [entry for entry in listed if entry.endswith("/")]
+    covered = {f for f in files if any(f.startswith(folder) for folder in folders)}
+    missing = sorted(set(files) - set(listed) - covered)
+    extra = sorted({entry for entry in listed if not entry.endswith("/")} - set(files)
+                   | {folder for folder in folders if not any(f.startswith(folder) for f in files)})
     duplicate = len(listed) != len(set(listed))
     report("FAIL" if missing or extra or duplicate else "OK", "inventory",
            f"missing {missing}; extra {extra}; duplicates {duplicate}" if missing or extra or duplicate

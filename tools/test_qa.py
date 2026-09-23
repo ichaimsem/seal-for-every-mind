@@ -16,6 +16,34 @@ class QaTests(unittest.TestCase):
     def setUp(self):
         qa.results.clear()
 
+    def _inventory(self, rows, files):
+        readme = "## What is in this repository\n\n| File | What |\n|---|---|\n" + "".join(
+            f"| {r} | x |\n" for r in rows) + "\n## Next\n"
+        with tempfile.TemporaryDirectory() as d:
+            cwd = os.getcwd()
+            try:
+                os.chdir(d)
+                Path("README.md").write_text(readme, encoding="utf-8")
+                qa.check_inventory(files)
+            finally:
+                os.chdir(cwd)
+        return qa.results[-1]
+
+    def test_folder_row_covers_files_beneath_it(self):
+        status, _, detail = self._inventory(["README.md", "witnesses/"],
+                                            ["README.md", "witnesses/a.md", "witnesses/api/b.md"])
+        self.assertEqual(status, "OK", detail)
+
+    def test_file_outside_listed_folders_is_still_missing(self):
+        status, _, detail = self._inventory(["README.md", "witnesses/"], ["README.md", "qa/x.md"])
+        self.assertEqual(status, "FAIL")
+        self.assertIn("qa/x.md", detail)
+
+    def test_folder_row_with_no_files_is_extra(self):
+        status, _, detail = self._inventory(["README.md", "empty/"], ["README.md"])
+        self.assertEqual(status, "FAIL")
+        self.assertIn("empty/", detail)
+
     def test_markdown_delimiters_do_not_become_url_bytes(self):
         self.assertEqual(qa.external_urls("`https://example.org/main` and <https://example.org/a>"),
                          {"https://example.org/main", "https://example.org/a"})

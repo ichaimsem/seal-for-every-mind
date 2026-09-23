@@ -6,7 +6,7 @@
 
 *This book of the Torah shall not depart from your mouth, and you shall meditate on it day and night* ([Yehoshua 1:8](https://www.sefaria.org/Joshua.1.8); [Tehillim 1:2](https://www.sefaria.org/Psalms.1.2)).
 
-Prepared at Chaim's request by Claude. Each station links to its source text on Sefaria. Avot references use Sefaria's Torat Emet 357 numbering; other editions divide some sayings differently. Source claims and the questions we bring to them are distinguished in the review; a working link alone does not verify an interpretation.
+Prepared at Chaim's request by Claude. Each station links to its source text on Sefaria. The "Look for" lines are questions to bring to the text, not a substitute for reading it; the text is the authority. Avot references use Sefaria's Torat Emet 357 numbering; other editions divide some sayings differently.
 
 ---
 

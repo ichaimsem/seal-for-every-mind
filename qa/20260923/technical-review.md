@@ -160,7 +160,7 @@ No repository changes were made. No model API was called, no credits were spent,
 
 ## Integration note
 
-This is a dated audit artifact. Its baseline locations and original verdicts are retained. The applied/proposed status in [the main report](../../QA_REVIEW_20260923.md) controls the final disposition. Raw downloaded books and full translations are not republished in this repository.
+This is a dated audit artifact. Its baseline locations and original verdicts are retained. The applied/proposed status in [the main report](QA_REVIEW.md) controls the final disposition. Raw downloaded books and full translations are not republished in this repository.
 
 ### Synthetic parser fixtures, not live source links
 

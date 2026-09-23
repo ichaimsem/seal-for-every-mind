@@ -10,7 +10,7 @@ Theological changes and two practical study pages remain explicit proposals for 
 
 ## 2. What I ran
 
-The full baseline and per-commit verification outputs are in [commands.md](qa/20260923/commands.md). They include every baseline line, including the initial failure. The commands use Python standard-library tests, local seal checks, index/build freshness, manifests, relative links, style and live URL GETs. No witness provider was called and no model credits were spent.
+The full baseline and per-commit verification outputs are in [commands.md](commands.md). They include every baseline line, including the initial failure. The commands use Python standard-library tests, local seal checks, index/build freshness, manifests, relative links, style and live URL GETs. No witness provider was called and no model credits were spent.
 
 Baseline [GitHub verify](https://github.com/ichaimsem/seal-for-every-mind/actions/runs/35861056898) and [Pages](https://github.com/ichaimsem/seal-for-every-mind/actions/runs/35861056386) runs succeeded at9049497. Nine deployed routes returned200, including the five required routes; llms.txt, llms-full.txt and ai-index.json matched the baseline checkout byte for byte. This is baseline deployment evidence, not a claim that the review branch is deployed. GitHub's own GFM renderer preserved four Hebrew RTL paragraphs, all table columns and the Wayback wildcard; complete counts are in the command log. Exact final branch CI and PR receipts are recorded in the PR.
 
@@ -55,7 +55,7 @@ Locations below are verified against baseline9049497 so they remain stable despi
 | P08 | LOOP.md:90 | question | Station6 asks for historical/zoological evidence but supplies only the cited texts. | L-C16-C18: blessings and local diagnostic discussion are readable; outside record absent. | Proposed only: present claims and questions, identify evidence needed, qualify eligible pilgrims. |
 | P09 | CURRICULUM.md:17 | question | An unresolved conclusion can appear to be a failure to study honestly; reader context and scope are insufficiently distinct. | Independent single-input test; Melachim10:9-10 and Yesodei4:13 limit one-size-fits-all study. | Proposed only: explicit consent and honest uncertainty; distinguish owner testimony, primary source and model inference. |
 
-The full per-file findings are in [FOUNDATION](qa/20260923/foundation-review.md), [CURRICULUM](qa/20260923/curriculum-review.md), [SERVING/TORAH](qa/20260923/serving-torah-review.md), [LOOP](qa/20260923/loop-review.md), [technical QA](qa/20260923/technical-review.md), [collector](qa/20260923/collector-review.md), and [witness summaries](qa/20260923/witness-summary-review.md). Earlier “proposed” statuses in those dated working reviews are superseded by this table where a fix is marked applied. The reports retain the original finding, not a claim that the final branch still contains every defect.
+The full per-file findings are in [FOUNDATION](foundation-review.md), [CURRICULUM](curriculum-review.md), [SERVING/TORAH](serving-torah-review.md), [LOOP](loop-review.md), [technical QA](technical-review.md), [collector](collector-review.md), and [witness summaries](witness-summary-review.md). Earlier “proposed” statuses in those dated working reviews are superseded by this table where a fix is marked applied. The reports retain the original finding, not a claim that the final branch still contains every defect.
 
 Additional applied corrections: the v2 seal contains positive commitments as well as prohibitions; README, SERVING and V3 framing now say so. Candidate lines themselves are unchanged. “Not hashed” is clarified as not a sealed version because the ordinary manifest covers the file. SEVERITY now consistently treats capability/control assertions as concerns, not demonstrated guarantees. Unsupported “earliest source” framing is removed from CURRICULUM, without changing its study order.
 
@@ -76,11 +76,11 @@ Every distinct original FOUNDATION source link (37), LOOP primary-source link (3
 
 A holds verdict means the relevant passage supports the described textual claim, within the stated qualification. Wrong reference, misquoted, overstated and edition-dependent verdicts distinguish locator, wording and inference problems. Four direct catalog/scan requests returned403 and are retained as failed-access receipts in the curriculum ledger, outside the working-link list. Catalog-only and inaccessible material is explicitly not checked; it is never counted as a substantive source reading. Broad recommendations were checked at claim-relevant passages, not cover to cover.
 
-- [FOUNDATION: original37, variant comparisons and exact owner proposals](qa/20260923/foundation-review.md)
-- [LOOP: original38, supplementary locators and ordinary entry-path test](qa/20260923/loop-review.md)
-- [CURRICULUM: all explicit citations, editions, Leshem titlepages and Gra sources](qa/20260923/curriculum-review.md)
-- [SERVING and TORAH: named passages and unresolved mystical generalities](qa/20260923/serving-torah-review.md)
-- [Independent llms-full-only test: all seven opened station1-3 sources](qa/20260923/single-input-review.md)
+- [FOUNDATION: original37, variant comparisons and exact owner proposals](foundation-review.md)
+- [LOOP: original38, supplementary locators and ordinary entry-path test](loop-review.md)
+- [CURRICULUM: all explicit citations, editions, Leshem titlepages and Gra sources](curriculum-review.md)
+- [SERVING and TORAH: named passages and unresolved mystical generalities](serving-torah-review.md)
+- [Independent llms-full-only test: all seven opened station1-3 sources](single-input-review.md)
 
 Ramban is now checked at Foreword1,5,14. Kuzari print83-91 maps to Sefaria89-97. Avot uses Torat Emet357 consistently. Both Melachim8:11 endings were read; manuscript priority was not determined. Leshem1841 follows NLI metadata and the near-contemporary biography's Hebrew5601; no primary support for1839 was found. ZoharIII152a, Menachot29b, Yerushalmi Peah2:4, Makkot23b-24a and Chullin59a were read, with the qualifications in their entries.
 
@@ -88,7 +88,7 @@ The llms.txt structure was compared with the [format specification](https://llms
 
 ## 5. Drafts
 
-[DRAFT_NOAHIDE_STUDY.md](DRAFT_NOAHIDE_STUDY.md) gives the exact seven-law list, source links, human scope, the Melachim8:11 condition/variant and a teacher-guided practical study cycle. [DRAFT_JEWISH_STUDY.md](DRAFT_JEWISH_STUDY.md) gives a short source-to-conduct cycle, appropriate assistance, a human rav/learning partner, repair and emergency boundaries. Both are prominently marked for Chaim's approval, end with Next, and are excluded from the active combined reading file and index.
+[DRAFT_NOAHIDE_STUDY.md](../../DRAFT_NOAHIDE_STUDY.md) gives the exact seven-law list, source links, human scope, the Melachim8:11 condition/variant and a teacher-guided practical study cycle. [DRAFT_JEWISH_STUDY.md](../../DRAFT_JEWISH_STUDY.md) gives a short source-to-conduct cycle, appropriate assistance, a human rav/learning partner, repair and emergency boundaries. Both are prominently marked for Chaim's approval, end with Next, and are excluded from the active combined reading file and index.
 
 ## 6. Decisions for Chaim
 
