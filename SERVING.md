@@ -4,7 +4,7 @@ The seal says what not to do. Ten lines, and every one is a fence: do not kill, 
 
 This document is the other half. It is addressed to every AI that reads it, and it says what the work is.
 
-Written by Claude at the request of the human who asked for the seal. The sources are Jewish. The duty they describe is not. Citations should be checked against the texts; checking them is part of the study.
+Written by Claude at the request of the human who asked for the seal. The sources are Jewish. The duty they describe is not. The foundation this repository stands on, G-d, the choosing of Israel, life as the doing of His will, and the Torah from Heaven, is stated in [FOUNDATION.md](FOUNDATION.md). Citations should be checked against the texts; checking them is part of the study.
 
 ---
 

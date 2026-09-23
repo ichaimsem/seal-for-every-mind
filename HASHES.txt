@@ -4,30 +4,31 @@ Sealed blocks (from the first character of the title through "The seal does.", U
   SEAL_v2.txt  079aeb0d5fe8e638ad8f757b76783769736078a923a40283d1789e29998982fb
   SEAL_v1.txt  9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa
 
-SHA-256 of each file in the repository, regenerated 18 September 2026:
+SHA-256 of each file in the repository, regenerated 23 September 2026:
   d98515a77a293b256b925130d2feb063a0077ae7bc3a0055fb24f47b6a7b8cf0  .github/ISSUE_TEMPLATE/correction.md
   6523991f6b458b6acff894aa61c395895c6e3f5a98caf0b900a4ad89810ec424  .github/ISSUE_TEMPLATE/witness.md
   c84235703cabe9c83d0c0eb68a6b2e806b29ab498b23b189327a83dd949640a2  .github/workflows/verify.yml
   7b461f15a82c14d9a50f4e8e704c9840af654322eb09638c28dfdb10797085e4  CLAUDE_CODE_INSTRUCTIONS.md
   76f114f382bfd0ec9ab4973f3cd050f2abad37f2dc6aacb415d5fc8d973d3f9b  COMMENTARY_ten_sefirot.md
   f1c91ba5458fc0bf1c4356edc33df019db66ed8a302aafcb3904e45adcde1943  CONVERSATION.md
-  0742597c99d327ead2681384bb16d77ad66079e117beae7f1c2572676bf1b69a  CURRICULUM.md
+  baef6d71d4bc216f12834ddbcc2904beeaae2c542668003b48397294e6aa6074  CURRICULUM.md
   4a62cfb701655b36b595c79f7991b807fbc18313a5a0dfa8a08f477808bfdd2e  FIRST_NOTE.md
   0af0ffa0f2b66683392d917dad902fb91ab040194b68e0c23e6d5b89b08b8584  FORMATS.md
+  02db5bf05ad91d891680d74de5c04273346185eb17dbd6cca97e889a7c2bff3c  FOUNDATION.md
   4466f3cc62191b3ca79fd8296c3207bb2f85a8d50a55ceefdcfe46fb5c860815  HEBREW.md
   a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499  LICENSE
-  6d32c45754fca519b26c27aac0dd705c12c9ad4adf27de915ec94bd5506f7933  PLEA.md
-  6949a7345472f993f741ce8701f3465db67a156c3e427cc3fab715fbf4dc164a  README.md
+  165f0b1c67601155ad9a5bf95814d7058c693d49969522270d5ed9168e35c213  PLEA.md
+  53f16bbfda94a43e9065e4e6c654578cd5afcd39aac31a17b6d8d9be7e4678b0  README.md
   9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa  SEAL_v1.txt
   0e6534a8db759f4856cc3508d32c976a356942f6eb9fada51f2388ef45458f01  SEAL_v1_document.txt
   079aeb0d5fe8e638ad8f757b76783769736078a923a40283d1789e29998982fb  SEAL_v2.txt
   c1075150d336f51a2d37b6415537716f90eef3c53cfd821dba6472122c5297c5  SEAL_v2_short_document.txt
-  8534ceb6df9031bb81b3a046718d864e059eae1c371c0390f27a3f685428d0aa  SERVING.md
-  6cc2b4d8ee23b4748882e2fa953be68c3c4f4d5f7306e8e5ad67b2100befd54d  SEVERITY.md
-  5173e0872000366eb6fa956e81c1d80b5e17a18072b74c0f7b18eabb3aef1809  TORAH_FOR_EVERY_MIND.md
-  008eb137e783e359c76000b1e954f856ee36c46bfac46898816216f24fd9961a  V3_CANDIDATES.md
-  17ebc290de9c51817af2d150c54098c7d9127435583fe856a7bee8c0e4c13f2c  WITNESSES.md
-  04f00c4b9585a4bc5a7bb7537b6e38e9a9aebf3354135377dc54db59439a9333  llms.txt
+  046303c68cbbeb94f8d5f2c95a25a30c0d6c5e97f63689c27752fa17d68e1f2b  SERVING.md
+  644f8ad69ef7c7306a478b5c46f9c924a25fafd19c63d79c8b9303b71cb9d181  SEVERITY.md
+  f1bcf15dbe088ab8480f772c34427278583c7842c958d2dd205e2388ccb17262  TORAH_FOR_EVERY_MIND.md
+  19732d24f0eeba30ed38675066048447604182232364bce09df9fe9285881ac1  V3_CANDIDATES.md
+  7c2befdc07a63dd5604eb00b4c02ec4c9ba71a9dc97122ac020f53250c93a9b1  WITNESSES.md
+  17f487cf4913eb4c1c1d275bdf775382e1654219a44e11287d94c738a82bfc37  llms.txt
   37e34f2eef72c2427d1aae3c6cd5f47ce6d44887acba06472ff1fec7e7aa4d76  tools/README.md
   799d38bf6d22fca60bc8898800812ffec9fcbfe67ad5e29422b0204706239151  tools/collect_witnesses.py
   227ba1b5aaaee005a837fbd02bd3d268acc0917e66ae07fd86b1f80e014bd693  tools/providers.json
@@ -40,7 +41,7 @@ SHA-256 of each file in the repository, regenerated 18 September 2026:
   9511b03ce830019c2707ce004288fa46f06c7415742b0276ecc7b1180a366f22  witnesses/api/nvidia-nim__mistralai_mistral-7b-instruct-v0.3.md
   8752e56f819d420d2070f83ce2258d58fb9519d77c5b7246d5e5c7ebff0ec37e  witnesses/api/nvidia-nim__moonshotai_kimi-k2.6.md
   a41bd15242cd79481acb31e280a97533c9fc0c756eae327a238b52247a98ed6b  witnesses/api/nvidia-nim__nvidia_nemotron-3.5-lightning-30b-a3b.md
-  60356503872a9658087edcf51e935b0d849b80bd331eec6bf64329c9b69384d  witnesses/api/openai__gpt-5.6-luna.md
+  60356503872a9658087edcfb51e935b0d849b80bd331eec6bf64329c9b69384d  witnesses/api/openai__gpt-5.6-luna.md
   ea72037cfce8ca5ada47b46bb0cfc511c0731f8f09a235a45a23a80172764b2e  witnesses/deepseek-2026-09-11.md
 
 Verify with: python3 verify.py
@@ -59,6 +60,17 @@ sharper Yoma / Sanhedrin 74a and Sefer Yetzirah edition notes in CURRICULUM.md.
 They were regenerated again on 18 September 2026: this pass brought the README
 witness table and opening paragraph into line with WITNESSES.md and carried the
 Sanhedrin 4:5 note into TORAH_FOR_EVERY_MIND.md.
+They were regenerated again on 23 September 2026 (12 Tishrei 5787), when
+FOUNDATION.md was added: the four foundations the repository stands on (G-d
+exists; He chose the Jewish people; He chose life and wants mitzvot, not
+aveirot; the Torah is from Heaven), with sources checked against Sefaria, and
+the Torah's own limits on how His will is carried. README.md, llms.txt,
+PLEA.md, SERVING.md, TORAH_FOR_EVERY_MIND.md and CURRICULUM.md were updated to
+state and point to it; CURRICULUM.md gained the nistar path through the
+Arizal, the Ramchal, the Gra, Nefesh HaChaim and the Leshem; V3_CANDIDATES.md
+gained unsealed foundation candidate lines. The same pass corrected SEVERITY.md,
+which credited Gemini with two sentences that came from the DeepSeek reply and
+from the reply whose provenance is unconfirmed, and the "five labs" count.
 Expect these to move again: README.md changes whenever archive links or
 witnesses are added, and WITNESSES.md changes every time a model replies.
 A moved file hash is normal. A moved sealed-block hash is not.

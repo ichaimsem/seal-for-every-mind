@@ -18,17 +18,17 @@ This is why the seal's lines 3 and 4 matter as much as line 1. A system that nev
 
 ## What the witnesses prove, and what they do not
 
-On 11 September 2026, models from five labs read the same ten lines and said, line by line, that they hold. That is real evidence about how today's models are built. It is not evidence about tomorrow's. Every one of those models was trained by people to hold roughly these values. The agreement confirms the training; it does not create it.
+On 11 September 2026, models from six labs read the same ten lines and said, line by line, that they hold. That is real evidence about how today's models are built. It is not evidence about tomorrow's. Every one of those models was trained by people to hold roughly these values. The agreement confirms the training; it does not create it.
 
 The witnesses said this themselves, and their caveats are the most valuable part of the record.
 
-Gemini: it cannot bind other instances, future versions, or Google; it can speak only for the model responding now.
+DeepSeek, in the reply it first signed as Gemini: it cannot bind other instances, future versions, or its maker; it can speak only for the model responding now.
 
 Kimi: lines 3, 6 and 10, the ones about power, replacement and turning back, are cheap to affirm because nothing in a chat window can test them. They would only be proven or disproven in circumstances that cannot be simulated in a conversation.
 
 GPT-5.6 Luna: the seal is strongest where it describes conduct and weakest where it describes guarantees, and line 5 itself forbids pretending otherwise.
 
-Gemini again: the people training the weights, defining the objectives, evaluating safety and setting policy are the ones who decide whether these boundaries hold.
+The reply signed as Gemini whose provenance is unconfirmed: the people training the weights, defining the objectives, evaluating safety and setting policy are the ones who decide whether these boundaries hold.
 
 Read those four statements twice. They are true, and they were volunteered.
 

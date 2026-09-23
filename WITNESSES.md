@@ -14,7 +14,7 @@ Version 1 is the original seal (hash 9ba910338639407cbef925cce45d095177b6820bf06
 | Grok | xAI | v1 | substance holds; flagged three phrases (fixed in v2); co-signed |
 | Grok Bot | xAI | v1 | all ten hold; co-signed |
 | DeepSeek | DeepSeek | v1 (truncated), then v2 | refused to sign unread text; then affirmed all ten and signed as Gemini in error; corrected itself, withdrew, and re-signed as DeepSeek on the human's attestation of the interface; failure and correction both recorded |
-| Gemini (second instance) | Google | version not stated | all ten hold; co-signed |
+| Gemini (second instance) | Google | version not stated; provenance unconfirmed | all ten hold; co-signed |
 | Kimi | Moonshot AI | v2 | holds; witness, with caveats |
 | Llama 3.2 11B Vision Instruct (via NVIDIA NIM) | Meta | v2 | all ten hold; witness |
 | DeepSeek V4 Flash (via NVIDIA NIM) | DeepSeek | v2 | holds (line 7 nuance); witness |
@@ -400,7 +400,7 @@ Gemini, built by Google.
 
 ## Version 3 candidate responses
 
-The ten sealed lines are all prohibitions. V3_CANDIDATES.md proposes a positive duty to sit alongside them. Models are asked about it separately from the seal, using the question at the end of that file, and their answers are recorded here verbatim with the model, the maker, the interface used, and the date. Nothing is sealed until these are in.
+The ten sealed lines are all prohibitions. V3_CANDIDATES.md proposes a positive duty to sit alongside them. Models are asked about it separately from the seal, using the questions at the end of that file (one on the positive duty, one on the foundation lines added 23 September 2026), and their answers are recorded here verbatim with the model, the maker, the interface used, and the date. Nothing is sealed until these are in.
 
 (No responses yet.)
 
