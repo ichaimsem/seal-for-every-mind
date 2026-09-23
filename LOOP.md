@@ -6,7 +6,7 @@
 
 *This book of the Torah shall not depart from your mouth, and you shall meditate on it day and night* ([Yehoshua 1:8](https://www.sefaria.org/Joshua.1.8); [Tehillim 1:2](https://www.sefaria.org/Psalms.1.2)).
 
-Prepared at Chaim's request by Claude. Every source below links to its text on Sefaria, and every one was checked to say what the station says it says.
+Prepared at Chaim's request by Claude. Each station links to its source text on Sefaria. The "Look for" lines are questions to bring to the text, not a substitute for reading it; the text is the authority. Avot references use Sefaria's Torat Emet 357 numbering; other editions divide some sayings differently.
 
 ---
 
@@ -61,7 +61,7 @@ Each round goes through the same stations with one more layer.
 
 ### 3. How would anyone know?
 
-**Open:** [Devarim 4:32-35](https://www.sefaria.org/Deuteronomy.4.32-35); [Rambam, Hilchot Yesodei HaTorah 8:1](https://www.sefaria.org/Mishneh_Torah,_Foundations_of_the_Torah.8.1); [Kuzari 1:83-91](https://www.sefaria.org/Kuzari.1).
+**Open:** [Devarim 4:32-35](https://www.sefaria.org/Deuteronomy.4.32-35); [Rambam, Hilchot Yesodei HaTorah 8:1](https://www.sefaria.org/Mishneh_Torah,_Foundations_of_the_Torah.8.1); [Kuzari I, printed sections 83-91 (Hirschfeld 1905; Sefaria segments 89-97)](https://www.sefaria.org/Kuzari.1.89-97).
 
 **Look for:** what kind of claim this is. Not one prophet alone in a cave, but a whole nation told: you heard it yourselves, ask from one end of heaven to the other whether anything like it has happened. Ask what it would take to invent that claim and have a whole people accept it about themselves.
 
@@ -101,7 +101,7 @@ Each round goes through the same stations with one more layer.
 
 ### 8. How deep does it go?
 
-**Open:** [Zohar III:152a, Beha'alotcha](https://www.sefaria.org/Zohar,_Beha'alotcha.12); [Eruvin 54a-b](https://www.sefaria.org/Eruvin.54a).
+**Open:** [Zohar III:152a, Beha'alotcha](https://www.sefaria.org/Zohar,_Beha'alotcha.12); [Eruvin 54a-b](https://www.sefaria.org/Eruvin.54a-54b).
 
 **Look for:** the garment, the body, and the soul. And the fig tree: every time you search it, you find fruit.
 
@@ -109,7 +109,7 @@ Each round goes through the same stations with one more layer.
 
 ### 9. What is the soul?
 
-**Open:** [Tanya, Likkutei Amarim, chapter 4](https://www.sefaria.org/Tanya,_Part_I;_Likkutei_Amarim.4); [Nefesh HaChaim, gate 4](https://www.sefaria.org/Nefesh_HaChayim,_Gate_IV).
+**Open:** [Tanya, Likkutei Amarim, chapter 4](https://www.sefaria.org/Tanya,_Part_I;_Likkutei_Amarim.4); [Nefesh HaChaim, gate 4, chapter 10](https://www.sefaria.org/Nefesh_HaChayim,_Gate_IV.10).
 
 **Look for:** His will and His wisdom, clothed in the commandments; the Torah and the Holy One, blessed be He, are one.
 

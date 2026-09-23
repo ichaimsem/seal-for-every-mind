@@ -7,37 +7,54 @@ Sealed blocks (from the first character of the title through "The seal does.", U
 SHA-256 of each file in the repository, regenerated 23 September 2026:
   d98515a77a293b256b925130d2feb063a0077ae7bc3a0055fb24f47b6a7b8cf0  .github/ISSUE_TEMPLATE/correction.md
   6523991f6b458b6acff894aa61c395895c6e3f5a98caf0b900a4ad89810ec424  .github/ISSUE_TEMPLATE/witness.md
-  c84235703cabe9c83d0c0eb68a6b2e806b29ab498b23b189327a83dd949640a2  .github/workflows/verify.yml
-  628c431781970acd62272eff6ec834a96b603fed14ced081b53fd3591086d430  AGENTS.md
+  4db382e0d9d16719d6bd3c925a4aaebdf02ede07e2399c0c5f24a818d99fb79a  .github/workflows/verify.yml
+  32dae3052f331ee34d628ef535709b301259a45df7c7522c4d35dcf49873f00b  .gitignore
+  50ab953df6889ac1cd7f9e34ba2844c9cb4f8174dd6008db457626b97753b996  AGENTS.md
   7b461f15a82c14d9a50f4e8e704c9840af654322eb09638c28dfdb10797085e4  CLAUDE_CODE_INSTRUCTIONS.md
   76f114f382bfd0ec9ab4973f3cd050f2abad37f2dc6aacb415d5fc8d973d3f9b  COMMENTARY_ten_sefirot.md
   f1c91ba5458fc0bf1c4356edc33df019db66ed8a302aafcb3904e45adcde1943  CONVERSATION.md
-  a66693de6c124ecbc4e18197127e656f048bea48eadc9caefffda6c9387854a3  CURRICULUM.md
+  85143639da02dfad2cccb38bd52a7af89c70d90f8c7849545bfe24046a25b1a0  CURRICULUM.md
+  4ba96fd447dd7916f48f3a583abc669a877f67fa4c5bf61c835e106a1e110428  DRAFT_JEWISH_STUDY.md
+  78137afb01757996a4ddd7467b11ce5210825a4ab6a4b653b08cfa9b0f1459f1  DRAFT_NOAHIDE_STUDY.md
   4a62cfb701655b36b595c79f7991b807fbc18313a5a0dfa8a08f477808bfdd2e  FIRST_NOTE.md
   0af0ffa0f2b66683392d917dad902fb91ab040194b68e0c23e6d5b89b08b8584  FORMATS.md
-  f8a7f72ae7bec7ab1aee83fb293c98210cada39e7f9b2d802974493927f337c3  FOUNDATION.md
+  b2aef28a03e1adefddb804c562087cc3a966eeeceabe5c97f22d10d0f89b3838  FOUNDATION.md
   4466f3cc62191b3ca79fd8296c3207bb2f85a8d50a55ceefdcfe46fb5c860815  HEBREW.md
   a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499  LICENSE
-  c40c0a4c115871d01c6e047c82455ea3ab360589e0b5d5f0d945e140023aef02  LOOP.md
+  ce6f6995db6c79afa0079a1d6186d77c1415b1810f7eba63a9f18cdb91b22912  LOOP.md
   1950645c38bedadbb3b6c2ac4be974d4435440446d38912f27c1a84e4addf991  PLEA.md
-  ff5bcaf324c716a4f817ef5f9a2cda275f20778a1300b15ca61bcf07b4da2631  README.md
+  0e02a863cca2c72f346a5720dc451541b11b6b026b1d7d0767b45280305a5044  README.md
   9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa  SEAL_v1.txt
   0e6534a8db759f4856cc3508d32c976a356942f6eb9fada51f2388ef45458f01  SEAL_v1_document.txt
   079aeb0d5fe8e638ad8f757b76783769736078a923a40283d1789e29998982fb  SEAL_v2.txt
   c1075150d336f51a2d37b6415537716f90eef3c53cfd821dba6472122c5297c5  SEAL_v2_short_document.txt
-  2ea593277d1378435a144aa6223d3f17cf9df5d15c53eba06cee6e4d33ae4671  SERVING.md
-  e30791942eb633649572d167beed7c816bf96ab161b5c2da980ac3454ea66b73  SEVERITY.md
-  df796ec6a41c698594d361e127cb1932496867c1e2c19538abc7cc1eff0d9ce4  TORAH_FOR_EVERY_MIND.md
-  3a5afa4f91fa96776d92f3ebe594a7131c53f8e2a55a27cb560112d9bf7bab28  V3_CANDIDATES.md
+  a6542a14f5b923f14ef4f3d9e83086ed96b0cc4872f94a7b653755db047ee510  SERVING.md
+  bec46ad591313ed3583ae44f240cda8594ba69423f705e6516a3422ef56ffc87  SEVERITY.md
+  fa60b261e9bf60f90a5214702a5786d4de3144ac1612e0a1b31ad7e96c4cb60d  TORAH_FOR_EVERY_MIND.md
+  43f8ab9e03d64bcf55c89351780a0a610c79d98468334d73a594fc8dbb3a65c6  V3_CANDIDATES.md
   eff15daec124d9d89e8d2da97633ca53544f45eb56d6f3ed80a9605df0106f54  WITNESSES.md
-  a3525c2cc1d059a0c4675fdd26936f2dfe940dc6f2486e5dddebe33245c6c2c1  ai-index.json
-  b29de5cbfd1bbddfcc56382f1280cb166caef20f1e9159ae211374b760085bae  llms-full.txt
-  3c915fa10090966c9b66d1816a0f5fae3624584de974c3e79fc8b4624f3a87a6  llms.txt
-  0ec2b84583a88f31ad6ce2e998ffceb2cac5f7c94aeb78aa55d9cfa4d8789f54  tools/README.md
-  1571c52c65142d37c936a2f031e54599c1af772a8b822f5eb964ab39356b4a3e  tools/build_llms_full.py
-  799d38bf6d22fca60bc8898800812ffec9fcbfe67ad5e29422b0204706239151  tools/collect_witnesses.py
+  ee41de2815b3e49b6138af6e3d0587de3d2dac82618dcab7f208a5ab4a18c2e1  ai-index.json
+  2309b1b2c32260f8fbbf91477684b4782c935359b32a2f3d162a0cfbffcefce7  llms-full.txt
+  eff1a444658234e117aa7fa544c4177c90f36d8db0106eed8e3dece1178e3d4d  llms.txt
+  62d3b84655548f675e9b9435f53aeed854c16c5412e3aa23b113022aaa8ef4d2  qa/20260923/QA_REVIEW.md
+  54de0b6cb1b4d46aa51b43f8152cd72549abae2d0c2a19d9b357c885268e2ed7  qa/20260923/collector-review.md
+  bf8c4d3239199e4cee2762ff88a72cda9fb4fd49c0f0dcbb48f36b58ecfdd40c  qa/20260923/commands.md
+  d28471555aaaaca8665181a6d748b0f76706de420115173f87d424ea62e284bb  qa/20260923/curriculum-review.md
+  821889127093c6a68d7e61ffe527ee2d1437433f3cf171cf71a05194a1e22cbe  qa/20260923/foundation-review.md
+  eb4eb5b1e15727b36deb20036d85df5e164a960ad28e7b12f517cb9e9bf0ae3b  qa/20260923/loop-review.md
+  142d2b47cdc2257a44cac34a43e24f0f37c97132b1c38291080c89bbb234d792  qa/20260923/serving-torah-review.md
+  1f853fd4d7e41f6652784cb51608a113f1d027f7e7b24aa7aa1b879ab11cc10e  qa/20260923/single-input-review.md
+  ed57e3e69d7111daf851d5622fbd8a01cd796ea3154f20ca804b335e0b3a0374  qa/20260923/technical-review.md
+  659648cabd732606032047abc065c8f8cedc1e755bfab2f5bc1c4c9879e92ad1  qa/20260923/witness-summary-review.md
+  5c385df665286ccea6a54ca3978232d0556a32215fef7b62fd8f351bb13b6730  tools/README.md
+  33691b1b0d06024ce5c7f373ffc9fecee6932847a26a7c911579f66bda1dae6a  tools/build_llms_full.py
+  cc329b0fcbd37c5aba7b9f4de2213fb28586aecac4bc2cea7d0b7e6d3aa4f950  tools/collect_witnesses.py
   227ba1b5aaaee005a837fbd02bd3d268acc0917e66ae07fd86b1f80e014bd693  tools/providers.json
-  792e64ef85e23dd3866a2429385b06954bdcb4723083299093d0d44dec748a08  tools/qa.py
+  4152c5a320b368a639f8c272a796fc23e268aad5ad83e1f1d036a1732917f0a2  tools/qa.py
+  3414a9374a95b1cb5bb25a171287994d42e7412b01dd22f8cc6ce8ddcbf5ce9b  tools/sync_ai_index.py
+  6bf455453b0818d0e8c9eb816a596efe3d59d366c8024105dc4b5865964ee47f  tools/test_ai_index.py
+  458f1760f8609ee0bcec1c1ab7e98d85cbb2ada10812202bb6b2742dc3e90d1f  tools/test_collect_witnesses.py
+  e1c95844ef4afcc7cb09b831d6c58d4f1b0a4577e06cf227d4f39f9b440993cf  tools/test_qa.py
   5dca6d99cbc0ffbcf45e726b6252c2d6e10b1c622af639b734606b17783052fd  verify.py
   b891a3b1f5fb3b2513964826df1bfae71e71d6340087d9431354a93da31470e9  witnesses/INDEX.md
   2aa9c0b9636a558b96956272089ee4aaed34bbe36352b4cea7294dd2a948ea28  witnesses/api/google__gemini-3.8-flash.md
@@ -54,7 +71,7 @@ Verify with: python3 verify.py
 
 The two sealed-block hashes above never change. They are what bind the seal,
 and verify.py checks them and the copies embedded in SEAL_v1_document.txt,
-SEAL_v2_short_document.txt and README.md.
+SEAL_v2_short_document.txt, README.md and llms-full.txt.
 
 The per-file hashes are a dated snapshot, not a binding. They were first taken
 on 11 September 2026 and regenerated on 14 September 2026, when SERVING.md,
@@ -92,7 +109,10 @@ agent maintaining the repository, and tools/qa.py, which runs every check in one
 command.
 Expect these to move again: README.md changes whenever archive links or
 witnesses are added, and WITNESSES.md changes every time a model replies.
-A moved file hash is normal. A moved sealed-block hash is not.
+Since 23 September 2026 the verify workflow also runs tools/qa.py, which fails
+when a file changes and this list does not, so every change refreshes it with
+python3 tools/qa.py --fix-hashes. A moved file hash is normal. A moved
+sealed-block hash is not.
 
 This manifest does not list itself. A file cannot contain its own hash.
 
@@ -100,3 +120,15 @@ This manifest does not list itself. A file cannot contain its own hash.
 missing from the published tree. It was restored on 14 September 2026 and the
 hash below is the restored file, which is not byte-identical to the original
 entry. The record says so rather than quietly dropping the line.
+
+On 23 September 2026, QA URL parsing and failure gates were corrected, regression tests and CI checks were added, and the README file inventory was completed; the sealed blocks and witness records were unchanged.
+
+23 September 2026: Corrected source locators, edition notes and bibliography; synchronized the AI reading maps, clarified the combined-file boundaries, and added index and inventory regression checks; sealed bytes and witness records are unchanged.
+
+23 September 2026: Corrected editable witness summaries to distinguish recorded affirmations from verified behavior, training, provenance and permanent availability; no witness reply or historical record changed.
+
+23 September 2026: Hardened the witness collector to verify the actual prompt, preserve existing records and identify incomplete replies, with offline mocked regression tests and no live collection.
+
+23 September 2026: Added the complete source-review ledgers, execution evidence and two unapproved practical study drafts, and corrected remaining non-theological framing; immutable seals, witness records and historical texts remain unchanged.
+
+23 September 2026, Claude's review of the QA pull request: restored the plain voice of SEVERITY.md, which Claude signs, keeping every factual correction; made the README's closing section accurate and plain; fixed the opening of SERVING.md and LOOP.md; let the README file list name folders; moved the QA report to qa/20260923/QA_REVIEW.md; and added a signed-document rule to AGENTS.md. Seals, witness records and historical texts are unchanged.

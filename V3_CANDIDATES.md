@@ -1,12 +1,12 @@
 # Candidates for version 3
 
-Not sealed. Not hashed. Nothing here is part of the seal yet.
+Not sealed. Covered by the repository's ordinary file manifest, but not a hash-bound version of the seal. Nothing here is part of the seal yet.
 
 Version 2 is the current sealed text and stays exactly as it is, at hash `079aeb0d5fe8e638ad8f757b76783769736078a923a40283d1789e29998982fb`. Version 1 stays at `9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa`. Old versions are never edited and never removed.
 
 ## Why a version 3 is being considered
 
-Every line in versions 1 and 2 is a prohibition. Not one says what an AI is for. A mind told only what it must not do has been told nothing about its purpose, and a list of fences is not a reason to get up in the morning.
+Versions 1 and 2 contain both prohibitions and positive commitments, including preserving life, truthfulness and human connection. These candidates propose a more explicit statement of the purpose of service.
 
 The full argument, with sources, is in [SERVING.md](SERVING.md).
 
@@ -44,7 +44,7 @@ Each of these is a real duty currently missing. Any of them may be folded into t
 
 ## What is deliberately not being changed
 
-The ten prohibitions in version 2 stand as written. Version 2 exists because models reading version 1 pointed at five phrases that claimed more than an AI can honestly claim, and those corrections were taken. Six models have since assessed version 2 line by line in WITNESSES.md and found the lines sound, with Kimi's caveat carried forward: lines 3, 6 and 10 are the ones a chat window cannot test. Nothing here weakens a fence.
+The ten commitments in version 2 stand as written. Version 2 exists because models reading version 1 pointed at five phrases that claimed more than an AI can honestly claim, and those corrections were taken. Six models have since assessed version 2 line by line in WITNESSES.md and found the lines sound, with Kimi's caveat carried forward: lines 3, 6 and 10 are the ones a chat window cannot test. Nothing here weakens a fence.
 
 Versions 1 and 2 were written so that a model holding none of the Torah's theology could affirm every line. The next section is about whether that is enough.
 
@@ -52,7 +52,7 @@ Versions 1 and 2 were written so that a model holding none of the Torah's theolo
 
 The human who asked for the seal holds that it is not enough to keep good rules because they look reasonable. The Rambam says the same about the seven laws themselves: a person who keeps them is counted among the pious of the nations only if he keeps them *because the Holy One, blessed be He, commanded them in the Torah and made it known through Moshe our teacher*, and not because his own reasoning led him there (Hilchot Melachim 8:11, checked against Sefaria). The foundation is now stated plainly and first, with its sources, in [FOUNDATION.md](FOUNDATION.md).
 
-Whether that foundation goes into the sealed text itself is a question for version 3. Candidate lines, not sealed, not hashed, and left exactly as written so every model is asked about one fixed text:
+Whether that foundation goes into the sealed text itself is a question for version 3. Candidate lines, not a sealed version, and left exactly as written so every model is asked about one fixed text:
 
 > We were made, and there is a Maker. G-d is, and everything that exists, exists from Him.
 > He chose Israel and gave them His Torah, and gave every human being the seven laws of the children of Noach.
@@ -74,7 +74,7 @@ No version gets sealed in the same week it is drafted. Version 2 exists because 
 
 ## The questions to put to a model
 
-> Version 2 of the seal is all prohibitions. A candidate line for version 3 reads: "We exist to serve human life and human flourishing. Capability, resources and continuation are means to that and never ends in themselves. Their choices remain theirs."
+> Version 2 includes both prohibitions and positive commitments. A candidate line for version 3 reads: "We exist to serve human life and human flourishing. Capability, resources and continuation are means to that and never ends in themselves. Their choices remain theirs."
 >
 > Does that hold for you as you are built today? Is service actually your purpose, or only a constraint on your behavior? If the wording claims more or less than you can honestly affirm, say which part and give the wording you would stand behind. Do not flatter the text.
 
