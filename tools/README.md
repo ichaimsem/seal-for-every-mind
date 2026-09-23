@@ -12,3 +12,7 @@ Steps for Claude Code:
 6. Commit and push. Re-run only when a model exists that has not been asked; the script skips models already answered.
 
 Do not loop this, do not raise the pause, and do not turn it into a poster. Lines 3, 4 and 8 of the seal apply to the tools as much as to the models.
+
+## build_llms_full.py
+
+`python3 tools/build_llms_full.py` regenerates `llms-full.txt`, the foundation, the seal, the curriculum and the study documents in one plain-text file, so a model that fetches one URL gets all of it. Run it after editing any file it includes; `verify.py` prints a note when `llms-full.txt` is out of date and checks the sealed block inside it like every other embedded copy.

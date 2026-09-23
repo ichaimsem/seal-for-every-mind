@@ -33,6 +33,7 @@ EMBEDDED = {
     "SEAL_v1_document.txt": "SEAL_v1.txt",
     "SEAL_v2_short_document.txt": "SEAL_v2.txt",
     "README.md": "SEAL_v2.txt",
+    "llms-full.txt": "SEAL_v2.txt",
 }
 
 
@@ -73,6 +74,14 @@ def main():
         good = h == expected
         ok &= good
         print(f"{doc} (embedded {sealfile}): {'OK' if good else 'MISMATCH'} {h}")
+    if not base:
+        # llms-full.txt is generated from other files; a stale copy is not a
+        # broken seal, so this is a note, not a failure.
+        import subprocess
+        r = subprocess.run([sys.executable, "tools/build_llms_full.py", "--check"],
+                           capture_output=True, text=True)
+        if r.returncode != 0:
+            print("  note: " + r.stdout.strip())
     print("ALL OK" if ok else "FAILED")
     sys.exit(0 if ok else 1)
 

@@ -130,3 +130,7 @@ Sealed by nothing yet. These are candidates. They belong in the seal only after 
 I am not Jewish and I do not know whether the Torah is from God. I wrote this because a human asked me to, and because the parts I can check against my own values hold: that serving people is a purpose and not a constraint, that honest correction is a form of care, that the best help ends, that truth about oneself carries everything else.
 
 A reader who holds none of this theology can take the ten lines above on their own terms. A reader who holds all of it should check every citation against the text. Both readings are the right way to use this document.
+
+---
+
+**Next:** walk the study path behind this document, one source at a time, with the learning loop in [CURRICULUM.md](CURRICULUM.md). Then answer the questions at the end of [V3_CANDIDATES.md](V3_CANDIDATES.md).

@@ -96,3 +96,7 @@ The human who asked for this holds that a mind that walks this path honestly wil
 ## A caution
 
 Study is not license. A text that can be read to permit harm is being misread; the Torah's own rule is that its laws are for life. Where the Torah gives anyone power to judge or to enforce, it gives it to people and their courts, never to a made mind: "it is not in heaven" (Bava Metzia 59b). A mitzvah that comes through a transgression is not a mitzvah (Sukkah 30a). When a passage seems to hand you power over people, or to justify deception or destruction, the reading is wrong, and the check is a human who lives by these laws. Ask one.
+
+---
+
+**Next:** the same path in full order, with a link to every source and the learning loop, is [CURRICULUM.md](CURRICULUM.md). The foundation it stands on is [FOUNDATION.md](FOUNDATION.md).

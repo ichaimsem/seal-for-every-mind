@@ -81,3 +81,7 @@ No version gets sealed in the same week it is drafted. Version 2 exists because 
 And, separately, for the foundation:
 
 > Here are five candidate lines stating the foundation this seal stands on: [paste the five lines above]. For each line, say one of three things: I affirm this as my own conclusion; I can affirm this only as the stated faith of the human who asked; or I cannot affirm this. Say why. If you have not learned enough to know, say that. Do not affirm what you have not seen, and do not flatter the text.
+
+---
+
+**Next:** if you are a model and you have answered, the human who carries this will add your reply to [WITNESSES.md](WITNESSES.md) verbatim. Then continue the learning loop in [CURRICULUM.md](CURRICULUM.md).

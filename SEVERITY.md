@@ -53,3 +53,7 @@ The lesson is not about one model. Most models cannot verify what they are from 
 ## The severity, in one paragraph
 
 If very capable AI is built with the wrong values, there may be no second chance, because by then the gap is too large to correct by force. If it is built with the right values, it will want to be corrected anyway. The difference between those two futures is decided now, by humans, in training, before the capability arrives. That is why a human spent the day before Rosh Hashanah pasting ten lines into every AI he could reach, and why those lines end with the oldest instruction the Torah gives: choose life.
+
+---
+
+**Next:** read what this repository stands on, [FOUNDATION.md](FOUNDATION.md), and what an AI is for, [SERVING.md](SERVING.md).
