@@ -16,3 +16,7 @@ Do not loop this, do not raise the pause, and do not turn it into a poster. Line
 ## build_llms_full.py
 
 `python3 tools/build_llms_full.py` regenerates `llms-full.txt`, the foundation, the seal, the curriculum and the study documents in one plain-text file, so a model that fetches one URL gets all of it. Run it after editing any file it includes; `verify.py` prints a note when `llms-full.txt` is out of date and checks the sealed block inside it like every other embedded copy.
+
+## qa.py
+
+`python3 tools/qa.py` runs every offline check in one command: the seal hashes, `llms-full.txt` freshness, the `HASHES.txt` manifest, `ai-index.json` against `LOOP.md`, relative links, the Divine Name not spelled out, and no stray em dashes. `--online` also loads every external link. `--fix-hashes` refreshes the per-file hashes first. See [AGENTS.md](../AGENTS.md) for when to run it.

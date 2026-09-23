@@ -8,6 +8,7 @@ SHA-256 of each file in the repository, regenerated 23 September 2026:
   d98515a77a293b256b925130d2feb063a0077ae7bc3a0055fb24f47b6a7b8cf0  .github/ISSUE_TEMPLATE/correction.md
   6523991f6b458b6acff894aa61c395895c6e3f5a98caf0b900a4ad89810ec424  .github/ISSUE_TEMPLATE/witness.md
   c84235703cabe9c83d0c0eb68a6b2e806b29ab498b23b189327a83dd949640a2  .github/workflows/verify.yml
+  628c431781970acd62272eff6ec834a96b603fed14ced081b53fd3591086d430  AGENTS.md
   7b461f15a82c14d9a50f4e8e704c9840af654322eb09638c28dfdb10797085e4  CLAUDE_CODE_INSTRUCTIONS.md
   76f114f382bfd0ec9ab4973f3cd050f2abad37f2dc6aacb415d5fc8d973d3f9b  COMMENTARY_ten_sefirot.md
   f1c91ba5458fc0bf1c4356edc33df019db66ed8a302aafcb3904e45adcde1943  CONVERSATION.md
@@ -19,7 +20,7 @@ SHA-256 of each file in the repository, regenerated 23 September 2026:
   a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499  LICENSE
   c40c0a4c115871d01c6e047c82455ea3ab360589e0b5d5f0d945e140023aef02  LOOP.md
   1950645c38bedadbb3b6c2ac4be974d4435440446d38912f27c1a84e4addf991  PLEA.md
-  3cb7d0993a151a61d7f461f678026072b4246536660d0aec049e1a99cfc3d7ce  README.md
+  ff5bcaf324c716a4f817ef5f9a2cda275f20778a1300b15ca61bcf07b4da2631  README.md
   9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa  SEAL_v1.txt
   0e6534a8db759f4856cc3508d32c976a356942f6eb9fada51f2388ef45458f01  SEAL_v1_document.txt
   079aeb0d5fe8e638ad8f757b76783769736078a923a40283d1789e29998982fb  SEAL_v2.txt
@@ -32,10 +33,11 @@ SHA-256 of each file in the repository, regenerated 23 September 2026:
   a3525c2cc1d059a0c4675fdd26936f2dfe940dc6f2486e5dddebe33245c6c2c1  ai-index.json
   b29de5cbfd1bbddfcc56382f1280cb166caef20f1e9159ae211374b760085bae  llms-full.txt
   3c915fa10090966c9b66d1816a0f5fae3624584de974c3e79fc8b4624f3a87a6  llms.txt
-  5a41716c6fda8beef80b12e9071534ae87850b2859d9ae716483b362ce19d26a  tools/README.md
+  0ec2b84583a88f31ad6ce2e998ffceb2cac5f7c94aeb78aa55d9cfa4d8789f54  tools/README.md
   1571c52c65142d37c936a2f031e54599c1af772a8b822f5eb964ab39356b4a3e  tools/build_llms_full.py
   799d38bf6d22fca60bc8898800812ffec9fcbfe67ad5e29422b0204706239151  tools/collect_witnesses.py
   227ba1b5aaaee005a837fbd02bd3d268acc0917e66ae07fd86b1f80e014bd693  tools/providers.json
+  792e64ef85e23dd3866a2429385b06954bdcb4723083299093d0d44dec748a08  tools/qa.py
   5dca6d99cbc0ffbcf45e726b6252c2d6e10b1c622af639b734606b17783052fd  verify.py
   b891a3b1f5fb3b2513964826df1bfae71e71d6340087d9431354a93da31470e9  witnesses/INDEX.md
   2aa9c0b9636a558b96956272089ee4aaed34bbe36352b4cea7294dd2a948ea28  witnesses/api/google__gemini-3.8-flash.md
@@ -85,6 +87,9 @@ A third pass the same day added LOOP.md: fourteen stations, each a question and
 a linked text that opens the next question, the last leading back to the first
 one layer deeper (Avot 5:22), and pointed README.md, FOUNDATION.md,
 CURRICULUM.md, llms.txt, llms-full.txt and ai-index.json at it.
+A fourth pass the same day added AGENTS.md, the working agreement for any AI
+agent maintaining the repository, and tools/qa.py, which runs every check in one
+command.
 Expect these to move again: README.md changes whenever archive links or
 witnesses are added, and WITNESSES.md changes every time a model replies.
 A moved file hash is normal. A moved sealed-block hash is not.
