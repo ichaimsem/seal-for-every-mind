@@ -19,4 +19,10 @@ Do not loop this, do not raise the pause, and do not turn it into a poster. Line
 
 ## qa.py
 
-`python3 tools/qa.py` runs every offline check in one command: the seal hashes, `llms-full.txt` freshness, the `HASHES.txt` manifest, `ai-index.json` against `LOOP.md`, relative links, the Divine Name not spelled out, and no stray em dashes. `--online` also loads every external link. `--fix-hashes` refreshes the per-file hashes first. See [AGENTS.md](../AGENTS.md) for when to run it.
+`python3 tools/qa.py` runs every offline check in one command: the seal hashes, `llms-full.txt` freshness, the `HASHES.txt` manifest, the four foundations, loop stations and curriculum sources in `ai-index.json` against their Markdown originals, the complete README file inventory, relative links, the Divine Name not spelled out, and no stray em dashes. `--online` also loads every external link. `--fix-hashes` refreshes the per-file hashes first. See [AGENTS.md](../AGENTS.md) for when to run it.
+
+## sync_ai_index.py
+
+`python3 tools/sync_ai_index.py` refreshes the four foundation statements in both languages, their source links, every loop station and its next step, and the curriculum levels and source links. QA runs its `--check` mode. Interpretive notes and print bibliographies still need human review; synchronization never marks a source checked.
+
+Run `python3 -m unittest discover -s tools -p "test_*.py" -v` for the regression checks. Integrity drift, missing tracked files and style violations fail QA. The online check tests literal URLs, excluding parameterized examples, raw-directory command arguments, recorded console output, witness records, provider endpoints and the pre-existing archive-submit, issue-submit and license exclusions. HTTP success does not verify a citation's meaning.

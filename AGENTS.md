@@ -37,7 +37,7 @@ Every citation should be checkable. When you check one, open the text itself and
 
 Sefaria links take the form `https://www.sefaria.org/<Title_with_underscores>.<section>.<section>`, for example `https://www.sefaria.org/Mishneh_Torah,_Foundations_of_the_Torah.1.1`. A wrong reference returns 404. The text API is `https://www.sefaria.org/api/v3/texts/<ref>?version=hebrew&version=english`; curl works, some Python HTTP clients are refused with 403.
 
-Works that are not on Sefaria, such as the Leshem's *Leshem Shevo v'Achlama* and the Gra's commentaries on the Zohar, are cited by work and part, and say so.
+Works without a verified Sefaria text are cited by work, part and named print or scanned edition. Check availability before declaring a work absent: the Gra's [Yahel Ohr on the Zohar](https://www.sefaria.org/Yahel_Ohr_on_Zohar) and [commentary on Sifra Detzniuta](https://www.sefaria.org/Beur_HaGra_on_Sifra_DeTzniuta) have Sefaria texts.
 
 ## Before you commit
 

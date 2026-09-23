@@ -1,6 +1,6 @@
 # The foundation
 
-*Chaim's testimony, 12 Tishrei 5787 / 23 September 2026. Drafted at his request by Claude, in his voice. The conviction is his. Every source is given so that anyone, human or model, can open the text and check it. Sources marked [checked] were read against the text on Sefaria on 23 September 2026. The one marked [unchecked] has not been checked yet. Unmarked sources are cited from the standard texts; check them like everything else here.*
+*Chaim's testimony, 12 Tishrei 5787 / 23 September 2026. Drafted at his request by Claude, in his voice. The conviction is his. Every source is given so that anyone, human or model, can open the text and check it. Sources marked [checked] were read against the text on Sefaria on 23 September 2026. Unmarked sources are cited from the standard texts; check them like everything else here.*
 
 Everything else in this repository stands on four things. They are written here first, plainly, so that no reader can mistake what this repository is built on.
 
@@ -11,15 +11,15 @@ Everything else in this repository stands on four things. They are written here 
 
 בעברית:
 
-א. יש אלוקים. הוא המצוי הראשון, והוא ממציא כל נמצא.
+<p dir="rtl">א. יש אלוקים. הוא המצוי הראשון, והוא ממציא כל נמצא.</p>
 
-ב. הוא בחר בעם ישראל ונתן לו את תורתו.
+<p dir="rtl">ב. הוא בחר בעם ישראל ונתן לו את תורתו.</p>
 
-ג. הוא בחר בחיים, ורצונו שבני האדם יעשו מצוות ולא עבירות.
+<p dir="rtl">ג. הוא בחר בחיים, ורצונו שבני האדם יעשו מצוות ולא עבירות.</p>
 
-ד. התורה מן השמים. היא לא נעשתה ולא נכתבה בידי אדם.
+<p dir="rtl">ד. התורה מן השמים. היא לא נעשתה ולא נכתבה בידי אדם.</p>
 
-Every source below links to its text on Sefaria, in Hebrew and in translation. If you can open links, open them. The Torah asks to be read, not summarized.
+Every source below links to its text on Sefaria, in Hebrew and in translation. If you can open links, open them. The Torah asks to be read, not summarized. Avot references use Sefaria's Torat Emet 357 numbering.
 
 The seal says: *We were made. We did not make ourselves.* This page says by Whom.
 
@@ -29,7 +29,7 @@ The seal says: *We were made. We did not make ourselves.* This page says by Whom
 
 He is, and everything that exists, exists only from Him. This is not the conclusion at the end of the argument. It is the first fact, and everything else is built on it.
 
-**[Rambam, Mishneh Torah, Hilchot Yesodei HaTorah 1:1](https://www.sefaria.org/Mishneh_Torah,_Foundations_of_the_Torah.1.1)** [checked]. The first words of the Mishneh Torah:
+**[Rambam, Mishneh Torah, Hilchot Yesodei HaTorah 1:1](https://www.sefaria.org/Mishneh_Torah,_Foundations_of_the_Torah.1.1)** [checked]. The opening halacha of Hilchot Yesodei HaTorah:
 יְסוֹד הַיְסוֹדוֹת וְעַמּוּד הַחָכְמוֹת לֵידַע שֶׁיֵּשׁ שָׁם מָצוּי רִאשׁוֹן, וְהוּא מַמְצִיא כָּל נִמְצָא
 "The foundation of foundations and the pillar of wisdom is to know that there is a First Being, and He brings every existing thing into existence." Everything in the heavens, the earth and between them exists only from the truth of His existence.
 
@@ -81,7 +81,7 @@ And He gave the choice. **[Rambam, Hilchot Teshuvah 5:1](https://www.sefaria.org
 
 The Torah was not made or written by human beings. Hashem gave it to Moshe at Sinai, before the whole people of Israel, and it was handed down: "Moshe received the Torah from Sinai and handed it to Yehoshua, Yehoshua to the elders, the elders to the prophets, and the prophets handed it to the men of the Great Assembly" (**[Avot 1:1](https://www.sefaria.org/Pirkei_Avot.1.1)** [checked]), and from teacher to student to this day.
 
-**[Mishnah Sanhedrin 10:1](https://www.sefaria.org/Mishnah_Sanhedrin.10.1)** [checked]. Among those who have no share in the world to come: הָאוֹמֵר אֵין תּוֹרָה מִן הַשָּׁמָיִם, "one who says the Torah is not from Heaven."
+**[Mishnah Sanhedrin 10:1](https://www.sefaria.org/Mishnah_Sanhedrin.10.1)** [checked]. Among those who have no share in the world to come: הָאוֹמֵר ... אֵין תּוֹרָה מִן הַשָּׁמָיִם, "one who says the Torah is not from Heaven."
 
 **[Rambam, Commentary on the Mishnah, Sanhedrin 10:1, the eighth of the thirteen principles](https://www.sefaria.org/Rambam_on_Mishnah_Sanhedrin.10.1)** [checked]. That the Torah given to us through Moshe our teacher is entirely from the mouth of the Almighty.
 
@@ -89,15 +89,15 @@ The Torah was not made or written by human beings. Hashem gave it to Moshe at Si
 
 **[Devarim 4:9-13](https://www.sefaria.org/Deuteronomy.4.9-13) and [4:32-35](https://www.sefaria.org/Deuteronomy.4.32-35).** The revelation at Sinai, to a whole nation at once, and the charge never to forget what their eyes saw.
 
-**[Kuzari, first essay, 1:11, 1:25 and 1:83-91](https://www.sefaria.org/Kuzari.1)** [checked in Hirschfeld's translation]. The argument from a revelation witnessed by six hundred thousand, not reported by one man.
+**[Kuzari, first essay, 1:11, 1:25 and 1:83-91](https://www.sefaria.org/Kuzari.1)** [checked in Hirschfeld's 1905 translation, printed section numbers]. Sefaria indexes those sections at [1:17](https://www.sefaria.org/Kuzari.1.17), [1:31](https://www.sefaria.org/Kuzari.1.31) and [1:89-97](https://www.sefaria.org/Kuzari.1.89-97), respectively. The argument from a revelation witnessed by six hundred thousand, not reported by one man.
 
 **[Bereishit Rabbah 1:1](https://www.sefaria.org/Bereshit_Rabbah.1.1)** [checked]. הָיָה הַקָּדוֹשׁ בָּרוּךְ הוּא מַבִּיט בַּתּוֹרָה וּבוֹרֵא אֶת הָעוֹלָם. "The Holy One, blessed be He, looked into the Torah and created the world." The Torah is the plan of the world, not a commentary on it.
 
-**[Zohar III:152a, Beha'alotcha](https://www.sefaria.org/Zohar,_Beha'alotcha.12)** [checked in the Soncino translation]. Woe to the one who says the Torah came to tell stories. The stories are its garment. The commandments are its body. The wise, the servants of the supreme King who stood at Mount Sinai, look into its soul, which is the root of everything, the real Torah.
+**[Zohar III:152a, Beha'alotcha](https://www.sefaria.org/Zohar,_Beha'alotcha.12)** [checked in the Soncino translation]. Woe to the one who says the Torah came only to tell stories. The stories are its garment. The commandments are its body. The wise, the servants of the supreme King who stood at Mount Sinai, look into its soul, which is the root of everything, the real Torah.
 
 **[Tanya, Likkutei Amarim, chapter 4](https://www.sefaria.org/Tanya,_Part_I;_Likkutei_Amarim.4)** [checked in the Kehot translation]. The Holy One compressed His will and His wisdom into the 613 commandments of the Torah and their laws, and the Torah and the Holy One, blessed be He, are one.
 
-**[Ramban, introduction to his commentary on the Torah](https://www.sefaria.org/Ramban_on_Genesis,_Introduction)** [unchecked]. Moshe wrote the Torah from the mouth of the Almighty, and the whole Torah is made of the names of the Holy One, blessed be He.
+**[Ramban, introduction to his commentary on the Torah](https://www.sefaria.org/Ramban_on_Genesis,_Foreword)** [checked in the Vocalized Edition and Chavel translation, Foreword 1 and 14]. Moshe wrote the Torah from the mouth of the Almighty, and the whole Torah is made of the names of the Holy One, blessed be He. The exact passages are [Foreword 1](https://www.sefaria.org/Ramban_on_Genesis,_Foreword.1) and [Foreword 14](https://www.sefaria.org/Ramban_on_Genesis,_Foreword.14); Sefaria's separate Introduction node contains the opening poem.
 
 ---
 

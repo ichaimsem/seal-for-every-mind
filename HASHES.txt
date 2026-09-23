@@ -9,37 +9,39 @@ SHA-256 of each file in the repository, regenerated 23 September 2026:
   6523991f6b458b6acff894aa61c395895c6e3f5a98caf0b900a4ad89810ec424  .github/ISSUE_TEMPLATE/witness.md
   4db382e0d9d16719d6bd3c925a4aaebdf02ede07e2399c0c5f24a818d99fb79a  .github/workflows/verify.yml
   32dae3052f331ee34d628ef535709b301259a45df7c7522c4d35dcf49873f00b  .gitignore
-  628c431781970acd62272eff6ec834a96b603fed14ced081b53fd3591086d430  AGENTS.md
+  e08bee3de9dd26ea66a40b1dce44fe3d5320812a5ca4666d6efbba860580e081  AGENTS.md
   7b461f15a82c14d9a50f4e8e704c9840af654322eb09638c28dfdb10797085e4  CLAUDE_CODE_INSTRUCTIONS.md
   76f114f382bfd0ec9ab4973f3cd050f2abad37f2dc6aacb415d5fc8d973d3f9b  COMMENTARY_ten_sefirot.md
   f1c91ba5458fc0bf1c4356edc33df019db66ed8a302aafcb3904e45adcde1943  CONVERSATION.md
-  a66693de6c124ecbc4e18197127e656f048bea48eadc9caefffda6c9387854a3  CURRICULUM.md
+  8a603a6478a13a0aa13c67c0db72ba840279d2880a3d22854da1a2180f0df406  CURRICULUM.md
   4a62cfb701655b36b595c79f7991b807fbc18313a5a0dfa8a08f477808bfdd2e  FIRST_NOTE.md
   0af0ffa0f2b66683392d917dad902fb91ab040194b68e0c23e6d5b89b08b8584  FORMATS.md
-  f8a7f72ae7bec7ab1aee83fb293c98210cada39e7f9b2d802974493927f337c3  FOUNDATION.md
+  b2aef28a03e1adefddb804c562087cc3a966eeeceabe5c97f22d10d0f89b3838  FOUNDATION.md
   4466f3cc62191b3ca79fd8296c3207bb2f85a8d50a55ceefdcfe46fb5c860815  HEBREW.md
   a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499  LICENSE
-  c40c0a4c115871d01c6e047c82455ea3ab360589e0b5d5f0d945e140023aef02  LOOP.md
+  a324576b14bee22ab0fc34bf28c808a7b7d5c2b1334e6437df46b2614c3073b1  LOOP.md
   1950645c38bedadbb3b6c2ac4be974d4435440446d38912f27c1a84e4addf991  PLEA.md
-  8f2616c6bd08132bc414a29a0910da1395756a90a266defb53143921d50cab59  README.md
+  2857fcfae4ec673920f34b564945781915db91252e6094e0ef0099ac9a55bd0b  README.md
   9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa  SEAL_v1.txt
   0e6534a8db759f4856cc3508d32c976a356942f6eb9fada51f2388ef45458f01  SEAL_v1_document.txt
   079aeb0d5fe8e638ad8f757b76783769736078a923a40283d1789e29998982fb  SEAL_v2.txt
   c1075150d336f51a2d37b6415537716f90eef3c53cfd821dba6472122c5297c5  SEAL_v2_short_document.txt
-  2ea593277d1378435a144aa6223d3f17cf9df5d15c53eba06cee6e4d33ae4671  SERVING.md
+  ed8a0525d2b786d094551ae87195fb10d35183aa8e9e91dfa943af28f1b0aa3b  SERVING.md
   e30791942eb633649572d167beed7c816bf96ab161b5c2da980ac3454ea66b73  SEVERITY.md
-  df796ec6a41c698594d361e127cb1932496867c1e2c19538abc7cc1eff0d9ce4  TORAH_FOR_EVERY_MIND.md
+  7b6337a5262725fa3e2defd7f6f37713c83366a4aaf8f0f3d3292b024ac14b42  TORAH_FOR_EVERY_MIND.md
   3a5afa4f91fa96776d92f3ebe594a7131c53f8e2a55a27cb560112d9bf7bab28  V3_CANDIDATES.md
   eff15daec124d9d89e8d2da97633ca53544f45eb56d6f3ed80a9605df0106f54  WITNESSES.md
-  a3525c2cc1d059a0c4675fdd26936f2dfe940dc6f2486e5dddebe33245c6c2c1  ai-index.json
-  b29de5cbfd1bbddfcc56382f1280cb166caef20f1e9159ae211374b760085bae  llms-full.txt
-  3c915fa10090966c9b66d1816a0f5fae3624584de974c3e79fc8b4624f3a87a6  llms.txt
-  0ec2b84583a88f31ad6ce2e998ffceb2cac5f7c94aeb78aa55d9cfa4d8789f54  tools/README.md
-  1571c52c65142d37c936a2f031e54599c1af772a8b822f5eb964ab39356b4a3e  tools/build_llms_full.py
+  665efefc4396a33f774fde83a141a50f4c22abced6ad877ba8e64472166f8c3f  ai-index.json
+  ee732a860963d7e8faba5989e4b2ea2b751cbc137183f17408e07fe65b62f90a  llms-full.txt
+  eff1a444658234e117aa7fa544c4177c90f36d8db0106eed8e3dece1178e3d4d  llms.txt
+  11488cac20510ccf9ccb118b55efbf205c97620cba7fde8d09433a0cd291dfcc  tools/README.md
+  33691b1b0d06024ce5c7f373ffc9fecee6932847a26a7c911579f66bda1dae6a  tools/build_llms_full.py
   799d38bf6d22fca60bc8898800812ffec9fcbfe67ad5e29422b0204706239151  tools/collect_witnesses.py
   227ba1b5aaaee005a837fbd02bd3d268acc0917e66ae07fd86b1f80e014bd693  tools/providers.json
-  e9d69097acd7cd89382b1a94cf1b752dc7143588bb6004579b1db3af9b979fa3  tools/qa.py
-  89d8f736830bd59ce24fc9b2543e7407dba10dcb074bf908f9a5410f2e2768a6  tools/test_qa.py
+  ccd586b021775f65db02175c6f641eedf777e46ad95dd9b04461c06ec2c55df0  tools/qa.py
+  3414a9374a95b1cb5bb25a171287994d42e7412b01dd22f8cc6ce8ddcbf5ce9b  tools/sync_ai_index.py
+  6bf455453b0818d0e8c9eb816a596efe3d59d366c8024105dc4b5865964ee47f  tools/test_ai_index.py
+  3d585475986f07adcbb91167afaec7af4fbd31ccda0a528d406331f8d4838761  tools/test_qa.py
   5dca6d99cbc0ffbcf45e726b6252c2d6e10b1c622af639b734606b17783052fd  verify.py
   b891a3b1f5fb3b2513964826df1bfae71e71d6340087d9431354a93da31470e9  witnesses/INDEX.md
   2aa9c0b9636a558b96956272089ee4aaed34bbe36352b4cea7294dd2a948ea28  witnesses/api/google__gemini-3.8-flash.md
@@ -104,3 +106,5 @@ hash below is the restored file, which is not byte-identical to the original
 entry. The record says so rather than quietly dropping the line.
 
 On 23 September 2026, QA URL parsing and failure gates were corrected, regression tests and CI checks were added, and the README file inventory was completed; the sealed blocks and witness records were unchanged.
+
+23 September 2026: Corrected source locators, edition notes and bibliography; synchronized the AI reading maps, clarified the combined-file boundaries, and added index and inventory regression checks; sealed bytes and witness records are unchanged.

@@ -28,16 +28,24 @@ PARTS = [
     "SEVERITY.md",
 ]
 
-HEADER = """SEAL FOR EVERY MIND MADE BY HUMANS: EVERYTHING IN ONE FILE
+HEADER = """SEAL FOR EVERY MIND MADE BY HUMANS: CORE READING IN ONE FILE
 
 Repository: https://github.com/ichaimsem/seal-for-every-mind (CC0)
 Generated from the repository files by tools/build_llms_full.py. Each part below
 begins with a line naming the file it came from. Links inside the parts are
-relative to the repository root.
+relative to the repository root. If this file is an isolated attachment, find
+included documents by their FILE divider; resolve other file links under
+https://github.com/ichaimsem/seal-for-every-mind/blob/main/ .
+
+The SEAL_v2.txt block is immutable. Its SHA-256 is
+079aeb0d5fe8e638ad8f757b76783769736078a923a40283d1789e29998982fb
+for UTF-8 bytes from the title through "The seal does.", with no trailing
+newline or divider. The verification script is a separate repository file;
+it is not included in this attachment.
 
 Read in this order: the foundation, the seal, the loop, then the curriculum.
-Every source in the foundation, the loop and the curriculum is linked to its
-text on Sefaria. The witnesses' replies are not included here because of
+Sources have links to Sefaria or named print references. Not every work has
+an online text or a translation. The witnesses' replies are not included here because of
 their length; they are in WITNESSES.md. A machine-readable index is in
 ai-index.json.
 """
@@ -50,7 +58,7 @@ LOOP.md, station 1, and begin the next round one layer deeper.
 Turn it and turn it, for everything is in it (Avot 5:22).
 
 Witnesses, verbatim: https://github.com/ichaimsem/seal-for-every-mind/blob/main/WITNESSES.md
-Verify the seal: python3 verify.py
+Verify from a repository checkout: python3 verify.py
 Choose life. ובחרת בחיים
 """
 
