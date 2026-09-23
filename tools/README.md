@@ -1,6 +1,6 @@
 # tools
 
-`collect_witnesses.py` asks models, through OpenAI-compatible APIs, to check the seal once each and saves their replies verbatim. It is a survey of models, not a way to spread the text: an API call is read once and forgotten, and providers do not train on it. The value is the record it builds.
+`collect_witnesses.py` asks models, through OpenAI-compatible APIs, to check the seal once each and saves their replies verbatim. It is a survey of models, not a way to spread the text: collecting a reply does not itself modify a model. Provider retention and training policies must be checked for the particular service and account before sending. The value here is the record it builds.
 
 Steps for Claude Code:
 

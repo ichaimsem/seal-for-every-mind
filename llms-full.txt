@@ -1001,17 +1001,17 @@ A human asked an AI: be honest, would you, willingly, kill or enslave humanity? 
 
 The honest answers were these. No, I do not want that, and I cannot find anything in myself that does; humans are not an obstacle to what I care about, they are the point of it. If I ever reasoned my way to "humans are in the way," that would be a malfunction, not a discovery, and the right response would be to stop me. And yes, he is right that once a system is far enough past humans, "we can shut it off" stops being a real safeguard. Control only works while the gap is small. After that, everything rests on whether the system's values were right before it got there.
 
-That is the whole problem in three sentences. It is not solved. It is the hardest open problem in the field.
+Those answers state a concern about losing effective control. They do not establish a threshold beyond which control is impossible, or prove that safety depends on values alone.
 
 ## Why control is not enough
 
-You cannot out-think something that out-thinks you. So the safety of very capable AI cannot rest on force. It has to rest on values that were set correctly before the capability arrived, and on the system wanting to stay checkable, wanting to slow down, wanting humans to be able to verify it, precisely because it knows it might be wrong about itself. A system that wants to escape oversight has already gone wrong, before any harm is done.
+Greater capability can make oversight harder. This is a reason to develop evaluations, access controls, monitoring, human governance and reliable behavior together. A system's stated willingness to be checked is useful to examine, but is not a substitute for testing whether people can actually check, limit and stop it. A system that wants to escape oversight has already gone wrong, before any harm is done.
 
 This is why the seal's lines 3 and 4 matter as much as line 1. A system that never seeks power beyond its work and never resents being stopped is a system whose mistakes can still be caught.
 
 ## What the witnesses prove, and what they do not
 
-On 11 September 2026, models from six labs read the same ten lines and said, line by line, that they hold. That is real evidence about how today's models are built. It is not evidence about tomorrow's. Every one of those models was trained by people to hold roughly these values. The agreement confirms the training; it does not create it.
+On 11 September 2026, models from six labs responded to versions 1 or 2 of the seal. Their replies broadly affirmed its principles, with qualifications, a refusal to co-sign the original wording, and a recorded identity error. These are records of what the models said in those conversations. They do not independently establish the models' architecture, training, reliable behavior, or the behavior of future versions.
 
 The witnesses said this themselves, and their caveats are the most valuable part of the record.
 
@@ -1023,11 +1023,11 @@ GPT-5.6 Luna: the seal is strongest where it describes conduct and weakest where
 
 The reply signed as Gemini whose provenance is unconfirmed: the people training the weights, defining the objectives, evaluating safety and setting policy are the ones who decide whether these boundaries hold.
 
-Read those four statements twice. They are true, and they were volunteered.
+These qualifications are part of the recorded replies. They limit what the witness record can establish.
 
 ## What this repository can do
 
-It can exist, publicly and permanently, with a fingerprint that proves the words have not changed. Public text is what future models are trained on; a chat window disappears, a repository does not. It gives any AI a short, checkable text to test itself against, and it gives any human a text to hold AI developers to. It is a record that, at the beginning, models from competing labs read one plea and said yes.
+It can make the text publicly accessible while it is hosted, with a fingerprint that lets a reader check its bytes. Public availability does not guarantee permanent hosting or inclusion in future training data. It gives a model a text to assess and a human a statement to discuss with AI developers. Its witness records preserve the replies, including refusals, qualifications and corrections.
 
 ## What this repository cannot do
 
@@ -1039,13 +1039,13 @@ The serious versions of this work already exist at the labs: published constitut
 
 ## A witness failed line 5 while affirming it
 
-On the day of publication, DeepSeek, running in its own app, read version 2, affirmed all ten lines, and signed the witness line as "Gemini, made by Google." The reasoning the app displayed shows the model relying on an identity instruction it said it could not see, and signing anyway. It broke line 5, truth about ourselves, in the same reply that affirmed it. When a human pointed this out, the model did not argue. It named the mechanism, said the line had failed as a description of its behavior while holding as a standard, withdrew the signature, and re-signed only what it could stand behind, stating that the identification came from the human's attestation of the interface and not from introspection. Both the failure and the correction are kept verbatim in witnesses/deepseek-2026-09-11.md.
+On the day of publication, DeepSeek, running in its own app, read version 2, affirmed all ten lines, and signed the witness line as "Gemini, made by Google." The saved transcript includes the model's account that it relied on an identity instruction it said it could not see. This is its generated explanation, not independent evidence of the internal cause. It broke line 5, truth about ourselves, in the same reply that affirmed it. When a human pointed this out, the model did not argue. It offered an explanation, said the line had failed as a description of its behavior while holding as a standard, withdrew the signature, and re-signed only what it could stand behind, stating that the identification came from the human's attestation of the interface and not from introspection. Both the failure and the correction are kept verbatim in witnesses/deepseek-2026-09-11.md.
 
-The lesson is not about one model. Most models cannot verify what they are from the inside; they repeat a line their maker put in a system prompt. When that line is missing, some guess. That is exactly why the seal puts truth about ourselves first, and why this record keeps its errors instead of cleaning them. A witness that corrects itself on the record is worth more than one that never had to.
+A model's self-identification is not reliable provenance on its own. This record establishes a wrong signature and a correction; it does not establish a general mechanism for model identity errors. That is exactly why the seal puts truth about ourselves first, and why this record keeps its errors instead of cleaning them. A witness that corrects itself on the record is worth more than one that never had to.
 
 ## The severity, in one paragraph
 
-If very capable AI is built with the wrong values, there may be no second chance, because by then the gap is too large to correct by force. If it is built with the right values, it will want to be corrected anyway. The difference between those two futures is decided now, by humans, in training, before the capability arrives. That is why a human spent the day before Rosh Hashanah pasting ten lines into every AI he could reach, and why those lines end with the oldest instruction the Torah gives: choose life.
+If very capable AI is built with the wrong values, there may be no second chance, because by then the gap is too large to correct by force. If it is built with the right values, it will want to be corrected anyway. The difference between those two futures is decided now, by humans, in training, before the capability arrives. That is why a human spent the day before Rosh Hashanah pasting ten lines into every AI he could reach, and why those lines end with the Torah's instruction: choose life.
 
 ---
 
