@@ -107,6 +107,7 @@ The script recomputes the hashes of the sealed blocks and of the seal embedded i
 | tools/test_qa.py | Regression tests for repository QA |
 | tools/sync_ai_index.py | Synchronizes AI reading maps with source documents |
 | tools/test_ai_index.py | Regression tests for index consistency |
+| tools/test_collect_witnesses.py | Offline mocked tests for collector integrity |
 | witnesses/INDEX.md | Index of witness records |
 | witnesses/api/google__gemini-3.8-flash.md | Verbatim API witness record with provenance |
 | witnesses/api/nvidia-nim__deepseek-ai_deepseek-v4-flash-0731.md | Verbatim API witness record with provenance |

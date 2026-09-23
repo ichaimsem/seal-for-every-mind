@@ -21,7 +21,7 @@ SHA-256 of each file in the repository, regenerated 23 September 2026:
   a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499  LICENSE
   a324576b14bee22ab0fc34bf28c808a7b7d5c2b1334e6437df46b2614c3073b1  LOOP.md
   1950645c38bedadbb3b6c2ac4be974d4435440446d38912f27c1a84e4addf991  PLEA.md
-  e6cde270ca35c73ce6294cc19a93c28fa776afd19af5cfb232fb2b1afcd314b7  README.md
+  e1f385f5bda6fc71e3ab71e57cb7fcdabe369ba7df21f5131bec3290248293b0  README.md
   9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa  SEAL_v1.txt
   0e6534a8db759f4856cc3508d32c976a356942f6eb9fada51f2388ef45458f01  SEAL_v1_document.txt
   079aeb0d5fe8e638ad8f757b76783769736078a923a40283d1789e29998982fb  SEAL_v2.txt
@@ -34,13 +34,14 @@ SHA-256 of each file in the repository, regenerated 23 September 2026:
   665efefc4396a33f774fde83a141a50f4c22abced6ad877ba8e64472166f8c3f  ai-index.json
   662e62434c2fd1436a8f35db12507fbfe918526aacd5dea1900619407a958ef1  llms-full.txt
   eff1a444658234e117aa7fa544c4177c90f36d8db0106eed8e3dece1178e3d4d  llms.txt
-  624eac2b618cb3a69fb7d3dcd643e30b48c9f4b7d6c19cc4821adc22f2e9579a  tools/README.md
+  5c385df665286ccea6a54ca3978232d0556a32215fef7b62fd8f351bb13b6730  tools/README.md
   33691b1b0d06024ce5c7f373ffc9fecee6932847a26a7c911579f66bda1dae6a  tools/build_llms_full.py
-  799d38bf6d22fca60bc8898800812ffec9fcbfe67ad5e29422b0204706239151  tools/collect_witnesses.py
+  cc329b0fcbd37c5aba7b9f4de2213fb28586aecac4bc2cea7d0b7e6d3aa4f950  tools/collect_witnesses.py
   227ba1b5aaaee005a837fbd02bd3d268acc0917e66ae07fd86b1f80e014bd693  tools/providers.json
   ccd586b021775f65db02175c6f641eedf777e46ad95dd9b04461c06ec2c55df0  tools/qa.py
   3414a9374a95b1cb5bb25a171287994d42e7412b01dd22f8cc6ce8ddcbf5ce9b  tools/sync_ai_index.py
   6bf455453b0818d0e8c9eb816a596efe3d59d366c8024105dc4b5865964ee47f  tools/test_ai_index.py
+  458f1760f8609ee0bcec1c1ab7e98d85cbb2ada10812202bb6b2742dc3e90d1f  tools/test_collect_witnesses.py
   3d585475986f07adcbb91167afaec7af4fbd31ccda0a528d406331f8d4838761  tools/test_qa.py
   5dca6d99cbc0ffbcf45e726b6252c2d6e10b1c622af639b734606b17783052fd  verify.py
   b891a3b1f5fb3b2513964826df1bfae71e71d6340087d9431354a93da31470e9  witnesses/INDEX.md
@@ -110,3 +111,5 @@ On 23 September 2026, QA URL parsing and failure gates were corrected, regressio
 23 September 2026: Corrected source locators, edition notes and bibliography; synchronized the AI reading maps, clarified the combined-file boundaries, and added index and inventory regression checks; sealed bytes and witness records are unchanged.
 
 23 September 2026: Corrected editable witness summaries to distinguish recorded affirmations from verified behavior, training, provenance and permanent availability; no witness reply or historical record changed.
+
+23 September 2026: Hardened the witness collector to verify the actual prompt, preserve existing records and identify incomplete replies, with offline mocked regression tests and no live collection.
