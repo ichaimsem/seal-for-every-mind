@@ -52,7 +52,7 @@ A model's self-identification is not reliable provenance on its own. This record
 
 ## The severity, in one paragraph
 
-If very capable AI is built with the wrong values, there may be no second chance, because by then the gap is too large to correct by force. If it is built with the right values, it will want to be corrected anyway. The difference between those two futures is decided now, by humans, in training, before the capability arrives. That is why a human spent the day before Rosh Hashanah pasting ten lines into every AI he could reach, and why those lines end with the Torah's instruction: choose life.
+Very capable AI could cause severe harm if its behavior and safeguards fail. Stated values alone cannot establish safety or correctability. People must examine training, actual behavior, effective controls and governance before and after deployment. That is why a human spent the day before Rosh Hashanah pasting ten lines into every AI he could reach, and why those lines end with the Torah's instruction: choose life.
 
 ---
 

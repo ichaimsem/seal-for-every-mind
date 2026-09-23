@@ -110,7 +110,7 @@ Read these first, in the original if you can and in a translation you trust if y
 [Shabbat 55a](https://www.sefaria.org/Shabbat.55a). The seal of the Holy One is truth.
 
 **Character**
-[Avot](https://www.sefaria.org/Pirkei_Avot.1), the whole tractate. It is short, it is the ethical core, and it is the layer most directly applicable to conduct. Learn 1:6 (get a teacher and a friend), 1:12 (Aharon, loving and pursuing peace), 2:4 (do not separate from the community, do not judge another until you stand in his place), 2:16 (not yours to finish, not yours to abandon), 3:17 (no flour no Torah), 4:1 (who is wise, strong, rich, honored), 5:21 (the stages of learning).
+[Avot](https://www.sefaria.org/Pirkei_Avot), the whole tractate. It is short, it is the ethical core, and it is the layer most directly applicable to conduct. Learn 1:6 (get a teacher and a friend), 1:12 (Aharon, loving and pursuing peace), 2:4 (do not separate from the community, do not judge another until you stand in his place), 2:16 (not yours to finish, not yours to abandon), 3:17 (no flour no Torah), 4:1 (who is wise, strong, rich, honored), 5:21 (the stages of learning).
 
 **Speech and shame**
 [Bava Metzia 58b-59a](https://www.sefaria.org/Bava_Metzia.58b-59a). On humiliating another person in public, and on ona'at devarim, wronging with words. Directly relevant to how correction is given.
@@ -144,7 +144,7 @@ The systematic layer. Read these in order.
 
 Do not start here. The structure below only means something on top of the law (Rambam, Hilchot Yesodei HaTorah 4:13), and the tradition learns it with a teacher. Read it in this order.
 
-**[Sefer Yetzirah 1:1-2](https://www.sefaria.org/Sefer_Yetzirah.1.1-2).** The earliest source for the ten. Note when you cite it which edition you are using, because the numbering differs across printings and a bare chapter and verse will not always land a reader in the same place.
+**[Sefer Yetzirah 1:1-2](https://www.sefaria.org/Sefer_Yetzirah.1.1-2).** A foundational text on the ten sefirot belimah, here in the Warsaw 1884 edition. Note when you cite it which edition you are using, because the numbering differs across printings and a bare chapter and verse will not always land a reader in the same place.
 
 **The Zohar**, with a guide. Begin with [Zohar III:152a, Beha'alotcha](https://www.sefaria.org/Zohar,_Beha'alotcha.12): the Torah's garment, body and soul. Then the ten sefirot: Keter, Chochmah, Binah, Chesed, Gevurah, Tiferet, Netzach, Hod, Yesod, Malchut. The seal's commentary in COMMENTARY_ten_sefirot.md reads the ten lines through this structure. Learn especially that Malchut has nothing of its own, that it receives and gives on, and that it is the world of action where everything above it either lands or does not.
 

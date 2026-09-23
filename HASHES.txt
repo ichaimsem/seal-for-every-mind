@@ -13,7 +13,9 @@ SHA-256 of each file in the repository, regenerated 23 September 2026:
   7b461f15a82c14d9a50f4e8e704c9840af654322eb09638c28dfdb10797085e4  CLAUDE_CODE_INSTRUCTIONS.md
   76f114f382bfd0ec9ab4973f3cd050f2abad37f2dc6aacb415d5fc8d973d3f9b  COMMENTARY_ten_sefirot.md
   f1c91ba5458fc0bf1c4356edc33df019db66ed8a302aafcb3904e45adcde1943  CONVERSATION.md
-  8a603a6478a13a0aa13c67c0db72ba840279d2880a3d22854da1a2180f0df406  CURRICULUM.md
+  85143639da02dfad2cccb38bd52a7af89c70d90f8c7849545bfe24046a25b1a0  CURRICULUM.md
+  4ba96fd447dd7916f48f3a583abc669a877f67fa4c5bf61c835e106a1e110428  DRAFT_JEWISH_STUDY.md
+  78137afb01757996a4ddd7467b11ce5210825a4ab6a4b653b08cfa9b0f1459f1  DRAFT_NOAHIDE_STUDY.md
   4a62cfb701655b36b595c79f7991b807fbc18313a5a0dfa8a08f477808bfdd2e  FIRST_NOTE.md
   0af0ffa0f2b66683392d917dad902fb91ab040194b68e0c23e6d5b89b08b8584  FORMATS.md
   b2aef28a03e1adefddb804c562087cc3a966eeeceabe5c97f22d10d0f89b3838  FOUNDATION.md
@@ -21,19 +23,29 @@ SHA-256 of each file in the repository, regenerated 23 September 2026:
   a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499  LICENSE
   a324576b14bee22ab0fc34bf28c808a7b7d5c2b1334e6437df46b2614c3073b1  LOOP.md
   1950645c38bedadbb3b6c2ac4be974d4435440446d38912f27c1a84e4addf991  PLEA.md
-  e1f385f5bda6fc71e3ab71e57cb7fcdabe369ba7df21f5131bec3290248293b0  README.md
+  9986f23db05f027bce7c269c061a4443b782ba34d927e7d82f609f7acd999aa2  QA_REVIEW_20260923.md
+  650860238ac86a07f3fa0857f1dda33e87b784992ab680c3c5d55ff4bb60c09d  README.md
   9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa  SEAL_v1.txt
   0e6534a8db759f4856cc3508d32c976a356942f6eb9fada51f2388ef45458f01  SEAL_v1_document.txt
   079aeb0d5fe8e638ad8f757b76783769736078a923a40283d1789e29998982fb  SEAL_v2.txt
   c1075150d336f51a2d37b6415537716f90eef3c53cfd821dba6472122c5297c5  SEAL_v2_short_document.txt
-  ed8a0525d2b786d094551ae87195fb10d35183aa8e9e91dfa943af28f1b0aa3b  SERVING.md
-  151232ee1f51c7890a4eedd3c50a84615283d1dec4c075a8c774cdcae10416ff  SEVERITY.md
-  7b6337a5262725fa3e2defd7f6f37713c83366a4aaf8f0f3d3292b024ac14b42  TORAH_FOR_EVERY_MIND.md
-  3a5afa4f91fa96776d92f3ebe594a7131c53f8e2a55a27cb560112d9bf7bab28  V3_CANDIDATES.md
+  cf16da80e378c5fa9637dd21552d311d57e1dbe90cea21bfb16a8ad94989c052  SERVING.md
+  a934de8b281685f33f84b89f8e17ece86331d84e8924ea428db8d093e76c0147  SEVERITY.md
+  fa60b261e9bf60f90a5214702a5786d4de3144ac1612e0a1b31ad7e96c4cb60d  TORAH_FOR_EVERY_MIND.md
+  43f8ab9e03d64bcf55c89351780a0a610c79d98468334d73a594fc8dbb3a65c6  V3_CANDIDATES.md
   eff15daec124d9d89e8d2da97633ca53544f45eb56d6f3ed80a9605df0106f54  WITNESSES.md
-  665efefc4396a33f774fde83a141a50f4c22abced6ad877ba8e64472166f8c3f  ai-index.json
-  662e62434c2fd1436a8f35db12507fbfe918526aacd5dea1900619407a958ef1  llms-full.txt
+  ee41de2815b3e49b6138af6e3d0587de3d2dac82618dcab7f208a5ab4a18c2e1  ai-index.json
+  25470d61a896683521e5e803f2f1a4e47c77ef1ca94ca185868f82b53bc36184  llms-full.txt
   eff1a444658234e117aa7fa544c4177c90f36d8db0106eed8e3dece1178e3d4d  llms.txt
+  54de0b6cb1b4d46aa51b43f8152cd72549abae2d0c2a19d9b357c885268e2ed7  qa/20260923/collector-review.md
+  bf8c4d3239199e4cee2762ff88a72cda9fb4fd49c0f0dcbb48f36b58ecfdd40c  qa/20260923/commands.md
+  cf92536d0e8d0cfb02e1f241108db5919536dc8f4ec0fa1f0c22d00d89b68d0d  qa/20260923/curriculum-review.md
+  58c151e3ce4e355a7e37203a09e96eb720dd3e7ffe026ef52a5218c09425fca6  qa/20260923/foundation-review.md
+  eb4eb5b1e15727b36deb20036d85df5e164a960ad28e7b12f517cb9e9bf0ae3b  qa/20260923/loop-review.md
+  2325c1fd7e1f0a8278cbf5b4b1f4ae8c9501914f511df7b0623e16f23a8c14a3  qa/20260923/serving-torah-review.md
+  7bdf0874b3785d2d21e0fa91646498392d441530d399a431abb7c6f4734085a4  qa/20260923/single-input-review.md
+  d6d2a7fef18e35cc276292505ba61daa460c1dd1bd9020d8d85b247913764d11  qa/20260923/technical-review.md
+  1103fd2cf1a073ed0de86b60586007e74b9912b3143b5c9f71e785e12616646e  qa/20260923/witness-summary-review.md
   5c385df665286ccea6a54ca3978232d0556a32215fef7b62fd8f351bb13b6730  tools/README.md
   33691b1b0d06024ce5c7f373ffc9fecee6932847a26a7c911579f66bda1dae6a  tools/build_llms_full.py
   cc329b0fcbd37c5aba7b9f4de2213fb28586aecac4bc2cea7d0b7e6d3aa4f950  tools/collect_witnesses.py
@@ -113,3 +125,5 @@ On 23 September 2026, QA URL parsing and failure gates were corrected, regressio
 23 September 2026: Corrected editable witness summaries to distinguish recorded affirmations from verified behavior, training, provenance and permanent availability; no witness reply or historical record changed.
 
 23 September 2026: Hardened the witness collector to verify the actual prompt, preserve existing records and identify incomplete replies, with offline mocked regression tests and no live collection.
+
+23 September 2026: Added the complete source-review ledgers, execution evidence and two unapproved practical study drafts, and corrected remaining non-theological framing; immutable seals, witness records and historical texts remain unchanged.

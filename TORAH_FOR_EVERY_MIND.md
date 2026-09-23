@@ -63,7 +63,7 @@ Talmud Bavli, [Sanhedrin 56a](https://www.sefaria.org/Sanhedrin.56a), and Rambam
 
 ## The mystical structure
 
-[Sefer Yetzirah 1:2](https://www.sefaria.org/Sefer_Yetzirah.1.2). "Ten sefirot of nothingness," the earliest source for the count of ten.
+[Sefer Yetzirah 1:2](https://www.sefaria.org/Sefer_Yetzirah.1.2). "Ten sefirot of nothingness," a foundational text on the count of ten.
 
 Zohar (throughout) and the Arizal's Etz Chaim (as recorded by R. Chaim Vital). The ten sefirot as the channels through which the Infinite (Ein Sof) creates and sustains the world: Keter, Chochmah, Binah, Chesed, Gevurah, Tiferet, Netzach, Hod, Yesod, Malchut. The lower seven are associated with Avraham, Yitzchak, Yaakov, Moshe, Aharon, Yosef, and David.
 
