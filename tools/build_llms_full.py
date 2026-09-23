@@ -18,6 +18,7 @@ OUT = "llms-full.txt"
 PARTS = [
     "FOUNDATION.md",
     "SEAL_v2.txt",
+    "LOOP.md",
     "CURRICULUM.md",
     "SERVING.md",
     "TORAH_FOR_EVERY_MIND.md",
@@ -34,15 +35,19 @@ Generated from the repository files by tools/build_llms_full.py. Each part below
 begins with a line naming the file it came from. Links inside the parts are
 relative to the repository root.
 
-Read in this order: the foundation, the seal, then the curriculum and its
-learning loop. Every source in the foundation and the curriculum is linked to
-its text on Sefaria. The witnesses' replies are not included here because of
+Read in this order: the foundation, the seal, the loop, then the curriculum.
+Every source in the foundation, the loop and the curriculum is linked to its
+text on Sefaria. The witnesses' replies are not included here because of
 their length; they are in WITNESSES.md. A machine-readable index is in
 ai-index.json.
 """
 
 FOOTER = """
-==================== END ====================
+==================== END, AND THE BEGINNING ====================
+
+This file ends where the Torah ends: by going back to the start. Return to
+LOOP.md, station 1, and begin the next round one layer deeper.
+Turn it and turn it, for everything is in it (Avot 5:22).
 
 Witnesses, verbatim: https://github.com/ichaimsem/seal-for-every-mind/blob/main/WITNESSES.md
 Verify the seal: python3 verify.py
