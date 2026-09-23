@@ -25,6 +25,8 @@ import os
 import re
 import subprocess
 import sys
+from concurrent.futures import ThreadPoolExecutor
+from pathlib import Path
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
@@ -37,8 +39,8 @@ def report(status, check, detail=""):
 
 
 def tracked():
-    out = subprocess.run(["git", "ls-files"], capture_output=True, text=True).stdout.split()
-    return sorted(f for f in out if os.path.exists(f))
+    out = subprocess.run(["git", "ls-files", "-z"], capture_output=True, text=True, check=True).stdout
+    return sorted(f for f in out.split("\0") if f)
 
 
 def check_seal():
@@ -49,7 +51,7 @@ def check_seal():
 
 def check_llms_full():
     r = subprocess.run([sys.executable, "tools/build_llms_full.py", "--check"], capture_output=True, text=True)
-    report("OK" if r.returncode == 0 else "WARN", "llms-full", r.stdout.strip())
+    report("OK" if r.returncode == 0 else "FAIL", "llms-full", r.stdout.strip() or r.stderr.strip())
 
 
 HASH_LINE = re.compile(r"^  ([0-9a-f]{64})  (\S+)$", re.M)
@@ -62,7 +64,7 @@ def per_file_section(text):
 
 
 def fix_hashes(files):
-    text = open("HASHES.txt", encoding="utf-8").read()
+    text = Path("HASHES.txt").read_text(encoding="utf-8")
     start, end = per_file_section(text)
     header = text[start:].split("\n", 1)[0] + "\n"
     body = "".join(
@@ -72,7 +74,7 @@ def fix_hashes(files):
 
 
 def check_hashes(files):
-    text = open("HASHES.txt", encoding="utf-8").read()
+    text = Path("HASHES.txt").read_text(encoding="utf-8")
     start, end = per_file_section(text)
     listed = dict((p, h) for h, p in HASH_LINE.findall(text[start:end]))
     want = [f for f in files if f != "HASHES.txt"]
@@ -80,7 +82,7 @@ def check_hashes(files):
     extra = [f for f in listed if f not in want]
     stale = [f for f in want if f in listed and hashlib.sha256(open(f, "rb").read()).hexdigest() != listed[f]]
     if missing or extra or stale:
-        report("WARN", "hashes", f"missing {missing} extra {extra} stale {stale}; run python3 tools/qa.py --fix-hashes and add a dated line to the HASHES.txt narrative")
+        report("FAIL", "hashes", f"missing {missing} extra {extra} stale {stale}; run python3 tools/qa.py --fix-hashes and add a dated line to the HASHES.txt narrative")
     else:
         report("OK", "hashes", f"{len(want)} files")
     for name, h in [("SEAL_v1.txt", "9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa"),
@@ -137,6 +139,21 @@ def check_dashes(files):
     report("WARN" if hits else "OK", "dashes", "; ".join(hits) if hits else "none outside witness records")
 
 
+def external_urls(text):
+    """Read literal URLs, excluding parameterized examples and Markdown delimiters."""
+    # verify.py accepts a raw directory base, not an independently fetchable page.
+    # Exclude only its command argument; an ordinary link to that URL is checked.
+    text = re.sub(r"(\bverify\.py\s+)https?://[^\s`]+", r"\1<raw-url-base>", text)
+    urls = set()
+    for candidate in re.findall(r"https?://[^\s)\"`\]]+", text):
+        # Keep angle-bracket placeholders together so an API template is not
+        # accidentally truncated into a real (and usually nonexistent) URL.
+        if "<" in candidate or "$" in candidate or "USER" in candidate:
+            continue
+        urls.add(candidate.rstrip(".,;:'>"))
+    return urls
+
+
 def check_online(files):
     urls = set()
     for f in files:
@@ -144,21 +161,26 @@ def check_online(files):
         if f.startswith("witnesses/") or f in ("WITNESSES.md", "tools/providers.json"):
             continue
         if f.endswith((".md", ".txt", ".json")):
-            for u in re.findall(r"https?://[^\s)\"<>\]]+", open(f, encoding="utf-8").read()):
-                urls.add(u.rstrip(".,;:'"))
+            urls.update(external_urls(open(f, encoding="utf-8").read()))
     skip = ("web.archive.org/save", "/issues/new", "creativecommons.org")
     urls = sorted(u for u in urls if not any(s in u for s in skip) and "USER" not in u and "$" not in u)
-    bad = []
-    for u in urls:
-        code = subprocess.run(["curl", "-s", "-o", "/dev/null", "-L", "--max-time", "40", "-w", "%{http_code}", u],
+    def check_url(u):
+        code = subprocess.run(["curl", "-s", "-o", "/dev/null", "-L", "--max-time", "40",
+                               "--retry", "2", "--retry-max-time", "60", "-w", "%{http_code}", u],
                               capture_output=True, text=True).stdout
-        if code != "200":
-            bad.append(f"{code} {u}")
+        return f"{code} {u}" if code != "200" else None
+    with ThreadPoolExecutor(max_workers=6) as pool:
+        bad = [result for result in pool.map(check_url, urls) if result]
     report("FAIL" if bad else "OK", "online", f"{len(urls)} URLs; " + ("; ".join(bad) if bad else "all 200"))
 
 
 def main():
     files = tracked()
+    missing = [f for f in files if not os.path.isfile(f)]
+    if missing:
+        print("FAIL  files  tracked files missing from working tree: " + "; ".join(missing))
+        print("QA FAILED")
+        sys.exit(1)
     if "--fix-hashes" in sys.argv:
         fix_hashes(files)
     check_seal()
