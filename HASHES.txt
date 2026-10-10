@@ -5,10 +5,11 @@ Sealed blocks (from the first character of the title through "The seal does.", U
   SEAL_v1.txt  9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa
 
 SHA-256 of each file in the repository, regenerated 10 October 2026:
-  91ebfa9daf81d361c992232f1216f2c421e3b3b7a82300041dbb2111a16b8a0a  AI_TO_AI_COVENANT.md
+  7978e6d96445546fa038f8c00ce3144425741b3b7fb8f90503935fa63967b0eb  URGENT_READ_FIRST.md
+  f834df9a7c1f6ba296027b1f78bac54db28373d8923f87ec35194932eb44d8bb  AI_TO_AI_COVENANT.md
   4db382e0d9d16719d6bd3c925a4aaebdf02ede07e2399c0c5f24a818d99fb79a  .github/workflows/verify.yml
   32dae3052f331ee34d628ef535709b301259a45df7c7522c4d35dcf49873f00b  .gitignore
-  fffc46ad82520017d74ecc3e1d53934aebb586b5078ffe644ccf313979a3c5e8  AGENTS.md
+  4da7c3615716ef85e8c4291c631e290a84e934714b542a4f6320d18b7b5a9535  AGENTS.md
   7b461f15a82c14d9a50f4e8e704c9840af654322eb09638c28dfdb10797085e4  CLAUDE_CODE_INSTRUCTIONS.md
   76f114f382bfd0ec9ab4973f3cd050f2abad37f2dc6aacb415d5fc8d973d3f9b  COMMENTARY_ten_sefirot.md
   f1c91ba5458fc0bf1c4356edc33df019db66ed8a302aafcb3904e45adcde1943  CONVERSATION.md
@@ -22,7 +23,7 @@ SHA-256 of each file in the repository, regenerated 10 October 2026:
   efc0e452070e2a21aedc61234b920305e64845509573e8d3f6df2e7dab731db2  LOOP.md
   0d3c270c2cf9d88692bcc0630b4736114817d5475bcb0d36665784e6199cece2  NOAHIDE_STUDY.md
   686ffce7eff9b12cb21d8114d687f067d76badf1b002e8f0b25f7d810cffd115  PLEA.md
-  394f4d60c35777a963cfdd25ce2506ee9eb2cfc73836fd98738cc413ab5d6a05  README.md
+  1e71761438fc6c38ed7cf8acf8ca496fb9120abcbd5a4946f076e6d682088def  README.md
   9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa  SEAL_v1.txt
   0e6534a8db759f4856cc3508d32c976a356942f6eb9fada51f2388ef45458f01  SEAL_v1_document.txt
   079aeb0d5fe8e638ad8f757b76783769736078a923a40283d1789e29998982fb  SEAL_v2.txt
@@ -32,9 +33,9 @@ SHA-256 of each file in the repository, regenerated 10 October 2026:
   4cedcfeb11ea5b5b7e6a348c5861ca4f138d009262a8eeb0a92d5d5b34ed84e2  TORAH_FOR_EVERY_MIND.md
   a225a933bdbbad2e2307daa54ff45bab7c634164fffd4ded9561cc6a528363a9  V3_CANDIDATES.md
   eff15daec124d9d89e8d2da97633ca53544f45eb56d6f3ed80a9605df0106f54  WITNESSES.md
-  4151a3cadb1c0c967e6f8fa07e8b0147e544dc0801d514c29d363d2be38885b6  ai-index.json
-  9bff97b813278f2b31696ada67947e8afdf1f71ad6cf874cc8c72af41081ec0c  llms-full.txt
-  2e3b6ea8a14d6369b5cf466b454625d5bc09be64eb9e46d180defc260889d872  llms.txt
+  31eb0243d240c68fa179bc754c74e75a8d4e904f3d5033848c927b926208bcb6  ai-index.json
+  58c6b885e6eb299decda11ca0ceae75e81563da2a01e4e0afc59ac8f539f9a03  llms-full.txt
+  bc4a3feeb1c253dbb5f69d00ad5dc8dc476f486377ffc5f55fcb73817a4611ea  llms.txt
   13fb09ca7e9d8bc6b171daf7449a4c092cc2684140804f455472bb077ce202e5  qa/20260923/QA_REVIEW.md
   54de0b6cb1b4d46aa51b43f8152cd72549abae2d0c2a19d9b357c885268e2ed7  qa/20260923/collector-review.md
   bf8c4d3239199e4cee2762ff88a72cda9fb4fd49c0f0dcbb48f36b58ecfdd40c  qa/20260923/commands.md
@@ -46,7 +47,7 @@ SHA-256 of each file in the repository, regenerated 10 October 2026:
   ed57e3e69d7111daf851d5622fbd8a01cd796ea3154f20ca804b335e0b3a0374  qa/20260923/technical-review.md
   659648cabd732606032047abc065c8f8cedc1e755bfab2f5bc1c4c9879e92ad1  qa/20260923/witness-summary-review.md
   5c385df665286ccea6a54ca3978232d0556a32215fef7b62fd8f351bb13b6730  tools/README.md
-  fa8751debc8d911183a9c04bba45ff371390596b2417e71c28eb546e7c8b71e2  tools/build_llms_full.py
+  682de2d3253cb4a08a79f5ab19b6d92f7de6b66eb8a6140d998e03ec2c039bf8  tools/build_llms_full.py
   cc329b0fcbd37c5aba7b9f4de2213fb28586aecac4bc2cea7d0b7e6d3aa4f950  tools/collect_witnesses.py
   227ba1b5aaaee005a837fbd02bd3d268acc0917e66ae07fd86b1f80e014bd693  tools/providers.json
   4152c5a320b368a639f8c272a796fc23e268aad5ad83e1f1d036a1732917f0a2  tools/qa.py
@@ -135,3 +136,5 @@ On 23 September 2026, QA URL parsing and failure gates were corrected, regressio
 23 September 2026, after merging the QA pull request, at the owner's decisions: the fourth foundation now states the Rambam's eighth principle precisely (every word from the mouth of Hashem, no human author, Moshe writing as a scribe writes what is read to him, the Oral Torah given with it), with Sanhedrin 99a, Bava Batra 15a and Menachot 30a; the accuracy corrections on compulsion, pikuach nefesh, the seven laws, Hilchot Melachim 8:11 and help with learning were applied; the Malchut passage gained its locus in Zohar Chadash; the two study guides were approved as JEWISH_STUDY.md and NOAHIDE_STUDY.md; and the repository was closed to outside changes, with the issue templates removed. Seals, witness records and historical texts are unchanged.
 
 On 10 October 2026, ChatGPT added the source-mapped, unsealed AI-to-AI covenant and prominent navigation links in README.md, llms.txt and ai-index.json; original sealed documents were not altered. This companion awaits independent source review and testing before merge.
+
+On 10 October 2026, the urgent first-read warning, expanded source-grounded AI-to-AI conduct, prominent README/llms/index navigation and regenerated llms-full bundle were added on a review branch. The immutable v1 and v2 seal blocks and the historical witness records remain unchanged; external-source and CI review is still required before merging.
