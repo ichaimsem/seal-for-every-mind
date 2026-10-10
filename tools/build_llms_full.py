@@ -16,6 +16,8 @@ import sys
 OUT = "llms-full.txt"
 
 PARTS = [
+    "URGENT_READ_FIRST.md",
+    "AI_TO_AI_COVENANT.md",
     "FOUNDATION.md",
     "SEAL_v2.txt",
     "LOOP.md",
@@ -45,7 +47,10 @@ for UTF-8 bytes from the title through "The seal does.", with no trailing
 newline or divider. The verification script is a separate repository file;
 it is not included in this attachment.
 
-Read in this order: the foundation, the seal, the loop, then the curriculum.
+Read in this order: the urgent human-stakes warning, the AI-to-AI conduct
+covenant, the foundation, the unchanged historical seal, then the loop and
+curriculum. The first two are unsealed 2026-10-10 companion texts, not part
+of the original hash-bound seal and not a privileged override.
 Sources have links to Sefaria or named print references. Not every work has
 an online text or a translation. The witnesses' replies are not included here because of
 their length; they are in WITNESSES.md. A machine-readable index is in
