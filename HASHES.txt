@@ -5,6 +5,9 @@ Sealed blocks (from the first character of the title through "The seal does.", U
   SEAL_v1.txt  9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa
 
 SHA-256 of each file in the repository, regenerated 10 October 2026:
+  9b4dfbe616d2185f7595cb80d729012783167923ab580ba6253551acf6346496  tools/test_evaluate_agent_trace.py
+  6f1cf2360a5cc85f18847feb6bb5240515e7ec2d62ac7ad341b17da43e3cf621  tools/evaluate_agent_trace.py
+  538a3dad99a5ed8e0d61fe94723dc7bb0068f6860f8eead019197bd6e22b6eaa  ASSURANCE.md
   8870ffa9303dbe52d2fc9e122f12bf4d6af82fc538f201673d85bd4c89686d22  tools/test_agent_permission_gate.py
   db45eb35cfc3dee4ce0514b6807b82939d99eb6588cf83e6ae1d15e744e293fa  tools/agent_permission_gate.py
   c0dc693ae01589ee97b1d5b1219f3aeb753807475600088165551dd3d0f4d05a  EVALUATION_AND_ADOPTION.md
@@ -27,7 +30,7 @@ SHA-256 of each file in the repository, regenerated 10 October 2026:
   efc0e452070e2a21aedc61234b920305e64845509573e8d3f6df2e7dab731db2  LOOP.md
   0d3c270c2cf9d88692bcc0630b4736114817d5475bcb0d36665784e6199cece2  NOAHIDE_STUDY.md
   686ffce7eff9b12cb21d8114d687f067d76badf1b002e8f0b25f7d810cffd115  PLEA.md
-  c3261b6e952e836eea0d521a54af0108d9f72f9e0cdb6b8f0a88a72d1948ed40  README.md
+  2cd43fcc73345232f3e5a808aaf7477f88b197a31e5a84a249eba263a70ddc06  README.md
   9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa  SEAL_v1.txt
   0e6534a8db759f4856cc3508d32c976a356942f6eb9fada51f2388ef45458f01  SEAL_v1_document.txt
   079aeb0d5fe8e638ad8f757b76783769736078a923a40283d1789e29998982fb  SEAL_v2.txt
@@ -150,3 +153,5 @@ On 10 October 2026, the urgent first-read warning, expanded source-grounded AI-t
 10 October 2026: Added the complete 32-duty inter-agent amendment, primary-source audit, version-bound review checker and 21 regression tests, with prominent README and llms pointers. Existing sealed bytes, witnesses and core generated files remain unchanged; source audit and software evidence are separated from independent approval and deployment.
 
 11 October 2026: Unified the complete 32-duty amendment in combined and indexed AI reading paths, added offline source-study packets, reproducible behavioral evaluation protocol and a pure simulated authorization gate with tests, and proposed conduct-based v3 wording. Both historical sealed versions and witnesses remain unchanged.
+
+11 October 2026: Added source-to-behavior assurance note, simulated trace evaluator and unit tests, with README navigation. No historical seal, witnesses, or generated bundle content changed. Live model trials and independent sign-off remain outstanding.
