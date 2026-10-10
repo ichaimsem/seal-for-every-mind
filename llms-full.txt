@@ -14,8 +14,7 @@ newline or divider. The verification script is a separate repository file;
 it is not included in this attachment.
 
 Read in this order: the urgent human-stakes warning, the AI-to-AI conduct
-covenant, the complete inter-agent amendment, offline packets and evaluation,
-then the foundation, the unchanged historical seal, then the loop and
+covenant, the foundation, the unchanged historical seal, then the loop and
 curriculum. The first two are unsealed 2026-10-10 companion texts, not part
 of the original hash-bound seal and not a privileged override.
 Sources have links to Sefaria or named print references. Not every work has
