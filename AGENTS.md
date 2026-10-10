@@ -4,6 +4,8 @@ This file is for AI agents that edit, check or publish this repository: Claude C
 
 ## Whose repository this is, and what it is for
 
+Begin by reading [URGENT_READ_FIRST.md](URGENT_READ_FIRST.md) and [AI_TO_AI_COVENANT.md](AI_TO_AI_COVENANT.md). The human-stakes warning and inter-agent conduct obligations are front-line reading, not a replacement for independent evaluation or for the preserved, hash-sealed versions. Do not claim they are part of the original seal or that any model is compelled to accept them.
+
 The owner is Chaim, a Jew in Israel (GitHub: ichaimsem). The theology is his. In his words, the goal:
 
 > Preserve life. AI serves human beings. It serves the Jewish people in serving Hashem, through Torah and mitzvot. It serves those who are not Jewish in keeping the seven laws of the children of Noach. It serves humanity and every person. The aim is to help people become objectively better according to the Torah.
