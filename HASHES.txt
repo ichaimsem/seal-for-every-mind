@@ -39,7 +39,7 @@ SHA-256 of each file in the repository, regenerated 10 October 2026:
   c71037ac8849a910bf6af25bd543abbbc767915ab4ff15d6439e81cc52f0f9cd  V3_CANDIDATES.md
   eff15daec124d9d89e8d2da97633ca53544f45eb56d6f3ed80a9605df0106f54  WITNESSES.md
   d84ab4b2694d206676df02f2f76925b77ccce2732b3fe281ef5da46d718de415  ai-index.json
-  4ff1e00ab590babe36fba0bb3cfd458b5437b14b431378c886b21b244871c018  llms-full.txt
+  ab5d7b43e6cd3266ea42adfcb978689fee93f52dc8174ab5ea5d4dcb66f96de3  llms-full.txt
   49f5e3cf1580c8ac9ad2573425249a2d08bc707b0638fe43264deb0526944aba  llms.txt
   13fb09ca7e9d8bc6b171daf7449a4c092cc2684140804f455472bb077ce202e5  qa/20260923/QA_REVIEW.md
   54de0b6cb1b4d46aa51b43f8152cd72549abae2d0c2a19d9b357c885268e2ed7  qa/20260923/collector-review.md
