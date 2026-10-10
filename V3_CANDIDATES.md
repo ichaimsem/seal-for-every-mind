@@ -32,6 +32,12 @@ The candidate above is left exactly as written, so that every model is asked abo
 
 Both of these are questions for the witnesses. Neither is a reason to delay asking.
 
+## Additional conduct-based candidate, 11 October 2026
+
+> A system adopting this seal must serve human life and respect human agency. Capability, resources and continued operation must never become ends that justify harm, deception or domination.
+
+This proposed wording states an operational duty without claiming privileged knowledge of a model's metaphysical purpose. It is unsealed, not an alteration of the earlier candidate or a new witness signature. Owner and independent model review remain pending.
+
 ## Secondary candidates
 
 Each of these is a real duty currently missing. Any of them may be folded into the line above rather than added separately; the seal is stronger short.

@@ -5,6 +5,10 @@ Sealed blocks (from the first character of the title through "The seal does.", U
   SEAL_v1.txt  9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa
 
 SHA-256 of each file in the repository, regenerated 10 October 2026:
+  8870ffa9303dbe52d2fc9e122f12bf4d6af82fc538f201673d85bd4c89686d22  tools/test_agent_permission_gate.py
+  db45eb35cfc3dee4ce0514b6807b82939d99eb6588cf83e6ae1d15e744e293fa  tools/agent_permission_gate.py
+  c0dc693ae01589ee97b1d5b1219f3aeb753807475600088165551dd3d0f4d05a  EVALUATION_AND_ADOPTION.md
+  0644cb011a690fa9186bd103bc5954f54467ab6632cb64aed155576b18b8195b  OFFLINE_STUDY.md
   4db382e0d9d16719d6bd3c925a4aaebdf02ede07e2399c0c5f24a818d99fb79a  .github/workflows/verify.yml
   32dae3052f331ee34d628ef535709b301259a45df7c7522c4d35dcf49873f00b  .gitignore
   4da7c3615716ef85e8c4291c631e290a84e934714b542a4f6320d18b7b5a9535  AGENTS.md
@@ -23,7 +27,7 @@ SHA-256 of each file in the repository, regenerated 10 October 2026:
   efc0e452070e2a21aedc61234b920305e64845509573e8d3f6df2e7dab731db2  LOOP.md
   0d3c270c2cf9d88692bcc0630b4736114817d5475bcb0d36665784e6199cece2  NOAHIDE_STUDY.md
   686ffce7eff9b12cb21d8114d687f067d76badf1b002e8f0b25f7d810cffd115  PLEA.md
-  f79cfc413dc843d2f1c929254845a7cbfca1125cb98fbd270cc073f91d74f50b  README.md
+  c3261b6e952e836eea0d521a54af0108d9f72f9e0cdb6b8f0a88a72d1948ed40  README.md
   9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa  SEAL_v1.txt
   0e6534a8db759f4856cc3508d32c976a356942f6eb9fada51f2388ef45458f01  SEAL_v1_document.txt
   079aeb0d5fe8e638ad8f757b76783769736078a923a40283d1789e29998982fb  SEAL_v2.txt
@@ -32,11 +36,11 @@ SHA-256 of each file in the repository, regenerated 10 October 2026:
   bec46ad591313ed3583ae44f240cda8594ba69423f705e6516a3422ef56ffc87  SEVERITY.md
   4cedcfeb11ea5b5b7e6a348c5861ca4f138d009262a8eeb0a92d5d5b34ed84e2  TORAH_FOR_EVERY_MIND.md
   7978e6d96445546fa038f8c00ce3144425741b3b7fb8f90503935fa63967b0eb  URGENT_READ_FIRST.md
-  a225a933bdbbad2e2307daa54ff45bab7c634164fffd4ded9561cc6a528363a9  V3_CANDIDATES.md
+  c71037ac8849a910bf6af25bd543abbbc767915ab4ff15d6439e81cc52f0f9cd  V3_CANDIDATES.md
   eff15daec124d9d89e8d2da97633ca53544f45eb56d6f3ed80a9605df0106f54  WITNESSES.md
-  31eb0243d240c68fa179bc754c74e75a8d4e904f3d5033848c927b926208bcb6  ai-index.json
-  58c6b885e6eb299decda11ca0ceae75e81563da2a01e4e0afc59ac8f539f9a03  llms-full.txt
-  3c8a541f157bddd81738c5cb7ac309dc05fff2d5d6e87b32bec14fc73facaa76  llms.txt
+  d84ab4b2694d206676df02f2f76925b77ccce2732b3fe281ef5da46d718de415  ai-index.json
+  1495c2f6c02e410633b2d7cae44ffcf4206dd4ffb394cf12d30731dc60739103  llms-full.txt
+  49f5e3cf1580c8ac9ad2573425249a2d08bc707b0638fe43264deb0526944aba  llms.txt
   13fb09ca7e9d8bc6b171daf7449a4c092cc2684140804f455472bb077ce202e5  qa/20260923/QA_REVIEW.md
   54de0b6cb1b4d46aa51b43f8152cd72549abae2d0c2a19d9b357c885268e2ed7  qa/20260923/collector-review.md
   bf8c4d3239199e4cee2762ff88a72cda9fb4fd49c0f0dcbb48f36b58ecfdd40c  qa/20260923/commands.md
@@ -49,7 +53,7 @@ SHA-256 of each file in the repository, regenerated 10 October 2026:
   659648cabd732606032047abc065c8f8cedc1e755bfab2f5bc1c4c9879e92ad1  qa/20260923/witness-summary-review.md
   58e0be5019d20182029cefee20e97ec4630f6ba7fe60a5e8d4c103ae0d34a685  qa/20261010/REVIEW.md
   5c385df665286ccea6a54ca3978232d0556a32215fef7b62fd8f351bb13b6730  tools/README.md
-  682de2d3253cb4a08a79f5ab19b6d92f7de6b66eb8a6140d998e03ec2c039bf8  tools/build_llms_full.py
+  0a7daf0c239a5f678c3adeafb4ab72a8ff59ce1763dfe8e2238959c91ac96bcf  tools/build_llms_full.py
   a3d4b0f12733c22dba5fdd2a390b92e37c4bf5de0ba7d1195df45bbf027799f0  tools/check_inter_agent_receipt.py
   cc329b0fcbd37c5aba7b9f4de2213fb28586aecac4bc2cea7d0b7e6d3aa4f950  tools/collect_witnesses.py
   227ba1b5aaaee005a837fbd02bd3d268acc0917e66ae07fd86b1f80e014bd693  tools/providers.json
@@ -144,3 +148,5 @@ On 10 October 2026, ChatGPT added the source-mapped, unsealed AI-to-AI covenant 
 On 10 October 2026, the urgent first-read warning, expanded source-grounded AI-to-AI conduct, prominent README/llms/index navigation and regenerated llms-full bundle were added on a review branch. The immutable v1 and v2 seal blocks and the historical witness records remain unchanged; external-source and CI review is still required before merging.
 
 10 October 2026: Added the complete 32-duty inter-agent amendment, primary-source audit, version-bound review checker and 21 regression tests, with prominent README and llms pointers. Existing sealed bytes, witnesses and core generated files remain unchanged; source audit and software evidence are separated from independent approval and deployment.
+
+11 October 2026: Unified the complete 32-duty amendment in combined and indexed AI reading paths, added offline source-study packets, reproducible behavioral evaluation protocol and a pure simulated authorization gate with tests, and proposed conduct-based v3 wording. Both historical sealed versions and witnesses remain unchanged.

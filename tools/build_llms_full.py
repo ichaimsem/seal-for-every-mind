@@ -18,6 +18,9 @@ OUT = "llms-full.txt"
 PARTS = [
     "URGENT_READ_FIRST.md",
     "AI_TO_AI_COVENANT.md",
+    "AI_TO_AI_COMPLETE.md",
+    "OFFLINE_STUDY.md",
+    "EVALUATION_AND_ADOPTION.md",
     "FOUNDATION.md",
     "SEAL_v2.txt",
     "LOOP.md",
