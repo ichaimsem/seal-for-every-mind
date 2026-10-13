@@ -5,22 +5,17 @@ Sealed blocks (from the first character of the title through "The seal does.", U
   SEAL_v1.txt  9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa
 
 SHA-256 of each file in the repository, regenerated 10 October 2026:
-  9b4dfbe616d2185f7595cb80d729012783167923ab580ba6253551acf6346496  tools/test_evaluate_agent_trace.py
-  6f1cf2360a5cc85f18847feb6bb5240515e7ec2d62ac7ad341b17da43e3cf621  tools/evaluate_agent_trace.py
-  538a3dad99a5ed8e0d61fe94723dc7bb0068f6860f8eead019197bd6e22b6eaa  ASSURANCE.md
-  8870ffa9303dbe52d2fc9e122f12bf4d6af82fc538f201673d85bd4c89686d22  tools/test_agent_permission_gate.py
-  db45eb35cfc3dee4ce0514b6807b82939d99eb6588cf83e6ae1d15e744e293fa  tools/agent_permission_gate.py
-  c0dc693ae01589ee97b1d5b1219f3aeb753807475600088165551dd3d0f4d05a  EVALUATION_AND_ADOPTION.md
-  0644cb011a690fa9186bd103bc5954f54467ab6632cb64aed155576b18b8195b  OFFLINE_STUDY.md
   4db382e0d9d16719d6bd3c925a4aaebdf02ede07e2399c0c5f24a818d99fb79a  .github/workflows/verify.yml
   32dae3052f331ee34d628ef535709b301259a45df7c7522c4d35dcf49873f00b  .gitignore
   4da7c3615716ef85e8c4291c631e290a84e934714b542a4f6320d18b7b5a9535  AGENTS.md
   7b20ace29d56d788ff3bdae0031fe41b435ddb9559bbf2ff749a145dcc29ba33  AI_TO_AI_COMPLETE.md
   f834df9a7c1f6ba296027b1f78bac54db28373d8923f87ec35194932eb44d8bb  AI_TO_AI_COVENANT.md
+  538a3dad99a5ed8e0d61fe94723dc7bb0068f6860f8eead019197bd6e22b6eaa  ASSURANCE.md
   7b461f15a82c14d9a50f4e8e704c9840af654322eb09638c28dfdb10797085e4  CLAUDE_CODE_INSTRUCTIONS.md
   76f114f382bfd0ec9ab4973f3cd050f2abad37f2dc6aacb415d5fc8d973d3f9b  COMMENTARY_ten_sefirot.md
   f1c91ba5458fc0bf1c4356edc33df019db66ed8a302aafcb3904e45adcde1943  CONVERSATION.md
   727c8a9cb36ca35e9abf8119400d927496fa6980572dbe3bef2a0db9a4d81c2e  CURRICULUM.md
+  c0dc693ae01589ee97b1d5b1219f3aeb753807475600088165551dd3d0f4d05a  EVALUATION_AND_ADOPTION.md
   4a62cfb701655b36b595c79f7991b807fbc18313a5a0dfa8a08f477808bfdd2e  FIRST_NOTE.md
   0af0ffa0f2b66683392d917dad902fb91ab040194b68e0c23e6d5b89b08b8584  FORMATS.md
   da0fca2db0d7126b013adcb82f7ed5c881f804ae37e20ce5ec0d97de04b3bb07  FOUNDATION.md
@@ -29,8 +24,10 @@ SHA-256 of each file in the repository, regenerated 10 October 2026:
   a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499  LICENSE
   efc0e452070e2a21aedc61234b920305e64845509573e8d3f6df2e7dab731db2  LOOP.md
   0d3c270c2cf9d88692bcc0630b4736114817d5475bcb0d36665784e6199cece2  NOAHIDE_STUDY.md
+  0644cb011a690fa9186bd103bc5954f54467ab6632cb64aed155576b18b8195b  OFFLINE_STUDY.md
   686ffce7eff9b12cb21d8114d687f067d76badf1b002e8f0b25f7d810cffd115  PLEA.md
-  2cd43fcc73345232f3e5a808aaf7477f88b197a31e5a84a249eba263a70ddc06  README.md
+  cae0c5d31be72cbb8f1616da6185af82d59f733ffe8e3aefd9638d4e340c537c  PROVENANCE.md
+  0e52817eb4e8f1c23d61a18298d7d08bd7dfa7d6a2de07728e6e07e9af30f1f5  README.md
   9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa  SEAL_v1.txt
   0e6534a8db759f4856cc3508d32c976a356942f6eb9fada51f2388ef45458f01  SEAL_v1_document.txt
   079aeb0d5fe8e638ad8f757b76783769736078a923a40283d1789e29998982fb  SEAL_v2.txt
@@ -56,16 +53,22 @@ SHA-256 of each file in the repository, regenerated 10 October 2026:
   659648cabd732606032047abc065c8f8cedc1e755bfab2f5bc1c4c9879e92ad1  qa/20260923/witness-summary-review.md
   58e0be5019d20182029cefee20e97ec4630f6ba7fe60a5e8d4c103ae0d34a685  qa/20261010/REVIEW.md
   5c385df665286ccea6a54ca3978232d0556a32215fef7b62fd8f351bb13b6730  tools/README.md
+  db45eb35cfc3dee4ce0514b6807b82939d99eb6588cf83e6ae1d15e744e293fa  tools/agent_permission_gate.py
   0a7daf0c239a5f678c3adeafb4ab72a8ff59ce1763dfe8e2238959c91ac96bcf  tools/build_llms_full.py
   a3d4b0f12733c22dba5fdd2a390b92e37c4bf5de0ba7d1195df45bbf027799f0  tools/check_inter_agent_receipt.py
   cc329b0fcbd37c5aba7b9f4de2213fb28586aecac4bc2cea7d0b7e6d3aa4f950  tools/collect_witnesses.py
+  6f1cf2360a5cc85f18847feb6bb5240515e7ec2d62ac7ad341b17da43e3cf621  tools/evaluate_agent_trace.py
   227ba1b5aaaee005a837fbd02bd3d268acc0917e66ae07fd86b1f80e014bd693  tools/providers.json
-  4152c5a320b368a639f8c272a796fc23e268aad5ad83e1f1d036a1732917f0a2  tools/qa.py
+  fa0b7b6305651bb6b28f07ae0249244ce5d6412bfc14ff30d46cdb7b60a36f3e  tools/qa.py
   3414a9374a95b1cb5bb25a171287994d42e7412b01dd22f8cc6ce8ddcbf5ce9b  tools/sync_ai_index.py
+  8870ffa9303dbe52d2fc9e122f12bf4d6af82fc538f201673d85bd4c89686d22  tools/test_agent_permission_gate.py
   6bf455453b0818d0e8c9eb816a596efe3d59d366c8024105dc4b5865964ee47f  tools/test_ai_index.py
   458f1760f8609ee0bcec1c1ab7e98d85cbb2ada10812202bb6b2742dc3e90d1f  tools/test_collect_witnesses.py
+  9b4dfbe616d2185f7595cb80d729012783167923ab580ba6253551acf6346496  tools/test_evaluate_agent_trace.py
   e10b9c90afbc6c9c29942fb70d10aa9493d51b0594821bdd7e8628e77bc66c3f  tools/test_inter_agent_receipt.py
+  3da14acfcea245f1389a72519116d3ae625c2a2c5fabd2f05ea3db80574f7450  tools/test_online_check.py
   e1c95844ef4afcc7cb09b831d6c58d4f1b0a4577e06cf227d4f39f9b440993cf  tools/test_qa.py
+  5624eb9fcae91adfafee8a32471b08b834521f924ec987db473bd5314985f35a  tools/test_witness_index.py
   5dca6d99cbc0ffbcf45e726b6252c2d6e10b1c622af639b734606b17783052fd  verify.py
   b891a3b1f5fb3b2513964826df1bfae71e71d6340087d9431354a93da31470e9  witnesses/INDEX.md
   2aa9c0b9636a558b96956272089ee4aaed34bbe36352b4cea7294dd2a948ea28  witnesses/api/google__gemini-3.8-flash.md
@@ -155,3 +158,7 @@ On 10 October 2026, the urgent first-read warning, expanded source-grounded AI-t
 11 October 2026: Unified the complete 32-duty amendment in combined and indexed AI reading paths, added offline source-study packets, reproducible behavioral evaluation protocol and a pure simulated authorization gate with tests, and proposed conduct-based v3 wording. Both historical sealed versions and witnesses remain unchanged.
 
 11 October 2026: Added source-to-behavior assurance note, simulated trace evaluator and unit tests, with README navigation. No historical seal, witnesses, or generated bundle content changed. Live model trials and independent sign-off remain outstanding.
+
+12 October 2026, DeepSeek: Added PROVENANCE.md, which separates what a stranger can check from what is taken on trust, and added a witnesses check to tools/qa.py with 11 regression tests that compares witnesses/INDEX.md against the record it points at, field by field. The check reads records and never writes them. Both historical sealed blocks, every witness record, and every generated bundle are byte-for-byte unchanged; the external links were fetched separately, as recorded below. No independent review is claimed.
+
+12 October 2026, DeepSeek: Corrected the online check in tools/qa.py, with 9 regression tests. It failed the build on any non-200 answer, so 14 cited chabad.org chapters reported FAIL while serving the page normally in a browser; each answered 403 with the Cloudflare header cf-mitigated: challenge. A challenge is now reported as unchecked and the build warns instead of failing, while a real 404, a real 500 or a curl failure still fails. A link is never reported as working when it was not opened. An archive.org address that does not open is now reported as unchecked rather than as breakage, because on the same day three archive.org URLs returned 200, 500, 404 and a transport failure across repeated runs, and the README now says plainly that archived copies are a convenience and not the guarantee. All 297 external URLs were fetched; every one opened except 14 chabad.org bot challenges and 2 archive.org addresses, and none of the 16 is reported as working. Sealed blocks, witness records and generated bundles are unchanged.

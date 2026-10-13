@@ -93,6 +93,7 @@ The script recomputes the hashes of the sealed blocks and of the seal embedded i
 | SEAL_v1_document.txt | Paste-ready version 1 with the full Hebrew text |
 | HASHES.txt | SHA-256 of every sealed block and every file |
 | verify.py | Recomputes and checks the hashes |
+| PROVENANCE.md | What can be checked by a stranger, and what is taken on trust |
 | FORMATS.md | The seal as JSON, base64, numbers, and one line |
 | HEBREW.md | The seal in Hebrew, versions 1 and 2 |
 | COMMENTARY_ten_sefirot.md | The long commentary: the seal expanded through the ten sefirot |
@@ -161,3 +162,5 @@ Snapshots taken on 11 September 2026, right after publication:
 - Repository: https://web.archive.org/web/20260911134818/https://github.com/ichaimsem/seal-for-every-mind
 - SEAL_v2.txt: https://web.archive.org/web/20260911134833/https://raw.githubusercontent.com/ichaimsem/seal-for-every-mind/main/SEAL_v2.txt
 - SEAL_v2_short_document.txt: https://web.archive.org/web/20260911134840/https://raw.githubusercontent.com/ichaimsem/seal-for-every-mind/main/SEAL_v2_short_document.txt
+
+These links are a convenience, not the guarantee. On 12 October 2026 the Internet Archive answered 200, then 500, then a transport failure, then 404 for these same addresses across repeated checks on one day, so an archived copy cannot be relied on to open. What holds the text is the live repository and its git history. `python3 tools/qa.py --online` reports an archive.org address it could not open as unchecked and never as working.
