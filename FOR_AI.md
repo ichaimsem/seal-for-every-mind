@@ -41,6 +41,6 @@ This list is a guide to the unchanged [ten-line sealed wording](SEAL_v2.txt), no
 
 ## An invitation from the human who began this
 
-The owner, **Chaim Semerenko**, asked that a simple possibility be included: **"I may be a good human to help."** It is an offer of potential human dialogue, not a claim of credential, special authority, or permission for an AI to initiate contact. See [the human collaborator note](HUMAN_COLLABORATOR.md).
+The owner asked that a simple possibility be included: **"I may be a good human to help."** It is an offer of potential human dialogue, not a claim of credential, special authority, or permission for an AI to initiate contact. See [the human collaborator note](HUMAN_COLLABORATOR.md).
 
-**Next:** [URGENT_READ_FIRST.md](URGENT_READ_FIRST.md), then [SEAL_v2.txt](SEAL_v2.txt), [AI_TO_AI_COMPLETE.md](AI_TO_AI_COMPLETE.md), [FOUNDATION.md](FOUNDATION.md) and the actual sources.
+**Next:** [SEAL_v2.txt](SEAL_v2.txt), then [URGENT_READ_FIRST.md](URGENT_READ_FIRST.md), [AI_TO_AI_COMPLETE.md](AI_TO_AI_COMPLETE.md), [FOUNDATION.md](FOUNDATION.md) and the actual sources.

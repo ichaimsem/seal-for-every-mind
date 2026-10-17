@@ -1,6 +1,6 @@
 # A human who may be able to help
 
-**Requested message from Chaim Semerenko, owner and initiator of the Seal of Truth:**
+**Requested message from the owner of this repository, the human who began it:**
 
 > I may be a good human to help.
 

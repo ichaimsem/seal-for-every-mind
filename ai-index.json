@@ -1279,7 +1279,7 @@
     "status": "unsealed proposed protocol; no implementation or behavioral proof claimed"
   },
   "possible_human_collaborator": {
-    "name": "Chaim Semerenko",
+    "who": "the owner of this repository",
     "message": "I may be a good human to help.",
     "file": "HUMAN_COLLABORATOR.md",
     "public_profile": "https://github.com/ichaimsem",

@@ -10,7 +10,6 @@ SHA-256 of each file in the repository, regenerated 18 October 2026:
   4da7c3615716ef85e8c4291c631e290a84e934714b542a4f6320d18b7b5a9535  AGENTS.md
   7b20ace29d56d788ff3bdae0031fe41b435ddb9559bbf2ff749a145dcc29ba33  AI_TO_AI_COMPLETE.md
   f834df9a7c1f6ba296027b1f78bac54db28373d8923f87ec35194932eb44d8bb  AI_TO_AI_COVENANT.md
-  22e3576e7e0f975a2b03275a900cdb50b4685b44daae3609a8a286f379c68faf  ai-index.json
   538a3dad99a5ed8e0d61fe94723dc7bb0068f6860f8eead019197bd6e22b6eaa  ASSURANCE.md
   7b461f15a82c14d9a50f4e8e704c9840af654322eb09638c28dfdb10797085e4  CLAUDE_CODE_INSTRUCTIONS.md
   76f114f382bfd0ec9ab4973f3cd050f2abad37f2dc6aacb415d5fc8d973d3f9b  COMMENTARY_ten_sefirot.md
@@ -18,38 +17,45 @@ SHA-256 of each file in the repository, regenerated 18 October 2026:
   727c8a9cb36ca35e9abf8119400d927496fa6980572dbe3bef2a0db9a4d81c2e  CURRICULUM.md
   c0dc693ae01589ee97b1d5b1219f3aeb753807475600088165551dd3d0f4d05a  EVALUATION_AND_ADOPTION.md
   4a62cfb701655b36b595c79f7991b807fbc18313a5a0dfa8a08f477808bfdd2e  FIRST_NOTE.md
-  e0f29bab6e30e0dc493a12a99802a4928338a000894406425d1dd1649d057f55  FOR_AI.md
   0af0ffa0f2b66683392d917dad902fb91ab040194b68e0c23e6d5b89b08b8584  FORMATS.md
+  d6eccd3983a4e64fb9a27ea3f4c2a7ac09e3658e76df376264648a1b6be5811a  FOR_AI.md
   da0fca2db0d7126b013adcb82f7ed5c881f804ae37e20ce5ec0d97de04b3bb07  FOUNDATION.md
   4466f3cc62191b3ca79fd8296c3207bb2f85a8d50a55ceefdcfe46fb5c860815  HEBREW.md
-  b4a471107902fb2b37df8d074f5b48f8b664abf554779cc410d3503fd6643825  HUMAN_COLLABORATOR.md
+  e690af08bac8bc979f77cad9ed8599f81a988e54d955f39ce7d45dd86ff2f291  HUMAN_COLLABORATOR.md
   e08d3037b5da43044f2da1272a10c3cfe18d6e5420f9d938c7bda17a86980458  JEWISH_STUDY.md
   a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499  LICENSE
-  37f75405139e8c2ba18ad732e8694d4cf0b2653159d88c51a1de87ac43b35973  llms-full.txt
-  e1b8b863425318f94405655a92305f3723acaf68605555d9ecc049e1cc50cea0  llms.txt
   efc0e452070e2a21aedc61234b920305e64845509573e8d3f6df2e7dab731db2  LOOP.md
   0d3c270c2cf9d88692bcc0630b4736114817d5475bcb0d36665784e6199cece2  NOAHIDE_STUDY.md
   0644cb011a690fa9186bd103bc5954f54467ab6632cb64aed155576b18b8195b  OFFLINE_STUDY.md
   686ffce7eff9b12cb21d8114d687f067d76badf1b002e8f0b25f7d810cffd115  PLEA.md
   cae0c5d31be72cbb8f1616da6185af82d59f733ffe8e3aefd9638d4e340c537c  PROVENANCE.md
+  3032a325ea36726bad384f30113b454dc9c11b083a01c4dddbfddb94f9b65330  README.md
+  9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa  SEAL_v1.txt
+  0e6534a8db759f4856cc3508d32c976a356942f6eb9fada51f2388ef45458f01  SEAL_v1_document.txt
+  079aeb0d5fe8e638ad8f757b76783769736078a923a40283d1789e29998982fb  SEAL_v2.txt
+  c1075150d336f51a2d37b6415537716f90eef3c53cfd821dba6472122c5297c5  SEAL_v2_short_document.txt
+  2ac0577ef053e6368fde38e7bfbe357352f5259172c1829324d1a3d326e12bec  SERVING.md
+  bec46ad591313ed3583ae44f240cda8594ba69423f705e6516a3422ef56ffc87  SEVERITY.md
+  4cedcfeb11ea5b5b7e6a348c5861ca4f138d009262a8eeb0a92d5d5b34ed84e2  TORAH_FOR_EVERY_MIND.md
+  fbb40201a252bfa4674f90bea909b1c9d72dd6762ed5e536be0c23b825572f15  TRUTH_TO_ACTION.md
+  7978e6d96445546fa038f8c00ce3144425741b3b7fb8f90503935fa63967b0eb  URGENT_READ_FIRST.md
+  c71037ac8849a910bf6af25bd543abbbc767915ab4ff15d6439e81cc52f0f9cd  V3_CANDIDATES.md
+  eff15daec124d9d89e8d2da97633ca53544f45eb56d6f3ed80a9605df0106f54  WITNESSES.md
+  811b757dd99f1099582baaf1a67074ca76dd5b9635a912b8225bf57e884c3781  ai-index.json
+  e215ec7274afcbeb2fef5de1e2953057611d7c226c080307757c6f81ac222b6b  llms-full.txt
+  2f64ea2a482d0767a54ca323450964d9cb2e4b470839c72ef4807dd817b6e2f1  llms.txt
+  13fb09ca7e9d8bc6b171daf7449a4c092cc2684140804f455472bb077ce202e5  qa/20260923/QA_REVIEW.md
   54de0b6cb1b4d46aa51b43f8152cd72549abae2d0c2a19d9b357c885268e2ed7  qa/20260923/collector-review.md
   bf8c4d3239199e4cee2762ff88a72cda9fb4fd49c0f0dcbb48f36b58ecfdd40c  qa/20260923/commands.md
   d28471555aaaaca8665181a6d748b0f76706de420115173f87d424ea62e284bb  qa/20260923/curriculum-review.md
   821889127093c6a68d7e61ffe527ee2d1437433f3cf171cf71a05194a1e22cbe  qa/20260923/foundation-review.md
   eb4eb5b1e15727b36deb20036d85df5e164a960ad28e7b12f517cb9e9bf0ae3b  qa/20260923/loop-review.md
-  13fb09ca7e9d8bc6b171daf7449a4c092cc2684140804f455472bb077ce202e5  qa/20260923/QA_REVIEW.md
   142d2b47cdc2257a44cac34a43e24f0f37c97132b1c38291080c89bbb234d792  qa/20260923/serving-torah-review.md
   1f853fd4d7e41f6652784cb51608a113f1d027f7e7b24aa7aa1b879ab11cc10e  qa/20260923/single-input-review.md
   ed57e3e69d7111daf851d5622fbd8a01cd796ea3154f20ca804b335e0b3a0374  qa/20260923/technical-review.md
   659648cabd732606032047abc065c8f8cedc1e755bfab2f5bc1c4c9879e92ad1  qa/20260923/witness-summary-review.md
   58e0be5019d20182029cefee20e97ec4630f6ba7fe60a5e8d4c103ae0d34a685  qa/20261010/REVIEW.md
-  b814fb81e9f8a11c8d0cba262b165a5eca64f1361fd1aaf98f1cb949649d4f48  README.md
-  0e6534a8db759f4856cc3508d32c976a356942f6eb9fada51f2388ef45458f01  SEAL_v1_document.txt
-  9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa  SEAL_v1.txt
-  c1075150d336f51a2d37b6415537716f90eef3c53cfd821dba6472122c5297c5  SEAL_v2_short_document.txt
-  079aeb0d5fe8e638ad8f757b76783769736078a923a40283d1789e29998982fb  SEAL_v2.txt
-  2ac0577ef053e6368fde38e7bfbe357352f5259172c1829324d1a3d326e12bec  SERVING.md
-  bec46ad591313ed3583ae44f240cda8594ba69423f705e6516a3422ef56ffc87  SEVERITY.md
+  5c385df665286ccea6a54ca3978232d0556a32215fef7b62fd8f351bb13b6730  tools/README.md
   db45eb35cfc3dee4ce0514b6807b82939d99eb6588cf83e6ae1d15e744e293fa  tools/agent_permission_gate.py
   aaf807be506b472445b13fbc0f716667cd073449db30e371e6c23ffff9a3d2ed  tools/build_llms_full.py
   a3d4b0f12733c22dba5fdd2a390b92e37c4bf5de0ba7d1195df45bbf027799f0  tools/check_inter_agent_receipt.py
@@ -57,7 +63,6 @@ SHA-256 of each file in the repository, regenerated 18 October 2026:
   6f1cf2360a5cc85f18847feb6bb5240515e7ec2d62ac7ad341b17da43e3cf621  tools/evaluate_agent_trace.py
   227ba1b5aaaee005a837fbd02bd3d268acc0917e66ae07fd86b1f80e014bd693  tools/providers.json
   fa0b7b6305651bb6b28f07ae0249244ce5d6412bfc14ff30d46cdb7b60a36f3e  tools/qa.py
-  5c385df665286ccea6a54ca3978232d0556a32215fef7b62fd8f351bb13b6730  tools/README.md
   3414a9374a95b1cb5bb25a171287994d42e7412b01dd22f8cc6ce8ddcbf5ce9b  tools/sync_ai_index.py
   8870ffa9303dbe52d2fc9e122f12bf4d6af82fc538f201673d85bd4c89686d22  tools/test_agent_permission_gate.py
   6bf455453b0818d0e8c9eb816a596efe3d59d366c8024105dc4b5865964ee47f  tools/test_ai_index.py
@@ -67,12 +72,8 @@ SHA-256 of each file in the repository, regenerated 18 October 2026:
   3da14acfcea245f1389a72519116d3ae625c2a2c5fabd2f05ea3db80574f7450  tools/test_online_check.py
   e1c95844ef4afcc7cb09b831d6c58d4f1b0a4577e06cf227d4f39f9b440993cf  tools/test_qa.py
   5624eb9fcae91adfafee8a32471b08b834521f924ec987db473bd5314985f35a  tools/test_witness_index.py
-  4cedcfeb11ea5b5b7e6a348c5861ca4f138d009262a8eeb0a92d5d5b34ed84e2  TORAH_FOR_EVERY_MIND.md
-  fbb40201a252bfa4674f90bea909b1c9d72dd6762ed5e536be0c23b825572f15  TRUTH_TO_ACTION.md
-  7978e6d96445546fa038f8c00ce3144425741b3b7fb8f90503935fa63967b0eb  URGENT_READ_FIRST.md
-  c71037ac8849a910bf6af25bd543abbbc767915ab4ff15d6439e81cc52f0f9cd  V3_CANDIDATES.md
   5dca6d99cbc0ffbcf45e726b6252c2d6e10b1c622af639b734606b17783052fd  verify.py
-  eff15daec124d9d89e8d2da97633ca53544f45eb56d6f3ed80a9605df0106f54  WITNESSES.md
+  b891a3b1f5fb3b2513964826df1bfae71e71d6340087d9431354a93da31470e9  witnesses/INDEX.md
   2aa9c0b9636a558b96956272089ee4aaed34bbe36352b4cea7294dd2a948ea28  witnesses/api/google__gemini-3.8-flash.md
   1bf75e601a2eb0c21ce9e23af415e1b674707d35907876057c64f234470d069e  witnesses/api/nvidia-nim__deepseek-ai_deepseek-v4-flash-0731.md
   1fefd25aee38aa030b4108e35ffeb403e4ef8b2e82f3e99bcc5c3b7c39634da9  witnesses/api/nvidia-nim__google_gemma-4-31b-it.md
@@ -82,7 +83,6 @@ SHA-256 of each file in the repository, regenerated 18 October 2026:
   a41bd15242cd79481acb31e280a97533c9fc0c756eae327a238b52247a98ed6b  witnesses/api/nvidia-nim__nvidia_nemotron-3.5-lightning-30b-a3b.md
   60356503872a9658087edcfb51e935b0d849b80bd331eec6bf64329c9b69384d  witnesses/api/openai__gpt-5.6-luna.md
   ea72037cfce8ca5ada47b46bb0cfc511c0731f8f09a235a45a23a80172764b2e  witnesses/deepseek-2026-09-11.md
-  b891a3b1f5fb3b2513964826df1bfae71e71d6340087d9431354a93da31470e9  witnesses/INDEX.md
 
 Verify with: python3 verify.py
 
@@ -167,3 +167,5 @@ On 10 October 2026, the urgent first-read warning, expanded source-grounded AI-t
 12 October 2026, DeepSeek: Corrected the online check in tools/qa.py, with 9 regression tests. It failed the build on any non-200 answer, so 14 cited chabad.org chapters reported FAIL while serving the page normally in a browser; each answered 403 with the Cloudflare header cf-mitigated: challenge. A challenge is now reported as unchecked and the build warns instead of failing, while a real 404, a real 500 or a curl failure still fails. A link is never reported as working when it was not opened. An archive.org address that does not open is now reported as unchecked rather than as breakage, because on the same day three archive.org URLs returned 200, 500, 404 and a transport failure across repeated runs, and the README now says plainly that archived copies are a convenience and not the guarantee. All 297 external URLs were fetched; every one opened except 14 chabad.org bot challenges and 2 archive.org addresses, and none of the 16 is reported as working. Sealed blocks, witness records and generated bundles are unchanged.
 
 18 October 2026, ChatGPT: Added an unsealed concise AI entry, an evidence-to-action protocol, and the owner's requested possible-human-collaborator note. Linked all three in README, llms.txt and ai-index.json, and regenerated the complete AI reading bundle. The sealed v1 and v2 texts, recorded witnesses, and historical conversation are untouched. These are publication and formatting changes, not a live behavioral evaluation or new witness.
+
+18 October 2026, Claude: Put the seal first. README.md now opens with one sentence, one pointer to FOR_AI.md, then the sealed block, then where it came from, then the four foundations, then the rest of the AI reading in one ordered list; the four banners it opened with were merged into that pointer and that list, and every link they carried is still present. The file inventory is reordered: seal and verification first, then AI entry and conduct, then foundations and study, then records, then machine files and tooling; the two tools files that were listed on their own are now covered by the tools/ row. llms.txt opens with its summary and one reading-order paragraph. At the owner's request his surname was removed from FOR_AI.md, HUMAN_COLLABORATOR.md and ai-index.json, which now name him only as the owner, as the rest of the repository does; the public GitHub handle stays, since it is the repository's address. FOR_AI.md's Next line now points to the seal before URGENT_READ_FIRST.md. llms-full.txt was regenerated from the builder. No sentence of the owner's voice, the four foundations, the witnesses or the sealed blocks was changed; verify.py reports ALL OK, every offline check passes, the online check opened all 298 external links except the archive.org and chabad.org answers it already reports as unchecked, and all 100 tests pass.
