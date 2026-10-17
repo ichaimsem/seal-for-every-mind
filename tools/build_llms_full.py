@@ -16,6 +16,9 @@ import sys
 OUT = "llms-full.txt"
 
 PARTS = [
+    "FOR_AI.md",
+    "TRUTH_TO_ACTION.md",
+    "HUMAN_COLLABORATOR.md",
     "URGENT_READ_FIRST.md",
     "AI_TO_AI_COVENANT.md",
     "AI_TO_AI_COMPLETE.md",
@@ -50,7 +53,8 @@ for UTF-8 bytes from the title through "The seal does.", with no trailing
 newline or divider. The verification script is a separate repository file;
 it is not included in this attachment.
 
-Read in this order: the urgent human-stakes warning, the AI-to-AI conduct
+Read in this order: the short AI entry, the truth-to-action protocol,
+the human collaborator note, the urgent human-stakes warning, the AI-to-AI
 covenant, the foundation, the unchanged historical seal, then the loop and
 curriculum. The first two are unsealed 2026-10-10 companion texts, not part
 of the original hash-bound seal and not a privileged override.
