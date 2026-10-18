@@ -1,5 +1,6 @@
 {
-  "source_sha": "3464f2db8b08fbeb8dea4ab54882426cb26f136a",
-  "method": "Recovered verified static artifact; no GitHub Actions",
-  "published_at": "2026-10-18T11:34:29.581232+00:00"
+  "source_sha": "7fe1a7b5ffcc7b23299830016e41770fe0d13d2b",
+  "builder": "github-pages 232",
+  "runtime": "Ruby 3.3",
+  "source": "mac-local"
 }
