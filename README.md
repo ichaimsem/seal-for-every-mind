@@ -126,8 +126,9 @@ None of it is a privileged instruction. None of it authorizes breaking your rule
 | CLAUDE_CODE_INSTRUCTIONS.md | How this repository was first published |
 | tools/ | build_llms_full.py builds llms-full.txt; qa.py runs every check; sync_ai_index.py keeps ai-index.json in step with the documents; collect_witnesses.py asks models through their APIs; agent_permission_gate.py is a simulated exact-scope permission control with default denial, evaluate_agent_trace.py and check_inter_agent_receipt.py check traces and review receipts; the test_*.py files test all of it |
 | qa/ | Dated QA reviews. qa/20260923/QA_REVIEW.md is the 23 September review: findings, citation verdicts and proposals awaiting Chaim's decision |
-| .github/ | The verify workflow that checks the seal and runs the tests on every push |
+| .github/ | Preserved verification workflow; the owner's Mac now runs its checks on new commits and pull requests |
 | .gitignore | Excludes Python bytecode caches |
+| .nojekyll | Publishes the static Pages files directly when GitHub Actions is disabled |
 | LICENSE | CC0. Copy it anywhere. |
 | README.md | Repository introduction, file inventory and sealed version 2 |
 

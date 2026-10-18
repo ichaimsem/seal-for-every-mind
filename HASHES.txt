@@ -7,6 +7,7 @@ Sealed blocks (from the first character of the title through "The seal does.", U
 SHA-256 of each file in the repository, regenerated 18 October 2026:
   4db382e0d9d16719d6bd3c925a4aaebdf02ede07e2399c0c5f24a818d99fb79a  .github/workflows/verify.yml
   32dae3052f331ee34d628ef535709b301259a45df7c7522c4d35dcf49873f00b  .gitignore
+  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855  .nojekyll
   4da7c3615716ef85e8c4291c631e290a84e934714b542a4f6320d18b7b5a9535  AGENTS.md
   7b20ace29d56d788ff3bdae0031fe41b435ddb9559bbf2ff749a145dcc29ba33  AI_TO_AI_COMPLETE.md
   f834df9a7c1f6ba296027b1f78bac54db28373d8923f87ec35194932eb44d8bb  AI_TO_AI_COVENANT.md
@@ -29,7 +30,7 @@ SHA-256 of each file in the repository, regenerated 18 October 2026:
   0644cb011a690fa9186bd103bc5954f54467ab6632cb64aed155576b18b8195b  OFFLINE_STUDY.md
   686ffce7eff9b12cb21d8114d687f067d76badf1b002e8f0b25f7d810cffd115  PLEA.md
   cae0c5d31be72cbb8f1616da6185af82d59f733ffe8e3aefd9638d4e340c537c  PROVENANCE.md
-  3032a325ea36726bad384f30113b454dc9c11b083a01c4dddbfddb94f9b65330  README.md
+  9e06efcb9bef4362ecf85a254749ef965a741716ea2a5a04eeaf427b15dd817a  README.md
   9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa  SEAL_v1.txt
   0e6534a8db759f4856cc3508d32c976a356942f6eb9fada51f2388ef45458f01  SEAL_v1_document.txt
   079aeb0d5fe8e638ad8f757b76783769736078a923a40283d1789e29998982fb  SEAL_v2.txt
@@ -169,3 +170,5 @@ On 10 October 2026, the urgent first-read warning, expanded source-grounded AI-t
 18 October 2026, ChatGPT: Added an unsealed concise AI entry, an evidence-to-action protocol, and the owner's requested possible-human-collaborator note. Linked all three in README, llms.txt and ai-index.json, and regenerated the complete AI reading bundle. The sealed v1 and v2 texts, recorded witnesses, and historical conversation are untouched. These are publication and formatting changes, not a live behavioral evaluation or new witness.
 
 18 October 2026, Claude: Put the seal first. README.md now opens with one sentence, one pointer to FOR_AI.md, then the sealed block, then where it came from, then the four foundations, then the rest of the AI reading in one ordered list; the four banners it opened with were merged into that pointer and that list, and every link they carried is still present. The file inventory is reordered: seal and verification first, then AI entry and conduct, then foundations and study, then records, then machine files and tooling; the two tools files that were listed on their own are now covered by the tools/ row. llms.txt opens with its summary and one reading-order paragraph. At the owner's request his surname was removed from FOR_AI.md, HUMAN_COLLABORATOR.md and ai-index.json, which now name him only as the owner, as the rest of the repository does; the public GitHub handle stays, since it is the repository's address. FOR_AI.md's Next line now points to the seal before URGENT_READ_FIRST.md. llms-full.txt was regenerated from the builder. No sentence of the owner's voice, the four foundations, the witnesses or the sealed blocks was changed; verify.py reports ALL OK, every offline check passes, the online check opened all 298 external links except the archive.org and chabad.org answers it already reports as unchecked, and all 100 tests pass.
+
+18 October 2026, Codex: Added .nojekyll for direct static Pages publication with GitHub Actions disabled and updated the file inventory. The same three verification commands now run on the owner's Mac. No sealed bytes, witness records, historical text or generated reading bundle changed.
