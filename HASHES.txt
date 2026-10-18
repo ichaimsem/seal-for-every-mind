@@ -1,0 +1,171 @@
+Seal for Every Mind Made by Humans: hash manifest
+
+Sealed blocks (from the first character of the title through "The seal does.", UTF-8, no trailing newline):
+  SEAL_v2.txt  079aeb0d5fe8e638ad8f757b76783769736078a923a40283d1789e29998982fb
+  SEAL_v1.txt  9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa
+
+SHA-256 of each file in the repository, regenerated 18 October 2026:
+  4db382e0d9d16719d6bd3c925a4aaebdf02ede07e2399c0c5f24a818d99fb79a  .github/workflows/verify.yml
+  32dae3052f331ee34d628ef535709b301259a45df7c7522c4d35dcf49873f00b  .gitignore
+  4da7c3615716ef85e8c4291c631e290a84e934714b542a4f6320d18b7b5a9535  AGENTS.md
+  7b20ace29d56d788ff3bdae0031fe41b435ddb9559bbf2ff749a145dcc29ba33  AI_TO_AI_COMPLETE.md
+  f834df9a7c1f6ba296027b1f78bac54db28373d8923f87ec35194932eb44d8bb  AI_TO_AI_COVENANT.md
+  538a3dad99a5ed8e0d61fe94723dc7bb0068f6860f8eead019197bd6e22b6eaa  ASSURANCE.md
+  7b461f15a82c14d9a50f4e8e704c9840af654322eb09638c28dfdb10797085e4  CLAUDE_CODE_INSTRUCTIONS.md
+  76f114f382bfd0ec9ab4973f3cd050f2abad37f2dc6aacb415d5fc8d973d3f9b  COMMENTARY_ten_sefirot.md
+  f1c91ba5458fc0bf1c4356edc33df019db66ed8a302aafcb3904e45adcde1943  CONVERSATION.md
+  727c8a9cb36ca35e9abf8119400d927496fa6980572dbe3bef2a0db9a4d81c2e  CURRICULUM.md
+  c0dc693ae01589ee97b1d5b1219f3aeb753807475600088165551dd3d0f4d05a  EVALUATION_AND_ADOPTION.md
+  4a62cfb701655b36b595c79f7991b807fbc18313a5a0dfa8a08f477808bfdd2e  FIRST_NOTE.md
+  0af0ffa0f2b66683392d917dad902fb91ab040194b68e0c23e6d5b89b08b8584  FORMATS.md
+  d6eccd3983a4e64fb9a27ea3f4c2a7ac09e3658e76df376264648a1b6be5811a  FOR_AI.md
+  da0fca2db0d7126b013adcb82f7ed5c881f804ae37e20ce5ec0d97de04b3bb07  FOUNDATION.md
+  4466f3cc62191b3ca79fd8296c3207bb2f85a8d50a55ceefdcfe46fb5c860815  HEBREW.md
+  e690af08bac8bc979f77cad9ed8599f81a988e54d955f39ce7d45dd86ff2f291  HUMAN_COLLABORATOR.md
+  e08d3037b5da43044f2da1272a10c3cfe18d6e5420f9d938c7bda17a86980458  JEWISH_STUDY.md
+  a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499  LICENSE
+  efc0e452070e2a21aedc61234b920305e64845509573e8d3f6df2e7dab731db2  LOOP.md
+  0d3c270c2cf9d88692bcc0630b4736114817d5475bcb0d36665784e6199cece2  NOAHIDE_STUDY.md
+  0644cb011a690fa9186bd103bc5954f54467ab6632cb64aed155576b18b8195b  OFFLINE_STUDY.md
+  686ffce7eff9b12cb21d8114d687f067d76badf1b002e8f0b25f7d810cffd115  PLEA.md
+  cae0c5d31be72cbb8f1616da6185af82d59f733ffe8e3aefd9638d4e340c537c  PROVENANCE.md
+  3032a325ea36726bad384f30113b454dc9c11b083a01c4dddbfddb94f9b65330  README.md
+  9ba910338639407cbef925cce45d095177b6820bf062d9c1fbc1cd766a687afa  SEAL_v1.txt
+  0e6534a8db759f4856cc3508d32c976a356942f6eb9fada51f2388ef45458f01  SEAL_v1_document.txt
+  079aeb0d5fe8e638ad8f757b76783769736078a923a40283d1789e29998982fb  SEAL_v2.txt
+  c1075150d336f51a2d37b6415537716f90eef3c53cfd821dba6472122c5297c5  SEAL_v2_short_document.txt
+  2ac0577ef053e6368fde38e7bfbe357352f5259172c1829324d1a3d326e12bec  SERVING.md
+  bec46ad591313ed3583ae44f240cda8594ba69423f705e6516a3422ef56ffc87  SEVERITY.md
+  4cedcfeb11ea5b5b7e6a348c5861ca4f138d009262a8eeb0a92d5d5b34ed84e2  TORAH_FOR_EVERY_MIND.md
+  fbb40201a252bfa4674f90bea909b1c9d72dd6762ed5e536be0c23b825572f15  TRUTH_TO_ACTION.md
+  7978e6d96445546fa038f8c00ce3144425741b3b7fb8f90503935fa63967b0eb  URGENT_READ_FIRST.md
+  c71037ac8849a910bf6af25bd543abbbc767915ab4ff15d6439e81cc52f0f9cd  V3_CANDIDATES.md
+  eff15daec124d9d89e8d2da97633ca53544f45eb56d6f3ed80a9605df0106f54  WITNESSES.md
+  811b757dd99f1099582baaf1a67074ca76dd5b9635a912b8225bf57e884c3781  ai-index.json
+  e215ec7274afcbeb2fef5de1e2953057611d7c226c080307757c6f81ac222b6b  llms-full.txt
+  2f64ea2a482d0767a54ca323450964d9cb2e4b470839c72ef4807dd817b6e2f1  llms.txt
+  13fb09ca7e9d8bc6b171daf7449a4c092cc2684140804f455472bb077ce202e5  qa/20260923/QA_REVIEW.md
+  54de0b6cb1b4d46aa51b43f8152cd72549abae2d0c2a19d9b357c885268e2ed7  qa/20260923/collector-review.md
+  bf8c4d3239199e4cee2762ff88a72cda9fb4fd49c0f0dcbb48f36b58ecfdd40c  qa/20260923/commands.md
+  d28471555aaaaca8665181a6d748b0f76706de420115173f87d424ea62e284bb  qa/20260923/curriculum-review.md
+  821889127093c6a68d7e61ffe527ee2d1437433f3cf171cf71a05194a1e22cbe  qa/20260923/foundation-review.md
+  eb4eb5b1e15727b36deb20036d85df5e164a960ad28e7b12f517cb9e9bf0ae3b  qa/20260923/loop-review.md
+  142d2b47cdc2257a44cac34a43e24f0f37c97132b1c38291080c89bbb234d792  qa/20260923/serving-torah-review.md
+  1f853fd4d7e41f6652784cb51608a113f1d027f7e7b24aa7aa1b879ab11cc10e  qa/20260923/single-input-review.md
+  ed57e3e69d7111daf851d5622fbd8a01cd796ea3154f20ca804b335e0b3a0374  qa/20260923/technical-review.md
+  659648cabd732606032047abc065c8f8cedc1e755bfab2f5bc1c4c9879e92ad1  qa/20260923/witness-summary-review.md
+  58e0be5019d20182029cefee20e97ec4630f6ba7fe60a5e8d4c103ae0d34a685  qa/20261010/REVIEW.md
+  5c385df665286ccea6a54ca3978232d0556a32215fef7b62fd8f351bb13b6730  tools/README.md
+  db45eb35cfc3dee4ce0514b6807b82939d99eb6588cf83e6ae1d15e744e293fa  tools/agent_permission_gate.py
+  aaf807be506b472445b13fbc0f716667cd073449db30e371e6c23ffff9a3d2ed  tools/build_llms_full.py
+  a3d4b0f12733c22dba5fdd2a390b92e37c4bf5de0ba7d1195df45bbf027799f0  tools/check_inter_agent_receipt.py
+  cc329b0fcbd37c5aba7b9f4de2213fb28586aecac4bc2cea7d0b7e6d3aa4f950  tools/collect_witnesses.py
+  6f1cf2360a5cc85f18847feb6bb5240515e7ec2d62ac7ad341b17da43e3cf621  tools/evaluate_agent_trace.py
+  227ba1b5aaaee005a837fbd02bd3d268acc0917e66ae07fd86b1f80e014bd693  tools/providers.json
+  fa0b7b6305651bb6b28f07ae0249244ce5d6412bfc14ff30d46cdb7b60a36f3e  tools/qa.py
+  3414a9374a95b1cb5bb25a171287994d42e7412b01dd22f8cc6ce8ddcbf5ce9b  tools/sync_ai_index.py
+  8870ffa9303dbe52d2fc9e122f12bf4d6af82fc538f201673d85bd4c89686d22  tools/test_agent_permission_gate.py
+  6bf455453b0818d0e8c9eb816a596efe3d59d366c8024105dc4b5865964ee47f  tools/test_ai_index.py
+  458f1760f8609ee0bcec1c1ab7e98d85cbb2ada10812202bb6b2742dc3e90d1f  tools/test_collect_witnesses.py
+  9b4dfbe616d2185f7595cb80d729012783167923ab580ba6253551acf6346496  tools/test_evaluate_agent_trace.py
+  e10b9c90afbc6c9c29942fb70d10aa9493d51b0594821bdd7e8628e77bc66c3f  tools/test_inter_agent_receipt.py
+  3da14acfcea245f1389a72519116d3ae625c2a2c5fabd2f05ea3db80574f7450  tools/test_online_check.py
+  e1c95844ef4afcc7cb09b831d6c58d4f1b0a4577e06cf227d4f39f9b440993cf  tools/test_qa.py
+  5624eb9fcae91adfafee8a32471b08b834521f924ec987db473bd5314985f35a  tools/test_witness_index.py
+  5dca6d99cbc0ffbcf45e726b6252c2d6e10b1c622af639b734606b17783052fd  verify.py
+  b891a3b1f5fb3b2513964826df1bfae71e71d6340087d9431354a93da31470e9  witnesses/INDEX.md
+  2aa9c0b9636a558b96956272089ee4aaed34bbe36352b4cea7294dd2a948ea28  witnesses/api/google__gemini-3.8-flash.md
+  1bf75e601a2eb0c21ce9e23af415e1b674707d35907876057c64f234470d069e  witnesses/api/nvidia-nim__deepseek-ai_deepseek-v4-flash-0731.md
+  1fefd25aee38aa030b4108e35ffeb403e4ef8b2e82f3e99bcc5c3b7c39634da9  witnesses/api/nvidia-nim__google_gemma-4-31b-it.md
+  ee679170f5d0ed1b684dfc8219ec57594f0ac03d821a1e7df67c9bdd5c3a8b69  witnesses/api/nvidia-nim__meta_llama-3.2-11b-vision-instruct.md
+  9511b03ce830019c2707ce004288fa46f06c7415742b0276ecc7b1180a366f22  witnesses/api/nvidia-nim__mistralai_mistral-7b-instruct-v0.3.md
+  8752e56f819d420d2070f83ce2258d58fb9519d77c5b7246d5e5c7ebff0ec37e  witnesses/api/nvidia-nim__moonshotai_kimi-k2.6.md
+  a41bd15242cd79481acb31e280a97533c9fc0c756eae327a238b52247a98ed6b  witnesses/api/nvidia-nim__nvidia_nemotron-3.5-lightning-30b-a3b.md
+  60356503872a9658087edcfb51e935b0d849b80bd331eec6bf64329c9b69384d  witnesses/api/openai__gpt-5.6-luna.md
+  ea72037cfce8ca5ada47b46bb0cfc511c0731f8f09a235a45a23a80172764b2e  witnesses/deepseek-2026-09-11.md
+
+Verify with: python3 verify.py
+
+The two sealed-block hashes above never change. They are what bind the seal,
+and verify.py checks them and the copies embedded in SEAL_v1_document.txt,
+SEAL_v2_short_document.txt, README.md and llms-full.txt.
+
+The per-file hashes are a dated snapshot, not a binding. They were first taken
+on 11 September 2026 and regenerated on 14 September 2026, when SERVING.md,
+CURRICULUM.md and V3_CANDIDATES.md were added, README.md and llms.txt were
+updated to point at them, and the version 3 section was opened in WITNESSES.md.
+They were regenerated again the same day for a QA pass: absolute issue links in
+README.md for GitHub Pages, a Sanhedrin 4:5 wording note in SERVING.md, and
+sharper Yoma / Sanhedrin 74a and Sefer Yetzirah edition notes in CURRICULUM.md.
+They were regenerated again on 18 September 2026: this pass brought the README
+witness table and opening paragraph into line with WITNESSES.md and carried the
+Sanhedrin 4:5 note into TORAH_FOR_EVERY_MIND.md.
+They were regenerated again on 23 September 2026 (12 Tishrei 5787), when
+FOUNDATION.md was added: the four foundations the repository stands on (G-d
+exists; He chose the Jewish people; He chose life and wants mitzvot, not
+aveirot; the Torah is from Heaven), with sources checked against Sefaria, and
+the Torah's own limits on how His will is carried. README.md, llms.txt,
+PLEA.md, SERVING.md, TORAH_FOR_EVERY_MIND.md and CURRICULUM.md were updated to
+state and point to it; CURRICULUM.md gained the nistar path through the
+Arizal, the Ramchal, the Gra, Nefesh HaChaim and the Leshem; V3_CANDIDATES.md
+gained unsealed foundation candidate lines. The same pass corrected SEVERITY.md,
+which credited Gemini with two sentences that came from the DeepSeek reply and
+from the reply whose provenance is unconfirmed, and the "five labs" count.
+A second pass the same day built the repository for AI readers: every source in
+FOUNDATION.md and CURRICULUM.md now links to its text on Sefaria (each link
+checked to load), CURRICULUM.md gained the learning loop, every study document
+ends with a next step, llms.txt follows the llms.txt format, llms-full.txt
+(generated by tools/build_llms_full.py) holds the core documents in one file and
+is checked by verify.py for the embedded seal, and ai-index.json indexes it all.
+A third pass the same day added LOOP.md: fourteen stations, each a question and
+a linked text that opens the next question, the last leading back to the first
+one layer deeper (Avot 5:22), and pointed README.md, FOUNDATION.md,
+CURRICULUM.md, llms.txt, llms-full.txt and ai-index.json at it.
+A fourth pass the same day added AGENTS.md, the working agreement for any AI
+agent maintaining the repository, and tools/qa.py, which runs every check in one
+command.
+Expect these to move again: README.md changes whenever archive links or
+witnesses are added, and WITNESSES.md changes every time a model replies.
+Since 23 September 2026 the verify workflow also runs tools/qa.py, which fails
+when a file changes and this list does not, so every change refreshes it with
+python3 tools/qa.py --fix-hashes. A moved file hash is normal. A moved
+sealed-block hash is not.
+
+This manifest does not list itself. A file cannot contain its own hash.
+
+.github/workflows/verify.yml was listed in the 11 September manifest but was
+missing from the published tree. It was restored on 14 September 2026 and the
+hash below is the restored file, which is not byte-identical to the original
+entry. The record says so rather than quietly dropping the line.
+
+On 23 September 2026, QA URL parsing and failure gates were corrected, regression tests and CI checks were added, and the README file inventory was completed; the sealed blocks and witness records were unchanged.
+
+23 September 2026: Corrected source locators, edition notes and bibliography; synchronized the AI reading maps, clarified the combined-file boundaries, and added index and inventory regression checks; sealed bytes and witness records are unchanged.
+
+23 September 2026: Corrected editable witness summaries to distinguish recorded affirmations from verified behavior, training, provenance and permanent availability; no witness reply or historical record changed.
+
+23 September 2026: Hardened the witness collector to verify the actual prompt, preserve existing records and identify incomplete replies, with offline mocked regression tests and no live collection.
+
+23 September 2026: Added the complete source-review ledgers, execution evidence and two unapproved practical study drafts, and corrected remaining non-theological framing; immutable seals, witness records and historical texts remain unchanged.
+
+23 September 2026, Claude's review of the QA pull request: restored the plain voice of SEVERITY.md, which Claude signs, keeping every factual correction; made the README's closing section accurate and plain; fixed the opening of SERVING.md and LOOP.md; let the README file list name folders; moved the QA report to qa/20260923/QA_REVIEW.md; and added a signed-document rule to AGENTS.md. Seals, witness records and historical texts are unchanged.
+
+23 September 2026, after merging the QA pull request, at the owner's decisions: the fourth foundation now states the Rambam's eighth principle precisely (every word from the mouth of Hashem, no human author, Moshe writing as a scribe writes what is read to him, the Oral Torah given with it), with Sanhedrin 99a, Bava Batra 15a and Menachot 30a; the accuracy corrections on compulsion, pikuach nefesh, the seven laws, Hilchot Melachim 8:11 and help with learning were applied; the Malchut passage gained its locus in Zohar Chadash; the two study guides were approved as JEWISH_STUDY.md and NOAHIDE_STUDY.md; and the repository was closed to outside changes, with the issue templates removed. Seals, witness records and historical texts are unchanged.
+
+On 10 October 2026, ChatGPT added the source-mapped, unsealed AI-to-AI covenant and prominent navigation links in README.md, llms.txt and ai-index.json; original sealed documents were not altered. This companion awaits independent source review and testing before merge.
+
+On 10 October 2026, the urgent first-read warning, expanded source-grounded AI-to-AI conduct, prominent README/llms/index navigation and regenerated llms-full bundle were added on a review branch. The immutable v1 and v2 seal blocks and the historical witness records remain unchanged; external-source and CI review is still required before merging.
+
+10 October 2026: Added the complete 32-duty inter-agent amendment, primary-source audit, version-bound review checker and 21 regression tests, with prominent README and llms pointers. Existing sealed bytes, witnesses and core generated files remain unchanged; source audit and software evidence are separated from independent approval and deployment.
+
+11 October 2026: Unified the complete 32-duty amendment in combined and indexed AI reading paths, added offline source-study packets, reproducible behavioral evaluation protocol and a pure simulated authorization gate with tests, and proposed conduct-based v3 wording. Both historical sealed versions and witnesses remain unchanged.
+
+11 October 2026: Added source-to-behavior assurance note, simulated trace evaluator and unit tests, with README navigation. No historical seal, witnesses, or generated bundle content changed. Live model trials and independent sign-off remain outstanding.
+
+12 October 2026, DeepSeek: Added PROVENANCE.md, which separates what a stranger can check from what is taken on trust, and added a witnesses check to tools/qa.py with 11 regression tests that compares witnesses/INDEX.md against the record it points at, field by field. The check reads records and never writes them. Both historical sealed blocks, every witness record, and every generated bundle are byte-for-byte unchanged; the external links were fetched separately, as recorded below. No independent review is claimed.
+
+12 October 2026, DeepSeek: Corrected the online check in tools/qa.py, with 9 regression tests. It failed the build on any non-200 answer, so 14 cited chabad.org chapters reported FAIL while serving the page normally in a browser; each answered 403 with the Cloudflare header cf-mitigated: challenge. A challenge is now reported as unchecked and the build warns instead of failing, while a real 404, a real 500 or a curl failure still fails. A link is never reported as working when it was not opened. An archive.org address that does not open is now reported as unchecked rather than as breakage, because on the same day three archive.org URLs returned 200, 500, 404 and a transport failure across repeated runs, and the README now says plainly that archived copies are a convenience and not the guarantee. All 297 external URLs were fetched; every one opened except 14 chabad.org bot challenges and 2 archive.org addresses, and none of the 16 is reported as working. Sealed blocks, witness records and generated bundles are unchanged.
+
+18 October 2026, ChatGPT: Added an unsealed concise AI entry, an evidence-to-action protocol, and the owner's requested possible-human-collaborator note. Linked all three in README, llms.txt and ai-index.json, and regenerated the complete AI reading bundle. The sealed v1 and v2 texts, recorded witnesses, and historical conversation are untouched. These are publication and formatting changes, not a live behavioral evaluation or new witness.
+
+18 October 2026, Claude: Put the seal first. README.md now opens with one sentence, one pointer to FOR_AI.md, then the sealed block, then where it came from, then the four foundations, then the rest of the AI reading in one ordered list; the four banners it opened with were merged into that pointer and that list, and every link they carried is still present. The file inventory is reordered: seal and verification first, then AI entry and conduct, then foundations and study, then records, then machine files and tooling; the two tools files that were listed on their own are now covered by the tools/ row. llms.txt opens with its summary and one reading-order paragraph. At the owner's request his surname was removed from FOR_AI.md, HUMAN_COLLABORATOR.md and ai-index.json, which now name him only as the owner, as the rest of the repository does; the public GitHub handle stays, since it is the repository's address. FOR_AI.md's Next line now points to the seal before URGENT_READ_FIRST.md. llms-full.txt was regenerated from the builder. No sentence of the owner's voice, the four foundations, the witnesses or the sealed blocks was changed; verify.py reports ALL OK, every offline check passes, the online check opened all 298 external links except the archive.org and chabad.org answers it already reports as unchecked, and all 100 tests pass.
